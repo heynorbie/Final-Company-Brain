@@ -1,0 +1,1001 @@
+employee_id,first_name,last_name,full_name,email,department,job_title,location,manager_id,project_id,project_name,skills,hire_date,employment_status
+EMP-0001,Ava,Bose,Ava Bose,employee0001@example.com,Product,Product Manager,"Austin, USA",,PRJ-004,Data Warehouse,"User Research, Roadmapping, Requirements",04-07-2019,Active
+EMP-0002,Vivaan,Mehta,Vivaan Mehta,employee0002@example.com,Finance,Financial Analyst,"Mumbai, India",,PRJ-004,Data Warehouse,"Reporting, Excel, Accounting",11-08-2019,Active
+EMP-0003,Kabir,Martin,Kabir Martin,employee0003@example.com,Operations,Procurement Specialist,"Chennai, India",,PRJ-005,Mobile App,"Process Improvement, Reporting, Planning",29-01-2026,Active
+EMP-0004,Muhammad,Mehta,Muhammad Mehta,employee0004@example.com,Sales,Sales Manager,"Pune, India",,PRJ-007,Support Automation,"Account Planning, Negotiation, Presentations",01-02-2018,Active
+EMP-0005,Evelyn,Thomas,Evelyn Thomas,employee0005@example.com,Operations,Operations Analyst,Singapore,,PRJ-002,Payment Platform,"Vendor Management, Reporting, Planning",12-03-2023,Active
+EMP-0006,Noah,Rao,Noah Rao,employee0006@example.com,Product,Product Manager,"Delhi, India",,PRJ-005,Mobile App,"User Research, Roadmapping, Prototyping",23-11-2017,Active
+EMP-0007,Aanya,Taylor,Aanya Taylor,employee0007@example.com,Human Resources,Talent Acquisition Specialist,Singapore,,PRJ-004,Data Warehouse,"HRIS, Onboarding, Recruiting",08-07-2024,Active
+EMP-0008,Ishaan,Thompson,Ishaan Thompson,employee0008@example.com,Operations,Operations Manager,"Pune, India",,PRJ-007,Support Automation,"Planning, Vendor Management, Reporting",11-01-2020,Active
+EMP-0009,Riya,Bose,Riya Bose,employee0009@example.com,Engineering,QA Engineer,"Toronto, Canada",,PRJ-002,Payment Platform,"Docker, JavaScript, System Design",15-05-2019,Active
+EMP-0010,Aadhya,Iyer,Aadhya Iyer,employee0010@example.com,Customer Support,Technical Support Engineer,Singapore,,PRJ-004,Data Warehouse,"Documentation, Ticketing, Customer Service",10-05-2025,Active
+EMP-0011,Karan,Lewis,Karan Lewis,employee0011@example.com,Sales,Sales Development Representative,"Hyderabad, India",,PRJ-002,Payment Platform,"CRM, Presentations, Account Planning",23-06-2025,Active
+EMP-0012,Arjun,Thomas,Arjun Thomas,employee0012@example.com,Finance,Accounts Payable Analyst,"Pune, India",,PRJ-007,Support Automation,"Budgeting, Accounting, Reporting",07-09-2023,Active
+EMP-0013,Henry,Allen,Henry Allen,employee0013@example.com,Product,Product Operations Specialist,"London, UK",,PRJ-005,Mobile App,"Requirements, Roadmapping, User Research",15-08-2025,Active
+EMP-0014,Karan,Kapoor,Karan Kapoor,employee0014@example.com,Engineering,DevOps Engineer,"Austin, USA",,PRJ-002,Payment Platform,"SQL, Git, Docker",06-01-2024,Active
+EMP-0015,Ethan,Joshi,Ethan Joshi,employee0015@example.com,Data & Analytics,Data Scientist,"Bengaluru, India",,PRJ-001,Company Brain AI,"Power BI, Statistics, SQL",20-09-2023,On Leave
+EMP-0016,Vihaan,Kulkarni,Vihaan Kulkarni,employee0016@example.com,Marketing,Content Strategist,"Hyderabad, India",,PRJ-002,Payment Platform,"Analytics, SEO, Campaigns",17-12-2017,Active
+EMP-0017,Aadhya,Hall,Aadhya Hall,employee0017@example.com,Customer Support,Technical Support Engineer,"London, UK",,PRJ-007,Support Automation,"Customer Service, Documentation, Ticketing",18-05-2019,Inactive
+EMP-0018,Harper,Hall,Harper Hall,employee0018@example.com,Human Resources,People Operations Analyst,"Chennai, India",,PRJ-008,Internal Developer Platform,"Employee Relations, Recruiting, HRIS",11-05-2018,Active
+EMP-0019,Pooja,Rao,Pooja Rao,employee0019@example.com,Operations,Operations Manager,"Pune, India",,PRJ-001,Company Brain AI,"Process Improvement, Reporting, Vendor Management",18-10-2017,Active
+EMP-0020,Ananya,Bose,Ananya Bose,employee0020@example.com,Product,UI Designer,Singapore,,PRJ-008,Internal Developer Platform,"Prototyping, User Research, Requirements",28-05-2019,Active
+EMP-0021,Amelia,White,Amelia White,employee0021@example.com,Sales,Solutions Engineer,"Chennai, India",EMP-0015,PRJ-004,Data Warehouse,"CRM, Account Planning, Negotiation",22-01-2018,Active
+EMP-0022,Vihaan,Jackson,Vihaan Jackson,employee0022@example.com,Engineering,Senior Software Engineer,"Mumbai, India",EMP-0005,PRJ-006,Security Modernization,"JavaScript, System Design, Git",24-12-2025,Active
+EMP-0023,Ananya,Gupta,Ananya Gupta,employee0023@example.com,Marketing,Growth Marketing Manager,"Austin, USA",EMP-0003,PRJ-008,Internal Developer Platform,"Brand Strategy, SEO, Analytics",23-01-2026,On Leave
+EMP-0024,Meera,Lewis,Meera Lewis,employee0024@example.com,Sales,Sales Development Representative,"London, UK",,PRJ-008,Internal Developer Platform,"Presentations, CRM, Account Planning",26-05-2019,Active
+EMP-0025,Kavya,Young,Kavya Young,employee0025@example.com,Customer Support,Customer Success Manager,"Pune, India",EMP-0018,PRJ-008,Internal Developer Platform,"Customer Service, Ticketing, Troubleshooting",27-09-2018,Active
+EMP-0026,Vihaan,Wright,Vihaan Wright,employee0026@example.com,Human Resources,HR Generalist,"Hyderabad, India",,PRJ-008,Internal Developer Platform,"Employee Relations, Recruiting, HRIS",22-08-2022,Active
+EMP-0027,Sai,King,Sai King,employee0027@example.com,Sales,Solutions Engineer,"London, UK",EMP-0019,PRJ-004,Data Warehouse,"CRM, Account Planning, Presentations",30-06-2023,Active
+EMP-0028,Noah,Brown,Noah Brown,employee0028@example.com,Marketing,Content Strategist,"Delhi, India",EMP-0025,PRJ-004,Data Warehouse,"Analytics, Content, Campaigns",24-12-2019,On Leave
+EMP-0029,Isha,King,Isha King,employee0029@example.com,Engineering,Machine Learning Engineer,"Hyderabad, India",EMP-0003,PRJ-002,Payment Platform,"Testing, SQL, APIs",28-10-2017,Active
+EMP-0030,Ishaan,Martin,Ishaan Martin,employee0030@example.com,Human Resources,HR Manager,"Bengaluru, India",EMP-0005,PRJ-005,Mobile App,"Recruiting, HRIS, Employee Relations",11-11-2023,Active
+EMP-0031,Sneha,Khan,Sneha Khan,employee0031@example.com,Product,Product Operations Specialist,"Chennai, India",EMP-0021,PRJ-005,Mobile App,"Prototyping, User Research, Requirements",29-02-2020,Active
+EMP-0032,Aadhya,Singh,Aadhya Singh,employee0032@example.com,Operations,Procurement Specialist,"Pune, India",EMP-0005,PRJ-002,Payment Platform,"Reporting, Planning, Process Improvement",12-02-2024,Active
+EMP-0033,Ava,Martin,Ava Martin,employee0033@example.com,Marketing,Content Strategist,"Hyderabad, India",EMP-0024,PRJ-007,Support Automation,"SEO, Brand Strategy, Analytics",17-04-2023,Active
+EMP-0034,Ayaan,Verma,Ayaan Verma,employee0034@example.com,Data & Analytics,Business Intelligence Analyst,"Mumbai, India",EMP-0023,PRJ-005,Mobile App,"SQL, Power BI, Data Modeling",02-02-2021,Active
+EMP-0035,Ava,Khan,Ava Khan,employee0035@example.com,Finance,Accounts Payable Analyst,"Pune, India",EMP-0022,PRJ-004,Data Warehouse,"Forecasting, Reporting, Budgeting",12-09-2026,Active
+EMP-0036,Diya,Joshi,Diya Joshi,employee0036@example.com,Finance,Accountant,"Mumbai, India",EMP-0030,PRJ-002,Payment Platform,"Excel, Budgeting, Reporting",16-04-2021,Active
+EMP-0037,Vivaan,Desai,Vivaan Desai,employee0037@example.com,Sales,Sales Development Representative,"Chennai, India",EMP-0026,PRJ-007,Support Automation,"Account Planning, CRM, Negotiation",06-09-2020,Active
+EMP-0038,Vivaan,Nair,Vivaan Nair,employee0038@example.com,Operations,Program Coordinator,Singapore,EMP-0021,PRJ-005,Mobile App,"Vendor Management, Process Improvement, Reporting",02-01-2019,Active
+EMP-0039,Pari,King,Pari King,employee0039@example.com,Operations,Operations Analyst,"Pune, India",EMP-0035,PRJ-004,Data Warehouse,"Process Improvement, Vendor Management, Planning",10-11-2019,Active
+EMP-0040,Kavya,Gupta,Kavya Gupta,employee0040@example.com,Sales,Sales Manager,"Delhi, India",EMP-0027,PRJ-006,Security Modernization,"Account Planning, Presentations, CRM",28-12-2023,Active
+EMP-0041,Ayaan,Desai,Ayaan Desai,employee0041@example.com,Marketing,Brand Designer,Singapore,EMP-0036,PRJ-007,Support Automation,"Analytics, Content, Campaigns",16-06-2024,Active
+EMP-0042,Advait,Harris,Advait Harris,employee0042@example.com,Marketing,SEO Analyst,"Mumbai, India",EMP-0011,PRJ-006,Security Modernization,"Analytics, Brand Strategy, Campaigns",20-03-2022,Active
+EMP-0043,Noah,Green,Noah Green,employee0043@example.com,Marketing,Brand Designer,"Mumbai, India",EMP-0003,PRJ-006,Security Modernization,"Content, Campaigns, SEO",18-01-2018,Active
+EMP-0044,Priya,White,Priya White,employee0044@example.com,Customer Support,Support Specialist,"Mumbai, India",EMP-0001,PRJ-004,Data Warehouse,"Ticketing, Customer Service, Documentation",21-01-2025,Active
+EMP-0045,Kabir,Kapoor,Kabir Kapoor,employee0045@example.com,Product,UX Designer,"Toronto, Canada",EMP-0030,PRJ-008,Internal Developer Platform,"Prototyping, User Research, Roadmapping",25-07-2017,Active
+EMP-0046,Ethan,Martin,Ethan Martin,employee0046@example.com,Operations,Program Coordinator,"Toronto, Canada",EMP-0016,PRJ-007,Support Automation,"Reporting, Process Improvement, Planning",26-04-2026,Active
+EMP-0047,Rohan,Kulkarni,Rohan Kulkarni,employee0047@example.com,Marketing,Brand Designer,"Delhi, India",EMP-0035,PRJ-005,Mobile App,"SEO, Campaigns, Brand Strategy",07-12-2021,Active
+EMP-0048,Pari,Khan,Pari Khan,employee0048@example.com,Data & Analytics,Senior Data Analyst,"Austin, USA",EMP-0004,PRJ-004,Data Warehouse,"Statistics, Data Modeling, Python",21-09-2017,Active
+EMP-0049,Harper,Wright,Harper Wright,employee0049@example.com,Finance,Payroll Specialist,"Pune, India",EMP-0020,PRJ-001,Company Brain AI,"Reporting, Budgeting, Forecasting",11-08-2026,Active
+EMP-0050,Ava,Allen,Ava Allen,employee0050@example.com,Finance,Accounts Payable Analyst,"Toronto, Canada",,PRJ-004,Data Warehouse,"Forecasting, Accounting, Reporting",23-06-2022,Active
+EMP-0051,Isabella,Thompson,Isabella Thompson,employee0051@example.com,Finance,Accountant,Singapore,EMP-0002,PRJ-003,Customer Portal,"Reporting, Excel, Forecasting",24-12-2023,Active
+EMP-0052,Charlotte,Thompson,Charlotte Thompson,employee0052@example.com,Finance,Accountant,"Mumbai, India",EMP-0022,PRJ-003,Customer Portal,"Accounting, Budgeting, Forecasting",25-07-2017,Active
+EMP-0053,Ethan,White,Ethan White,employee0053@example.com,Finance,Finance Manager,"Austin, USA",,PRJ-005,Mobile App,"Excel, Budgeting, Reporting",13-05-2026,On Leave
+EMP-0054,Mia,Verma,Mia Verma,employee0054@example.com,Sales,Account Executive,"Mumbai, India",EMP-0043,PRJ-001,Company Brain AI,"Negotiation, CRM, Account Planning",10-10-2019,Active
+EMP-0055,Liam,Chopra,Liam Chopra,employee0055@example.com,Sales,Solutions Engineer,"Bengaluru, India",EMP-0020,PRJ-006,Security Modernization,"CRM, Presentations, Negotiation",19-11-2018,Active
+EMP-0056,Sophia,Desai,Sophia Desai,employee0056@example.com,Finance,Payroll Specialist,"Delhi, India",EMP-0039,PRJ-002,Payment Platform,"Forecasting, Excel, Accounting",23-08-2023,Active
+EMP-0057,Sara,Allen,Sara Allen,employee0057@example.com,Security & IT,IT Support Engineer,"Chennai, India",,PRJ-007,Support Automation,"Security, Networking, Incident Response",02-06-2024,Active
+EMP-0058,Kavya,Anderson,Kavya Anderson,employee0058@example.com,Customer Support,Support Specialist,"Austin, USA",EMP-0018,PRJ-008,Internal Developer Platform,"Customer Service, Ticketing, Troubleshooting",07-12-2024,Active
+EMP-0059,Priya,Harris,Priya Harris,employee0059@example.com,Operations,Procurement Specialist,"Toronto, Canada",EMP-0030,PRJ-005,Mobile App,"Planning, Process Improvement, Reporting",13-08-2020,Active
+EMP-0060,Vivaan,Lewis,Vivaan Lewis,employee0060@example.com,Finance,Finance Manager,"Delhi, India",EMP-0057,PRJ-006,Security Modernization,"Budgeting, Forecasting, Reporting",15-01-2019,Active
+EMP-0061,Aarav,Hall,Aarav Hall,employee0061@example.com,Marketing,Brand Designer,"Austin, USA",EMP-0045,PRJ-004,Data Warehouse,"Content, Analytics, Brand Strategy",17-12-2017,Active
+EMP-0062,Lucas,Patel,Lucas Patel,employee0062@example.com,Customer Support,Support Team Lead,"Delhi, India",EMP-0024,PRJ-002,Payment Platform,"Customer Service, Ticketing, Troubleshooting",20-04-2020,Active
+EMP-0063,Kavya,Young,Kavya Young,employee0063@example.com,Operations,Program Coordinator,"Delhi, India",EMP-0047,PRJ-006,Security Modernization,"Reporting, Planning, Vendor Management",12-12-2020,Active
+EMP-0064,Amit,Kapoor,Amit Kapoor,employee0064@example.com,Product,Product Operations Specialist,Singapore,EMP-0034,PRJ-004,Data Warehouse,"Analytics, Requirements, Prototyping",06-06-2019,Active
+EMP-0065,Ira,Rao,Ira Rao,employee0065@example.com,Product,Associate Product Manager,"Austin, USA",EMP-0006,PRJ-006,Security Modernization,"Requirements, Roadmapping, Prototyping",05-01-2019,Inactive
+EMP-0066,Liam,Iyer,Liam Iyer,employee0066@example.com,Operations,Program Coordinator,"Toronto, Canada",EMP-0044,PRJ-008,Internal Developer Platform,"Process Improvement, Vendor Management, Planning",25-02-2018,Active
+EMP-0067,Charlotte,Clark,Charlotte Clark,employee0067@example.com,Engineering,DevOps Engineer,"Bengaluru, India",EMP-0007,PRJ-002,Payment Platform,"JavaScript, Testing, Git",22-03-2026,Active
+EMP-0068,Reyansh,Kulkarni,Reyansh Kulkarni,employee0068@example.com,Security & IT,Cloud Security Engineer,"London, UK",EMP-0057,PRJ-002,Payment Platform,"Linux, Cloud, Security",05-04-2023,Active
+EMP-0069,Saanvi,King,Saanvi King,employee0069@example.com,Security & IT,Systems Administrator,"Mumbai, India",EMP-0011,PRJ-001,Company Brain AI,"Networking, Cloud, Security",03-11-2023,Active
+EMP-0070,Arjun,Joshi,Arjun Joshi,employee0070@example.com,Data & Analytics,Analytics Engineer,"Pune, India",EMP-0037,PRJ-001,Company Brain AI,"Statistics, Data Modeling, Python",01-08-2021,Active
+EMP-0071,Emma,Rao,Emma Rao,employee0071@example.com,Customer Support,Support Specialist,"Austin, USA",EMP-0020,PRJ-005,Mobile App,"Customer Service, Ticketing, Troubleshooting",01-11-2025,Active
+EMP-0072,Vihaan,Joshi,Vihaan Joshi,employee0072@example.com,Data & Analytics,Data Analyst,"Bengaluru, India",EMP-0039,PRJ-005,Mobile App,"Data Modeling, Power BI, Python",04-09-2023,Active
+EMP-0073,Amit,Lewis,Amit Lewis,employee0073@example.com,Marketing,Brand Designer,"Chennai, India",EMP-0004,PRJ-008,Internal Developer Platform,"Brand Strategy, SEO, Content",26-11-2017,Active
+EMP-0074,Ethan,Bose,Ethan Bose,employee0074@example.com,Security & IT,IT Support Engineer,"Toronto, Canada",EMP-0024,PRJ-001,Company Brain AI,"Cloud, Linux, Security",23-07-2025,Inactive
+EMP-0075,Reyansh,Clark,Reyansh Clark,employee0075@example.com,Finance,Payroll Specialist,"Bengaluru, India",EMP-0043,PRJ-006,Security Modernization,"Accounting, Reporting, Budgeting",31-07-2021,Active
+EMP-0076,Noah,Jackson,Noah Jackson,employee0076@example.com,Customer Support,Customer Success Manager,"Chennai, India",EMP-0052,PRJ-001,Company Brain AI,"Troubleshooting, Customer Service, Documentation",06-02-2022,Active
+EMP-0077,Meera,Singh,Meera Singh,employee0077@example.com,Engineering,Machine Learning Engineer,"Toronto, Canada",EMP-0027,PRJ-004,Data Warehouse,"Docker, SQL, Testing",25-10-2022,Active
+EMP-0078,Nisha,Lewis,Nisha Lewis,employee0078@example.com,Data & Analytics,Data Scientist,"Hyderabad, India",EMP-0002,PRJ-002,Payment Platform,"Data Modeling, Python, Power BI",29-04-2017,Active
+EMP-0079,Isabella,Nair,Isabella Nair,employee0079@example.com,Product,Associate Product Manager,"Delhi, India",EMP-0035,PRJ-008,Internal Developer Platform,"User Research, Analytics, Requirements",27-04-2018,Active
+EMP-0080,Ananya,Thompson,Ananya Thompson,employee0080@example.com,Customer Support,Support Team Lead,"Bengaluru, India",EMP-0054,PRJ-003,Customer Portal,"Customer Service, Documentation, Troubleshooting",21-04-2021,Active
+EMP-0081,James,Sharma,James Sharma,employee0081@example.com,Operations,Program Coordinator,"Hyderabad, India",EMP-0062,PRJ-005,Mobile App,"Vendor Management, Reporting, Planning",21-02-2025,Active
+EMP-0082,Priya,Brown,Priya Brown,employee0082@example.com,Operations,Procurement Specialist,"Mumbai, India",EMP-0053,PRJ-004,Data Warehouse,"Planning, Vendor Management, Reporting",27-10-2024,Active
+EMP-0083,Pari,Khan,Pari Khan,employee0083@example.com,Customer Support,Support Team Lead,"Bengaluru, India",EMP-0057,PRJ-008,Internal Developer Platform,"Customer Service, Documentation, Ticketing",01-06-2017,Active
+EMP-0084,Mason,Khan,Mason Khan,employee0084@example.com,Customer Support,Support Specialist,"Delhi, India",EMP-0051,PRJ-007,Support Automation,"Customer Service, Troubleshooting, Ticketing",05-05-2024,Active
+EMP-0085,Anika,Lewis,Anika Lewis,employee0085@example.com,Human Resources,People Operations Analyst,"Mumbai, India",EMP-0056,PRJ-001,Company Brain AI,"Recruiting, Onboarding, Employee Relations",05-12-2023,Inactive
+EMP-0086,Ishaan,Pillai,Ishaan Pillai,employee0086@example.com,Product,UX Designer,"Chennai, India",EMP-0019,PRJ-001,Company Brain AI,"Requirements, Roadmapping, User Research",08-07-2017,Active
+EMP-0087,Emma,Kapoor,Emma Kapoor,employee0087@example.com,Finance,Accounts Payable Analyst,"Mumbai, India",EMP-0075,PRJ-003,Customer Portal,"Excel, Budgeting, Accounting",19-12-2018,Active
+EMP-0088,Priya,Chopra,Priya Chopra,employee0088@example.com,Customer Support,Customer Success Manager,"Bengaluru, India",EMP-0045,PRJ-001,Company Brain AI,"Ticketing, Customer Service, Troubleshooting",09-01-2026,Inactive
+EMP-0089,Liam,Chopra,Liam Chopra,employee0089@example.com,Marketing,Growth Marketing Manager,"Toronto, Canada",EMP-0049,PRJ-008,Internal Developer Platform,"Campaigns, Content, Analytics",25-06-2026,Active
+EMP-0090,Liam,Das,Liam Das,employee0090@example.com,Security & IT,Cloud Security Engineer,Singapore,EMP-0007,PRJ-001,Company Brain AI,"Linux, Security, Networking",23-04-2026,Active
+EMP-0091,Mia,Rao,Mia Rao,employee0091@example.com,Customer Support,Customer Success Manager,"Hyderabad, India",EMP-0081,PRJ-006,Security Modernization,"Customer Service, Documentation, Ticketing",17-06-2019,Active
+EMP-0092,Aditya,Wright,Aditya Wright,employee0092@example.com,Marketing,Growth Marketing Manager,"Chennai, India",EMP-0023,PRJ-006,Security Modernization,"Content, SEO, Brand Strategy",19-03-2025,Active
+EMP-0093,Neha,Walker,Neha Walker,employee0093@example.com,Operations,Program Coordinator,"Delhi, India",EMP-0044,PRJ-005,Mobile App,"Planning, Reporting, Vendor Management",25-04-2026,Active
+EMP-0094,Krishna,Rao,Krishna Rao,employee0094@example.com,Customer Support,Support Specialist,"Pune, India",EMP-0016,PRJ-007,Support Automation,"Documentation, Troubleshooting, Customer Service",27-06-2026,Active
+EMP-0095,Pari,Anderson,Pari Anderson,employee0095@example.com,Marketing,Brand Designer,Singapore,EMP-0072,PRJ-002,Payment Platform,"Content, Analytics, SEO",27-07-2024,Active
+EMP-0096,Olivia,Gupta,Olivia Gupta,employee0096@example.com,Security & IT,Security Analyst,"Hyderabad, India",,PRJ-008,Internal Developer Platform,"Security, Linux, Networking",11-11-2024,Active
+EMP-0097,Muhammad,Kulkarni,Muhammad Kulkarni,employee0097@example.com,Customer Support,Support Specialist,Singapore,EMP-0020,PRJ-003,Customer Portal,"Ticketing, Customer Service, Documentation",11-05-2021,Active
+EMP-0098,Isha,White,Isha White,employee0098@example.com,Product,UX Designer,"Toronto, Canada",EMP-0047,PRJ-005,Mobile App,"Requirements, User Research, Analytics",15-05-2017,Active
+EMP-0099,Vihaan,Jackson,Vihaan Jackson,employee0099@example.com,Human Resources,HR Manager,"Mumbai, India",EMP-0077,PRJ-005,Mobile App,"Recruiting, Employee Relations, Onboarding",17-02-2019,Inactive
+EMP-0100,Ananya,Iyer,Ananya Iyer,employee0100@example.com,Engineering,QA Engineer,"Mumbai, India",EMP-0019,PRJ-004,Data Warehouse,"Testing, SQL, JavaScript",09-10-2017,Active
+EMP-0101,Diya,Khan,Diya Khan,employee0101@example.com,Security & IT,IT Support Engineer,"Pune, India",EMP-0046,PRJ-003,Customer Portal,"Security, Cloud, Networking",22-01-2023,Active
+EMP-0102,Anika,Patel,Anika Patel,employee0102@example.com,Sales,Account Manager,"Austin, USA",EMP-0009,PRJ-003,Customer Portal,"CRM, Presentations, Negotiation",23-12-2019,Active
+EMP-0103,Nisha,Walker,Nisha Walker,employee0103@example.com,Human Resources,HR Generalist,"Toronto, Canada",EMP-0004,PRJ-004,Data Warehouse,"Recruiting, HRIS, Employee Relations",25-11-2023,Active
+EMP-0104,Kavya,Reddy,Kavya Reddy,employee0104@example.com,Customer Support,Support Team Lead,"Chennai, India",EMP-0009,PRJ-008,Internal Developer Platform,"Ticketing, Troubleshooting, Documentation",27-12-2024,Active
+EMP-0105,Pari,Scott,Pari Scott,employee0105@example.com,Security & IT,Cloud Security Engineer,"Bengaluru, India",EMP-0084,PRJ-005,Mobile App,"Incident Response, Linux, Networking",02-02-2022,Active
+EMP-0106,Kavya,Martin,Kavya Martin,employee0106@example.com,Operations,Operations Manager,"London, UK",EMP-0041,PRJ-004,Data Warehouse,"Vendor Management, Planning, Reporting",22-08-2021,Active
+EMP-0107,Krishna,Clark,Krishna Clark,employee0107@example.com,Marketing,SEO Analyst,"Bengaluru, India",EMP-0048,PRJ-002,Payment Platform,"SEO, Brand Strategy, Content",09-01-2018,Active
+EMP-0108,Pooja,Young,Pooja Young,employee0108@example.com,Operations,Operations Analyst,"London, UK",EMP-0093,PRJ-006,Security Modernization,"Process Improvement, Planning, Vendor Management",07-07-2024,Active
+EMP-0109,Saanvi,Taylor,Saanvi Taylor,employee0109@example.com,Marketing,Brand Designer,"Toronto, Canada",EMP-0014,PRJ-002,Payment Platform,"Brand Strategy, Content, SEO",26-06-2023,Active
+EMP-0110,Sai,Bose,Sai Bose,employee0110@example.com,Operations,Program Coordinator,Singapore,EMP-0107,PRJ-004,Data Warehouse,"Reporting, Vendor Management, Process Improvement",20-01-2026,Active
+EMP-0111,Diya,Pillai,Diya Pillai,employee0111@example.com,Engineering,Backend Engineer,Singapore,EMP-0009,PRJ-006,Security Modernization,"Python, JavaScript, Git",08-12-2020,Active
+EMP-0112,Ava,Hall,Ava Hall,employee0112@example.com,Engineering,Senior Software Engineer,"Hyderabad, India",EMP-0093,PRJ-004,Data Warehouse,"Git, Testing, APIs",21-03-2021,Active
+EMP-0113,Henry,Singh,Henry Singh,employee0113@example.com,Security & IT,IT Support Engineer,"Bengaluru, India",EMP-0085,PRJ-003,Customer Portal,"Incident Response, Networking, Security",07-10-2018,Active
+EMP-0114,Meera,Bose,Meera Bose,employee0114@example.com,Security & IT,Systems Administrator,"London, UK",EMP-0087,PRJ-004,Data Warehouse,"Incident Response, Networking, Cloud",20-06-2025,Active
+EMP-0115,Aditya,Rao,Aditya Rao,employee0115@example.com,Customer Support,Customer Success Manager,"Delhi, India",EMP-0099,PRJ-007,Support Automation,"Troubleshooting, Ticketing, Documentation",21-09-2023,Active
+EMP-0116,Anika,Nair,Anika Nair,employee0116@example.com,Marketing,SEO Analyst,"London, UK",EMP-0030,PRJ-001,Company Brain AI,"Analytics, Content, SEO",31-07-2022,Active
+EMP-0117,Riya,Verma,Riya Verma,employee0117@example.com,Human Resources,HR Generalist,Singapore,EMP-0052,PRJ-007,Support Automation,"Onboarding, Recruiting, Employee Relations",18-03-2017,Active
+EMP-0118,Sai,Jackson,Sai Jackson,employee0118@example.com,Finance,Finance Manager,"Chennai, India",EMP-0109,PRJ-001,Company Brain AI,"Forecasting, Budgeting, Accounting",23-08-2020,Active
+EMP-0119,Riya,Hall,Riya Hall,employee0119@example.com,Finance,Accounts Payable Analyst,"Chennai, India",EMP-0010,PRJ-002,Payment Platform,"Accounting, Reporting, Excel",10-06-2021,Active
+EMP-0120,Karan,Desai,Karan Desai,employee0120@example.com,Product,UI Designer,"Hyderabad, India",EMP-0023,PRJ-006,Security Modernization,"User Research, Prototyping, Roadmapping",09-12-2020,Active
+EMP-0121,Mia,Lewis,Mia Lewis,employee0121@example.com,Product,Associate Product Manager,Singapore,EMP-0080,PRJ-008,Internal Developer Platform,"Prototyping, Analytics, Requirements",18-06-2025,Active
+EMP-0122,Nisha,Gupta,Nisha Gupta,employee0122@example.com,Human Resources,Talent Acquisition Specialist,"Chennai, India",EMP-0040,PRJ-008,Internal Developer Platform,"HRIS, Employee Relations, Recruiting",17-12-2021,Active
+EMP-0123,Aanya,Das,Aanya Das,employee0123@example.com,Engineering,Software Engineer,"Austin, USA",EMP-0075,PRJ-002,Payment Platform,"JavaScript, SQL, Git",25-03-2024,Active
+EMP-0124,Jack,King,Jack King,employee0124@example.com,Engineering,Machine Learning Engineer,"Pune, India",EMP-0104,PRJ-004,Data Warehouse,"System Design, SQL, JavaScript",09-08-2020,Active
+EMP-0125,Karan,Kapoor,Karan Kapoor,employee0125@example.com,Human Resources,HR Generalist,"Chennai, India",EMP-0037,PRJ-001,Company Brain AI,"Onboarding, Employee Relations, Recruiting",12-10-2019,Active
+EMP-0126,Lucas,Wilson,Lucas Wilson,employee0126@example.com,Human Resources,HR Generalist,"Delhi, India",EMP-0110,PRJ-002,Payment Platform,"Recruiting, HRIS, Employee Relations",12-09-2020,Active
+EMP-0127,Myra,Mehta,Myra Mehta,employee0127@example.com,Security & IT,Security Analyst,Singapore,EMP-0011,PRJ-003,Customer Portal,"Security, Linux, Networking",03-12-2020,Active
+EMP-0128,James,Iyer,James Iyer,employee0128@example.com,Finance,Finance Manager,"Chennai, India",EMP-0122,PRJ-002,Payment Platform,"Budgeting, Accounting, Excel",31-03-2024,Active
+EMP-0129,Kabir,Iyer,Kabir Iyer,employee0129@example.com,Customer Support,Technical Support Engineer,"Chennai, India",EMP-0034,PRJ-003,Customer Portal,"Documentation, Troubleshooting, Ticketing",13-11-2017,Active
+EMP-0130,Shaurya,Green,Shaurya Green,employee0130@example.com,Data & Analytics,Senior Data Analyst,"Chennai, India",EMP-0061,PRJ-003,Customer Portal,"Statistics, SQL, Python",01-02-2025,On Leave
+EMP-0131,Ethan,Martin,Ethan Martin,employee0131@example.com,Security & IT,Cloud Security Engineer,"Mumbai, India",EMP-0113,PRJ-004,Data Warehouse,"Cloud, Security, Incident Response",28-12-2022,Active
+EMP-0132,Karan,Hall,Karan Hall,employee0132@example.com,Marketing,Growth Marketing Manager,"Pune, India",EMP-0096,PRJ-007,Support Automation,"Content, Brand Strategy, Analytics",26-10-2018,Active
+EMP-0133,Benjamin,Hall,Benjamin Hall,employee0133@example.com,Product,Product Operations Specialist,"Toronto, Canada",EMP-0038,PRJ-002,Payment Platform,"Roadmapping, User Research, Analytics",13-03-2020,Active
+EMP-0134,James,Martin,James Martin,employee0134@example.com,Product,Associate Product Manager,"Austin, USA",EMP-0099,PRJ-006,Security Modernization,"Analytics, Roadmapping, User Research",20-04-2017,Inactive
+EMP-0135,Vivaan,Brown,Vivaan Brown,employee0135@example.com,Human Resources,Talent Acquisition Specialist,"Pune, India",EMP-0121,PRJ-002,Payment Platform,"HRIS, Recruiting, Onboarding",31-05-2026,Active
+EMP-0136,Nisha,Green,Nisha Green,employee0136@example.com,Data & Analytics,Business Intelligence Analyst,"Hyderabad, India",EMP-0109,PRJ-001,Company Brain AI,"SQL, Power BI, Data Modeling",21-11-2017,Active
+EMP-0137,Saanvi,Nair,Saanvi Nair,employee0137@example.com,Marketing,Content Strategist,"Bengaluru, India",EMP-0128,PRJ-001,Company Brain AI,"Analytics, Brand Strategy, SEO",04-09-2019,Active
+EMP-0138,Sophia,Khan,Sophia Khan,employee0138@example.com,Engineering,Frontend Engineer,"Mumbai, India",EMP-0048,PRJ-005,Mobile App,"Python, SQL, APIs",25-10-2021,Active
+EMP-0139,Aanya,Gupta,Aanya Gupta,employee0139@example.com,Product,UI Designer,"London, UK",EMP-0065,PRJ-001,Company Brain AI,"Analytics, Roadmapping, Requirements",19-05-2021,Active
+EMP-0140,Sara,Kulkarni,Sara Kulkarni,employee0140@example.com,Human Resources,HR Generalist,"Chennai, India",EMP-0045,PRJ-002,Payment Platform,"HRIS, Recruiting, Onboarding",27-08-2025,Active
+EMP-0141,Daniel,Kapoor,Daniel Kapoor,employee0141@example.com,Customer Support,Support Team Lead,"Mumbai, India",,PRJ-003,Customer Portal,"Ticketing, Troubleshooting, Customer Service",16-09-2017,Active
+EMP-0142,Evelyn,Pillai,Evelyn Pillai,employee0142@example.com,Engineering,QA Engineer,"Mumbai, India",EMP-0013,PRJ-007,Support Automation,"System Design, APIs, Python",22-02-2026,Active
+EMP-0143,Sai,Anderson,Sai Anderson,employee0143@example.com,Human Resources,HR Manager,"Hyderabad, India",EMP-0128,PRJ-007,Support Automation,"Onboarding, Employee Relations, HRIS",27-06-2021,Active
+EMP-0144,Amelia,Mehta,Amelia Mehta,employee0144@example.com,Operations,Program Coordinator,"Austin, USA",EMP-0027,PRJ-007,Support Automation,"Reporting, Vendor Management, Process Improvement",20-11-2017,Active
+EMP-0145,Nisha,Scott,Nisha Scott,employee0145@example.com,Marketing,SEO Analyst,"Pune, India",EMP-0091,PRJ-007,Support Automation,"Analytics, Campaigns, Content",14-11-2018,Active
+EMP-0146,Daniel,Singh,Daniel Singh,employee0146@example.com,Finance,Finance Manager,"Hyderabad, India",EMP-0037,PRJ-002,Payment Platform,"Budgeting, Accounting, Reporting",12-07-2024,Active
+EMP-0147,Ayaan,Gupta,Ayaan Gupta,employee0147@example.com,Customer Support,Support Specialist,Singapore,,PRJ-004,Data Warehouse,"Documentation, Customer Service, Ticketing",24-09-2025,Active
+EMP-0148,Aanya,Martin,Aanya Martin,employee0148@example.com,Customer Support,Customer Success Manager,"London, UK",EMP-0072,PRJ-002,Payment Platform,"Customer Service, Documentation, Ticketing",09-06-2023,Active
+EMP-0149,Ava,Kapoor,Ava Kapoor,employee0149@example.com,Product,Product Manager,"Delhi, India",EMP-0055,PRJ-008,Internal Developer Platform,"Analytics, Roadmapping, User Research",22-10-2022,Inactive
+EMP-0150,Atharv,Nair,Atharv Nair,employee0150@example.com,Marketing,Growth Marketing Manager,"Toronto, Canada",EMP-0082,PRJ-003,Customer Portal,"SEO, Analytics, Brand Strategy",26-07-2026,Active
+EMP-0151,Amit,Das,Amit Das,employee0151@example.com,Product,UI Designer,"Austin, USA",EMP-0052,PRJ-005,Mobile App,"User Research, Prototyping, Analytics",20-07-2026,Active
+EMP-0152,Vivaan,Anderson,Vivaan Anderson,employee0152@example.com,Sales,Solutions Engineer,"Bengaluru, India",EMP-0123,PRJ-006,Security Modernization,"Negotiation, Account Planning, CRM",30-03-2022,Active
+EMP-0153,Arjun,Iyer,Arjun Iyer,employee0153@example.com,Finance,Accounts Payable Analyst,"Austin, USA",EMP-0142,PRJ-006,Security Modernization,"Excel, Budgeting, Forecasting",16-03-2024,Active
+EMP-0154,Kavya,Walker,Kavya Walker,employee0154@example.com,Data & Analytics,Senior Data Analyst,"Hyderabad, India",EMP-0058,PRJ-001,Company Brain AI,"SQL, Python, Statistics",29-04-2026,Active
+EMP-0155,Benjamin,Mehta,Benjamin Mehta,employee0155@example.com,Operations,Program Coordinator,Singapore,EMP-0129,PRJ-005,Mobile App,"Vendor Management, Process Improvement, Planning",16-03-2019,Active
+EMP-0156,Ishaan,Green,Ishaan Green,employee0156@example.com,Security & IT,Security Analyst,"Bengaluru, India",,PRJ-006,Security Modernization,"Incident Response, Networking, Linux",14-06-2026,Active
+EMP-0157,Olivia,Malhotra,Olivia Malhotra,employee0157@example.com,Security & IT,Cloud Security Engineer,"Austin, USA",EMP-0078,PRJ-007,Support Automation,"Networking, Linux, Security",07-12-2023,Active
+EMP-0158,Priya,Gupta,Priya Gupta,employee0158@example.com,Finance,Finance Manager,"Toronto, Canada",EMP-0156,PRJ-001,Company Brain AI,"Budgeting, Reporting, Forecasting",10-10-2018,Active
+EMP-0159,Riya,Iyer,Riya Iyer,employee0159@example.com,Human Resources,HR Manager,"Toronto, Canada",EMP-0116,PRJ-006,Security Modernization,"Recruiting, Employee Relations, Onboarding",11-10-2022,Active
+EMP-0160,Ira,Thomas,Ira Thomas,employee0160@example.com,Product,Product Manager,"Chennai, India",EMP-0041,PRJ-007,Support Automation,"User Research, Requirements, Analytics",14-10-2019,Active
+EMP-0161,Rohan,Pillai,Rohan Pillai,employee0161@example.com,Operations,Procurement Specialist,"Mumbai, India",EMP-0091,PRJ-008,Internal Developer Platform,"Process Improvement, Planning, Vendor Management",05-04-2017,Active
+EMP-0162,Nikhil,Clark,Nikhil Clark,employee0162@example.com,Marketing,Growth Marketing Manager,"Hyderabad, India",EMP-0094,PRJ-005,Mobile App,"SEO, Brand Strategy, Content",08-01-2023,Active
+EMP-0163,Riya,Singh,Riya Singh,employee0163@example.com,Human Resources,HR Generalist,"Austin, USA",EMP-0141,PRJ-004,Data Warehouse,"HRIS, Recruiting, Employee Relations",24-01-2021,Active
+EMP-0164,Ayaan,Reddy,Ayaan Reddy,employee0164@example.com,Security & IT,IT Support Engineer,"Mumbai, India",EMP-0103,PRJ-007,Support Automation,"Security, Incident Response, Networking",09-03-2021,Active
+EMP-0165,Ayaan,Wilson,Ayaan Wilson,employee0165@example.com,Engineering,Software Engineer,"Austin, USA",EMP-0157,PRJ-008,Internal Developer Platform,"System Design, JavaScript, SQL",29-10-2022,Active
+EMP-0166,Ava,Pillai,Ava Pillai,employee0166@example.com,Finance,Accounts Payable Analyst,Singapore,EMP-0005,PRJ-006,Security Modernization,"Reporting, Budgeting, Accounting",09-09-2022,Active
+EMP-0167,Pooja,Pillai,Pooja Pillai,employee0167@example.com,Product,UX Designer,Singapore,EMP-0014,PRJ-001,Company Brain AI,"Analytics, Requirements, Prototyping",11-09-2023,Active
+EMP-0168,Daniel,Green,Daniel Green,employee0168@example.com,Data & Analytics,Analytics Engineer,"Bengaluru, India",EMP-0113,PRJ-007,Support Automation,"Python, SQL, Power BI",29-08-2018,Active
+EMP-0169,Liam,Malhotra,Liam Malhotra,employee0169@example.com,Data & Analytics,Business Intelligence Analyst,"Pune, India",EMP-0133,PRJ-007,Support Automation,"Data Modeling, Statistics, Power BI",18-08-2022,Active
+EMP-0170,Neha,Thomas,Neha Thomas,employee0170@example.com,Human Resources,People Operations Analyst,"Austin, USA",EMP-0165,PRJ-006,Security Modernization,"Onboarding, HRIS, Employee Relations",11-12-2018,Active
+EMP-0171,Rahul,Desai,Rahul Desai,employee0171@example.com,Marketing,Brand Designer,"Delhi, India",EMP-0054,PRJ-004,Data Warehouse,"Brand Strategy, Campaigns, SEO",17-02-2020,Active
+EMP-0172,Rahul,Taylor,Rahul Taylor,employee0172@example.com,Customer Support,Customer Success Manager,"London, UK",EMP-0038,PRJ-005,Mobile App,"Troubleshooting, Documentation, Customer Service",24-03-2020,Active
+EMP-0173,Sara,Martin,Sara Martin,employee0173@example.com,Marketing,Marketing Specialist,"Austin, USA",EMP-0144,PRJ-005,Mobile App,"Analytics, Content, SEO",20-05-2025,Active
+EMP-0174,Isha,Wright,Isha Wright,employee0174@example.com,Data & Analytics,Data Analyst,"Mumbai, India",,PRJ-004,Data Warehouse,"SQL, Python, Power BI",21-09-2019,Active
+EMP-0175,Emma,Iyer,Emma Iyer,employee0175@example.com,Customer Support,Support Specialist,"Toronto, Canada",EMP-0074,PRJ-001,Company Brain AI,"Customer Service, Ticketing, Documentation",05-03-2023,Active
+EMP-0176,Olivia,King,Olivia King,employee0176@example.com,Engineering,Senior Software Engineer,"Hyderabad, India",EMP-0010,PRJ-004,Data Warehouse,"Python, JavaScript, Testing",01-01-2023,Inactive
+EMP-0177,Shaurya,Das,Shaurya Das,employee0177@example.com,Finance,Payroll Specialist,"Delhi, India",EMP-0165,PRJ-001,Company Brain AI,"Accounting, Excel, Forecasting",07-02-2017,Active
+EMP-0178,Benjamin,Walker,Benjamin Walker,employee0178@example.com,Customer Support,Technical Support Engineer,"Hyderabad, India",EMP-0166,PRJ-008,Internal Developer Platform,"Customer Service, Troubleshooting, Ticketing",23-01-2020,Active
+EMP-0179,Ava,Wilson,Ava Wilson,employee0179@example.com,Data & Analytics,Data Analyst,"London, UK",EMP-0132,PRJ-005,Mobile App,"Python, Data Modeling, Power BI",15-05-2023,Active
+EMP-0180,Shaurya,Iyer,Shaurya Iyer,employee0180@example.com,Finance,Financial Analyst,"London, UK",EMP-0069,PRJ-008,Internal Developer Platform,"Forecasting, Excel, Reporting",18-08-2020,On Leave
+EMP-0181,Mason,King,Mason King,employee0181@example.com,Marketing,Brand Designer,"Bengaluru, India",EMP-0041,PRJ-001,Company Brain AI,"Campaigns, Content, SEO",08-12-2019,Active
+EMP-0182,Liam,Nair,Liam Nair,employee0182@example.com,Operations,Program Coordinator,"Toronto, Canada",EMP-0156,PRJ-005,Mobile App,"Planning, Process Improvement, Vendor Management",14-02-2021,Active
+EMP-0183,Ethan,Allen,Ethan Allen,employee0183@example.com,Operations,Procurement Specialist,"Austin, USA",EMP-0181,PRJ-004,Data Warehouse,"Planning, Vendor Management, Process Improvement",18-07-2025,Active
+EMP-0184,Vihaan,Young,Vihaan Young,employee0184@example.com,Security & IT,IT Support Engineer,"Chennai, India",EMP-0114,PRJ-004,Data Warehouse,"Incident Response, Cloud, Networking",04-06-2023,Active
+EMP-0185,Rohan,Mehta,Rohan Mehta,employee0185@example.com,Sales,Account Manager,"Austin, USA",EMP-0145,PRJ-008,Internal Developer Platform,"CRM, Negotiation, Presentations",26-01-2026,Active
+EMP-0186,Mason,Patel,Mason Patel,employee0186@example.com,Customer Support,Customer Success Manager,Singapore,,PRJ-007,Support Automation,"Troubleshooting, Documentation, Ticketing",09-11-2019,Active
+EMP-0187,Vihaan,Gupta,Vihaan Gupta,employee0187@example.com,Product,UI Designer,"Hyderabad, India",EMP-0166,PRJ-008,Internal Developer Platform,"Requirements, Analytics, Roadmapping",10-05-2017,On Leave
+EMP-0188,Nisha,Thomas,Nisha Thomas,employee0188@example.com,Human Resources,People Operations Analyst,"Bengaluru, India",EMP-0138,PRJ-007,Support Automation,"Employee Relations, HRIS, Onboarding",25-11-2017,Active
+EMP-0189,Isabella,Sharma,Isabella Sharma,employee0189@example.com,Data & Analytics,Senior Data Analyst,"London, UK",EMP-0064,PRJ-001,Company Brain AI,"Statistics, Data Modeling, Power BI",07-05-2020,Active
+EMP-0190,Atharv,Nair,Atharv Nair,employee0190@example.com,Data & Analytics,Data Scientist,"Mumbai, India",,PRJ-001,Company Brain AI,"Statistics, SQL, Data Modeling",29-01-2026,Active
+EMP-0191,Ananya,Verma,Ananya Verma,employee0191@example.com,Customer Support,Support Specialist,"Pune, India",EMP-0075,PRJ-007,Support Automation,"Customer Service, Documentation, Troubleshooting",03-12-2021,Active
+EMP-0192,Vikram,Scott,Vikram Scott,employee0192@example.com,Security & IT,Cloud Security Engineer,"Austin, USA",EMP-0077,PRJ-006,Security Modernization,"Security, Cloud, Incident Response",29-08-2019,Active
+EMP-0193,Daniel,Harris,Daniel Harris,employee0193@example.com,Operations,Operations Manager,"Austin, USA",EMP-0107,PRJ-008,Internal Developer Platform,"Vendor Management, Reporting, Planning",12-07-2017,Active
+EMP-0194,Shaurya,Allen,Shaurya Allen,employee0194@example.com,Marketing,Growth Marketing Manager,"Hyderabad, India",EMP-0015,PRJ-008,Internal Developer Platform,"Content, Campaigns, Analytics",15-09-2019,Active
+EMP-0195,Neha,Iyer,Neha Iyer,employee0195@example.com,Finance,Accounts Payable Analyst,"Bengaluru, India",EMP-0095,PRJ-007,Support Automation,"Accounting, Forecasting, Budgeting",22-09-2019,Active
+EMP-0196,Diya,Thomas,Diya Thomas,employee0196@example.com,Sales,Account Executive,"Toronto, Canada",EMP-0086,PRJ-001,Company Brain AI,"Negotiation, Account Planning, CRM",26-10-2017,Active
+EMP-0197,Evelyn,Desai,Evelyn Desai,employee0197@example.com,Engineering,Frontend Engineer,Singapore,EMP-0102,PRJ-002,Payment Platform,"System Design, JavaScript, Docker",18-05-2025,Active
+EMP-0198,Mia,Das,Mia Das,employee0198@example.com,Operations,Program Coordinator,"Chennai, India",EMP-0128,PRJ-007,Support Automation,"Vendor Management, Planning, Reporting",25-03-2022,Active
+EMP-0199,Jack,Malhotra,Jack Malhotra,employee0199@example.com,Customer Support,Customer Success Manager,"Hyderabad, India",,PRJ-006,Security Modernization,"Ticketing, Troubleshooting, Documentation",05-07-2020,Active
+EMP-0200,Ira,Khan,Ira Khan,employee0200@example.com,Security & IT,Systems Administrator,"Mumbai, India",EMP-0168,PRJ-004,Data Warehouse,"Cloud, Linux, Security",13-09-2020,On Leave
+EMP-0201,Ethan,Lewis,Ethan Lewis,employee0201@example.com,Human Resources,HR Manager,"Hyderabad, India",EMP-0140,PRJ-008,Internal Developer Platform,"Employee Relations, HRIS, Onboarding",03-03-2022,Active
+EMP-0202,Neha,Verma,Neha Verma,employee0202@example.com,Operations,Operations Analyst,"Hyderabad, India",EMP-0060,PRJ-002,Payment Platform,"Process Improvement, Reporting, Planning",05-03-2026,Active
+EMP-0203,Advait,Walker,Advait Walker,employee0203@example.com,Data & Analytics,Data Analyst,"Toronto, Canada",,PRJ-008,Internal Developer Platform,"SQL, Statistics, Power BI",09-03-2021,Active
+EMP-0204,Vivaan,Hall,Vivaan Hall,employee0204@example.com,Finance,Financial Analyst,"London, UK",EMP-0046,PRJ-005,Mobile App,"Accounting, Excel, Reporting",04-01-2023,Active
+EMP-0205,Krishna,Kulkarni,Krishna Kulkarni,employee0205@example.com,Product,UI Designer,"Delhi, India",EMP-0021,PRJ-004,Data Warehouse,"Prototyping, Requirements, User Research",14-12-2023,Active
+EMP-0206,Vikram,Kulkarni,Vikram Kulkarni,employee0206@example.com,Finance,Payroll Specialist,"London, UK",EMP-0142,PRJ-004,Data Warehouse,"Excel, Reporting, Budgeting",13-05-2020,Active
+EMP-0207,Reyansh,Lewis,Reyansh Lewis,employee0207@example.com,Engineering,Backend Engineer,"Austin, USA",EMP-0059,PRJ-007,Support Automation,"Docker, SQL, Python",26-03-2024,Active
+EMP-0208,Diya,Verma,Diya Verma,employee0208@example.com,Security & IT,Systems Administrator,"Chennai, India",,PRJ-002,Payment Platform,"Security, Networking, Linux",04-09-2024,Active
+EMP-0209,Evelyn,Gupta,Evelyn Gupta,employee0209@example.com,Data & Analytics,Business Intelligence Analyst,"London, UK",EMP-0139,PRJ-005,Mobile App,"Data Modeling, Python, Power BI",28-10-2018,Active
+EMP-0210,Karan,Taylor,Karan Taylor,employee0210@example.com,Data & Analytics,Data Analyst,"Chennai, India",EMP-0158,PRJ-001,Company Brain AI,"Statistics, Python, SQL",05-02-2018,On Leave
+EMP-0211,Vivaan,Bose,Vivaan Bose,employee0211@example.com,Finance,Finance Manager,"London, UK",EMP-0175,PRJ-008,Internal Developer Platform,"Forecasting, Accounting, Budgeting",03-07-2022,Active
+EMP-0212,Mia,Green,Mia Green,employee0212@example.com,Finance,Financial Analyst,"Delhi, India",EMP-0183,PRJ-005,Mobile App,"Forecasting, Excel, Budgeting",13-12-2025,Active
+EMP-0213,Anika,Anderson,Anika Anderson,employee0213@example.com,Data & Analytics,Business Intelligence Analyst,"Chennai, India",EMP-0027,PRJ-002,Payment Platform,"SQL, Power BI, Python",10-01-2018,Active
+EMP-0214,Nisha,Young,Nisha Young,employee0214@example.com,Data & Analytics,Business Intelligence Analyst,"Austin, USA",EMP-0154,PRJ-007,Support Automation,"SQL, Data Modeling, Python",28-02-2018,Active
+EMP-0215,Ira,White,Ira White,employee0215@example.com,Finance,Financial Analyst,"Austin, USA",EMP-0098,PRJ-007,Support Automation,"Excel, Forecasting, Accounting",27-09-2025,Active
+EMP-0216,Diya,Lewis,Diya Lewis,employee0216@example.com,Marketing,SEO Analyst,"London, UK",EMP-0201,PRJ-003,Customer Portal,"Content, Analytics, Brand Strategy",17-09-2017,Active
+EMP-0217,Mason,Lewis,Mason Lewis,employee0217@example.com,Marketing,Content Strategist,"Pune, India",EMP-0086,PRJ-004,Data Warehouse,"SEO, Content, Analytics",19-02-2022,Active
+EMP-0218,Nisha,Wilson,Nisha Wilson,employee0218@example.com,Finance,Finance Manager,"Chennai, India",EMP-0178,PRJ-007,Support Automation,"Reporting, Forecasting, Budgeting",23-02-2026,Active
+EMP-0219,Riya,Brown,Riya Brown,employee0219@example.com,Human Resources,Talent Acquisition Specialist,"Chennai, India",EMP-0210,PRJ-005,Mobile App,"Onboarding, HRIS, Recruiting",30-03-2025,Active
+EMP-0220,Evelyn,King,Evelyn King,employee0220@example.com,Human Resources,HR Generalist,"Toronto, Canada",EMP-0054,PRJ-004,Data Warehouse,"Employee Relations, HRIS, Recruiting",23-08-2023,Active
+EMP-0221,James,White,James White,employee0221@example.com,Marketing,Marketing Specialist,"Hyderabad, India",EMP-0203,PRJ-008,Internal Developer Platform,"Campaigns, Content, Analytics",25-07-2018,Active
+EMP-0222,Pooja,Jackson,Pooja Jackson,employee0222@example.com,Customer Support,Support Team Lead,"Bengaluru, India",EMP-0169,PRJ-007,Support Automation,"Troubleshooting, Customer Service, Ticketing",05-02-2023,Active
+EMP-0223,Aditya,King,Aditya King,employee0223@example.com,Data & Analytics,Analytics Engineer,"Pune, India",EMP-0057,PRJ-007,Support Automation,"Power BI, Statistics, SQL",10-06-2025,Active
+EMP-0224,Nisha,Anderson,Nisha Anderson,employee0224@example.com,Operations,Operations Manager,"Toronto, Canada",EMP-0107,PRJ-007,Support Automation,"Planning, Reporting, Process Improvement",12-03-2022,On Leave
+EMP-0225,Isabella,Khan,Isabella Khan,employee0225@example.com,Product,Product Manager,"Austin, USA",EMP-0122,PRJ-006,Security Modernization,"Requirements, Analytics, Roadmapping",01-07-2020,Active
+EMP-0226,Arjun,Pillai,Arjun Pillai,employee0226@example.com,Customer Support,Customer Success Manager,"Bengaluru, India",EMP-0043,PRJ-001,Company Brain AI,"Troubleshooting, Ticketing, Customer Service",01-02-2026,On Leave
+EMP-0227,Shaurya,Young,Shaurya Young,employee0227@example.com,Sales,Account Manager,"London, UK",EMP-0048,PRJ-003,Customer Portal,"Presentations, Negotiation, CRM",17-09-2020,Active
+EMP-0228,Vivaan,Green,Vivaan Green,employee0228@example.com,Finance,Payroll Specialist,"Pune, India",EMP-0053,PRJ-004,Data Warehouse,"Reporting, Budgeting, Forecasting",16-01-2022,Active
+EMP-0229,Muhammad,Allen,Muhammad Allen,employee0229@example.com,Product,UI Designer,"Bengaluru, India",EMP-0221,PRJ-003,Customer Portal,"Requirements, User Research, Analytics",07-02-2021,Active
+EMP-0230,Isha,Jackson,Isha Jackson,employee0230@example.com,Human Resources,People Operations Analyst,"Delhi, India",EMP-0152,PRJ-002,Payment Platform,"HRIS, Employee Relations, Recruiting",26-11-2020,Active
+EMP-0231,Sai,Kulkarni,Sai Kulkarni,employee0231@example.com,Data & Analytics,Data Scientist,"Hyderabad, India",EMP-0108,PRJ-005,Mobile App,"Python, Power BI, Statistics",25-04-2018,Active
+EMP-0232,Kavya,Kapoor,Kavya Kapoor,employee0232@example.com,Security & IT,Systems Administrator,"Hyderabad, India",EMP-0036,PRJ-008,Internal Developer Platform,"Incident Response, Cloud, Security",17-02-2024,Active
+EMP-0233,Charlotte,Taylor,Charlotte Taylor,employee0233@example.com,Customer Support,Support Specialist,"Austin, USA",EMP-0127,PRJ-001,Company Brain AI,"Customer Service, Troubleshooting, Ticketing",08-06-2022,Active
+EMP-0234,Sophia,Martin,Sophia Martin,employee0234@example.com,Customer Support,Support Team Lead,"Mumbai, India",EMP-0071,PRJ-008,Internal Developer Platform,"Troubleshooting, Documentation, Ticketing",17-11-2018,Active
+EMP-0235,Mia,Thompson,Mia Thompson,employee0235@example.com,Marketing,Content Strategist,"Bengaluru, India",EMP-0140,PRJ-008,Internal Developer Platform,"Brand Strategy, SEO, Campaigns",02-03-2023,Active
+EMP-0236,Ethan,Martin,Ethan Martin,employee0236@example.com,Human Resources,HR Generalist,"Delhi, India",EMP-0009,PRJ-004,Data Warehouse,"Recruiting, HRIS, Onboarding",08-10-2021,Active
+EMP-0237,Nisha,Nair,Nisha Nair,employee0237@example.com,Human Resources,HR Generalist,"Hyderabad, India",EMP-0201,PRJ-004,Data Warehouse,"HRIS, Onboarding, Employee Relations",10-05-2019,Active
+EMP-0238,Vikram,Taylor,Vikram Taylor,employee0238@example.com,Sales,Account Executive,"Delhi, India",EMP-0220,PRJ-005,Mobile App,"Negotiation, Presentations, Account Planning",11-09-2023,Active
+EMP-0239,Ethan,White,Ethan White,employee0239@example.com,Product,Associate Product Manager,"Hyderabad, India",EMP-0213,PRJ-001,Company Brain AI,"User Research, Prototyping, Roadmapping",10-02-2020,Active
+EMP-0240,Krishna,King,Krishna King,employee0240@example.com,Finance,Payroll Specialist,"Bengaluru, India",EMP-0226,PRJ-005,Mobile App,"Budgeting, Reporting, Forecasting",16-01-2024,Active
+EMP-0241,Ava,Bose,Ava Bose,employee0241@example.com,Finance,Accounts Payable Analyst,"Pune, India",EMP-0217,PRJ-006,Security Modernization,"Budgeting, Accounting, Reporting",06-02-2022,Active
+EMP-0242,Benjamin,Gupta,Benjamin Gupta,employee0242@example.com,Customer Support,Customer Success Manager,"Delhi, India",EMP-0073,PRJ-007,Support Automation,"Ticketing, Troubleshooting, Customer Service",12-06-2019,Active
+EMP-0243,Vikram,Lewis,Vikram Lewis,employee0243@example.com,Security & IT,Security Analyst,"Toronto, Canada",,PRJ-006,Security Modernization,"Networking, Incident Response, Linux",27-08-2024,On Leave
+EMP-0244,Priya,Sharma,Priya Sharma,employee0244@example.com,Data & Analytics,Business Intelligence Analyst,"Delhi, India",EMP-0093,PRJ-007,Support Automation,"Python, Power BI, SQL",09-04-2019,Active
+EMP-0245,Vihaan,Jackson,Vihaan Jackson,employee0245@example.com,Human Resources,Talent Acquisition Specialist,"Bengaluru, India",,PRJ-005,Mobile App,"Employee Relations, Onboarding, Recruiting",21-02-2025,Active
+EMP-0246,Kabir,Hall,Kabir Hall,employee0246@example.com,Data & Analytics,Analytics Engineer,"London, UK",EMP-0123,PRJ-008,Internal Developer Platform,"SQL, Power BI, Data Modeling",08-02-2017,Active
+EMP-0247,Mason,Reddy,Mason Reddy,employee0247@example.com,Finance,Financial Analyst,"London, UK",EMP-0193,PRJ-002,Payment Platform,"Accounting, Reporting, Excel",07-07-2020,Active
+EMP-0248,Neha,King,Neha King,employee0248@example.com,Data & Analytics,Data Analyst,"Mumbai, India",EMP-0039,PRJ-001,Company Brain AI,"Python, Statistics, Data Modeling",05-11-2023,Active
+EMP-0249,Charlotte,Malhotra,Charlotte Malhotra,employee0249@example.com,Security & IT,Systems Administrator,"London, UK",EMP-0110,PRJ-002,Payment Platform,"Cloud, Networking, Security",16-02-2018,Active
+EMP-0250,Diya,Mehta,Diya Mehta,employee0250@example.com,Data & Analytics,Senior Data Analyst,"Pune, India",EMP-0169,PRJ-004,Data Warehouse,"Data Modeling, Power BI, Statistics",17-03-2023,Active
+EMP-0251,Nikhil,Walker,Nikhil Walker,employee0251@example.com,Sales,Account Manager,"Mumbai, India",EMP-0029,PRJ-004,Data Warehouse,"Presentations, Negotiation, CRM",22-05-2025,Active
+EMP-0252,Neha,Sharma,Neha Sharma,employee0252@example.com,Security & IT,IT Support Engineer,"London, UK",EMP-0175,PRJ-006,Security Modernization,"Cloud, Linux, Security",20-07-2020,Active
+EMP-0253,Vivaan,Wright,Vivaan Wright,employee0253@example.com,Customer Support,Support Specialist,"Pune, India",EMP-0102,PRJ-002,Payment Platform,"Documentation, Troubleshooting, Ticketing",26-02-2017,Active
+EMP-0254,Kavya,Jackson,Kavya Jackson,employee0254@example.com,Operations,Procurement Specialist,"Delhi, India",,PRJ-002,Payment Platform,"Planning, Reporting, Process Improvement",08-03-2024,On Leave
+EMP-0255,Anika,Jackson,Anika Jackson,employee0255@example.com,Data & Analytics,Analytics Engineer,"Mumbai, India",EMP-0112,PRJ-002,Payment Platform,"Statistics, Python, SQL",24-06-2020,Active
+EMP-0256,Saanvi,Kapoor,Saanvi Kapoor,employee0256@example.com,Security & IT,IT Support Engineer,"Toronto, Canada",EMP-0134,PRJ-002,Payment Platform,"Cloud, Networking, Linux",21-02-2017,Active
+EMP-0257,Aanya,Iyer,Aanya Iyer,employee0257@example.com,Marketing,Content Strategist,"London, UK",EMP-0033,PRJ-005,Mobile App,"SEO, Brand Strategy, Content",22-03-2025,Active
+EMP-0258,Rohan,Thompson,Rohan Thompson,employee0258@example.com,Security & IT,IT Support Engineer,"Hyderabad, India",EMP-0053,PRJ-006,Security Modernization,"Linux, Cloud, Incident Response",16-08-2017,Active
+EMP-0259,Ava,Walker,Ava Walker,employee0259@example.com,Product,Associate Product Manager,"Toronto, Canada",EMP-0077,PRJ-001,Company Brain AI,"Roadmapping, User Research, Prototyping",30-06-2017,Active
+EMP-0260,Kabir,Brown,Kabir Brown,employee0260@example.com,Engineering,Data Engineer,Singapore,EMP-0258,PRJ-004,Data Warehouse,"Docker, APIs, Python",01-09-2021,Active
+EMP-0261,Kabir,Hall,Kabir Hall,employee0261@example.com,Engineering,Backend Engineer,"Delhi, India",EMP-0234,PRJ-001,Company Brain AI,"JavaScript, Testing, APIs",01-07-2021,Active
+EMP-0262,Vikram,Pillai,Vikram Pillai,employee0262@example.com,Sales,Sales Manager,"Mumbai, India",EMP-0126,PRJ-004,Data Warehouse,"Account Planning, Presentations, Negotiation",16-03-2022,Active
+EMP-0263,Kabir,Allen,Kabir Allen,employee0263@example.com,Finance,Financial Analyst,"London, UK",EMP-0158,PRJ-006,Security Modernization,"Excel, Accounting, Reporting",18-02-2024,Active
+EMP-0264,Meera,Lewis,Meera Lewis,employee0264@example.com,Operations,Operations Manager,"Mumbai, India",EMP-0212,PRJ-001,Company Brain AI,"Vendor Management, Process Improvement, Reporting",07-08-2018,Active
+EMP-0265,Ava,Mehta,Ava Mehta,employee0265@example.com,Human Resources,People Operations Analyst,"Bengaluru, India",EMP-0032,PRJ-002,Payment Platform,"Employee Relations, HRIS, Onboarding",02-09-2022,Active
+EMP-0266,Ira,Chopra,Ira Chopra,employee0266@example.com,Data & Analytics,Senior Data Analyst,"Toronto, Canada",EMP-0039,PRJ-006,Security Modernization,"Statistics, Power BI, Python",25-12-2025,On Leave
+EMP-0267,Muhammad,Khan,Muhammad Khan,employee0267@example.com,Data & Analytics,Analytics Engineer,"London, UK",EMP-0184,PRJ-002,Payment Platform,"Statistics, Data Modeling, Python",05-11-2018,On Leave
+EMP-0268,Saanvi,Thompson,Saanvi Thompson,employee0268@example.com,Sales,Solutions Engineer,"Delhi, India",EMP-0021,PRJ-005,Mobile App,"CRM, Presentations, Account Planning",24-07-2026,Active
+EMP-0269,Reyansh,Kulkarni,Reyansh Kulkarni,employee0269@example.com,Human Resources,Talent Acquisition Specialist,"Delhi, India",EMP-0090,PRJ-006,Security Modernization,"Recruiting, HRIS, Employee Relations",12-06-2021,Active
+EMP-0270,Sneha,Young,Sneha Young,employee0270@example.com,Finance,Payroll Specialist,"Bengaluru, India",,PRJ-004,Data Warehouse,"Budgeting, Excel, Reporting",23-01-2018,Active
+EMP-0271,Atharv,Jackson,Atharv Jackson,employee0271@example.com,Sales,Sales Development Representative,"Bengaluru, India",,PRJ-006,Security Modernization,"CRM, Account Planning, Negotiation",12-09-2024,Active
+EMP-0272,Reyansh,Wilson,Reyansh Wilson,employee0272@example.com,Customer Support,Technical Support Engineer,Singapore,EMP-0203,PRJ-002,Payment Platform,"Ticketing, Troubleshooting, Documentation",24-06-2017,Active
+EMP-0273,Shaurya,Taylor,Shaurya Taylor,employee0273@example.com,Finance,Payroll Specialist,"Hyderabad, India",,PRJ-004,Data Warehouse,"Accounting, Reporting, Forecasting",06-02-2019,Active
+EMP-0274,Rohan,White,Rohan White,employee0274@example.com,Sales,Sales Manager,"Hyderabad, India",EMP-0270,PRJ-008,Internal Developer Platform,"CRM, Negotiation, Account Planning",07-09-2017,Active
+EMP-0275,Pari,Taylor,Pari Taylor,employee0275@example.com,Operations,Operations Analyst,"London, UK",EMP-0014,PRJ-008,Internal Developer Platform,"Reporting, Planning, Vendor Management",09-02-2023,Active
+EMP-0276,Harper,Bose,Harper Bose,employee0276@example.com,Sales,Account Executive,Singapore,EMP-0082,PRJ-001,Company Brain AI,"Presentations, Account Planning, Negotiation",26-01-2026,Active
+EMP-0277,Amit,Singh,Amit Singh,employee0277@example.com,Sales,Sales Manager,"Hyderabad, India",EMP-0163,PRJ-004,Data Warehouse,"Presentations, Negotiation, CRM",17-06-2023,Active
+EMP-0278,Sophia,Taylor,Sophia Taylor,employee0278@example.com,Human Resources,HR Generalist,"Hyderabad, India",EMP-0047,PRJ-003,Customer Portal,"Employee Relations, Onboarding, HRIS",26-04-2023,Active
+EMP-0279,Vivaan,Hall,Vivaan Hall,employee0279@example.com,Security & IT,Security Analyst,"Chennai, India",EMP-0166,PRJ-008,Internal Developer Platform,"Security, Cloud, Networking",03-01-2017,Active
+EMP-0280,Sophia,Khan,Sophia Khan,employee0280@example.com,Data & Analytics,Analytics Engineer,"Chennai, India",EMP-0203,PRJ-002,Payment Platform,"Data Modeling, Power BI, SQL",30-06-2026,Active
+EMP-0281,Anika,Iyer,Anika Iyer,employee0281@example.com,Human Resources,HR Manager,"Chennai, India",EMP-0183,PRJ-003,Customer Portal,"Onboarding, HRIS, Employee Relations",19-03-2025,Active
+EMP-0282,Pari,Pillai,Pari Pillai,employee0282@example.com,Security & IT,Security Analyst,Singapore,EMP-0017,PRJ-005,Mobile App,"Cloud, Networking, Security",06-06-2018,Active
+EMP-0283,Daniel,King,Daniel King,employee0283@example.com,Human Resources,Talent Acquisition Specialist,"Mumbai, India",EMP-0164,PRJ-002,Payment Platform,"Employee Relations, Onboarding, Recruiting",26-07-2022,Active
+EMP-0284,Noah,Wilson,Noah Wilson,employee0284@example.com,Product,Product Operations Specialist,"Bengaluru, India",EMP-0056,PRJ-008,Internal Developer Platform,"Requirements, User Research, Roadmapping",16-02-2017,Active
+EMP-0285,Nisha,White,Nisha White,employee0285@example.com,Engineering,Data Engineer,"Austin, USA",EMP-0246,PRJ-003,Customer Portal,"System Design, Testing, APIs",23-08-2021,Active
+EMP-0286,Ishaan,Martin,Ishaan Martin,employee0286@example.com,Security & IT,Security Analyst,"Chennai, India",EMP-0054,PRJ-002,Payment Platform,"Networking, Security, Incident Response",18-12-2025,Active
+EMP-0287,Ishaan,Gupta,Ishaan Gupta,employee0287@example.com,Data & Analytics,Business Intelligence Analyst,"Pune, India",EMP-0085,PRJ-002,Payment Platform,"Data Modeling, Statistics, Power BI",16-10-2020,Active
+EMP-0288,Vihaan,Reddy,Vihaan Reddy,employee0288@example.com,Finance,Accountant,"Austin, USA",EMP-0277,PRJ-006,Security Modernization,"Forecasting, Budgeting, Accounting",22-04-2019,Active
+EMP-0289,Ananya,Reddy,Ananya Reddy,employee0289@example.com,Marketing,SEO Analyst,"Pune, India",EMP-0219,PRJ-001,Company Brain AI,"Brand Strategy, Analytics, SEO",29-05-2021,Active
+EMP-0290,Atharv,Reddy,Atharv Reddy,employee0290@example.com,Security & IT,Systems Administrator,"Toronto, Canada",EMP-0158,PRJ-001,Company Brain AI,"Cloud, Security, Networking",28-04-2019,Active
+EMP-0291,Harper,Chopra,Harper Chopra,employee0291@example.com,Customer Support,Support Team Lead,"London, UK",EMP-0229,PRJ-002,Payment Platform,"Ticketing, Troubleshooting, Customer Service",14-03-2024,Active
+EMP-0292,Aadhya,Rao,Aadhya Rao,employee0292@example.com,Customer Support,Support Team Lead,"Bengaluru, India",EMP-0278,PRJ-005,Mobile App,"Troubleshooting, Ticketing, Documentation",01-05-2023,Active
+EMP-0293,Sneha,Singh,Sneha Singh,employee0293@example.com,Security & IT,Security Analyst,"Toronto, Canada",EMP-0121,PRJ-007,Support Automation,"Incident Response, Linux, Security",07-03-2026,Active
+EMP-0294,Harper,Verma,Harper Verma,employee0294@example.com,Product,UX Designer,"Mumbai, India",EMP-0065,PRJ-003,Customer Portal,"Analytics, User Research, Roadmapping",08-05-2018,Active
+EMP-0295,Kavya,Desai,Kavya Desai,employee0295@example.com,Product,Product Operations Specialist,"Bengaluru, India",EMP-0285,PRJ-003,Customer Portal,"Prototyping, Requirements, User Research",10-05-2026,Active
+EMP-0296,Neha,Thompson,Neha Thompson,employee0296@example.com,Human Resources,HR Manager,"Hyderabad, India",EMP-0052,PRJ-001,Company Brain AI,"Onboarding, Recruiting, Employee Relations",27-10-2025,On Leave
+EMP-0297,Lucas,Das,Lucas Das,employee0297@example.com,Security & IT,IT Support Engineer,"Toronto, Canada",EMP-0243,PRJ-006,Security Modernization,"Security, Linux, Incident Response",11-08-2021,Active
+EMP-0298,Krishna,Green,Krishna Green,employee0298@example.com,Marketing,Growth Marketing Manager,"Mumbai, India",,PRJ-007,Support Automation,"Analytics, Campaigns, Brand Strategy",08-06-2017,Active
+EMP-0299,Vivaan,Wilson,Vivaan Wilson,employee0299@example.com,Marketing,SEO Analyst,"Bengaluru, India",EMP-0117,PRJ-005,Mobile App,"Campaigns, Analytics, Brand Strategy",27-06-2020,Active
+EMP-0300,Diya,White,Diya White,employee0300@example.com,Customer Support,Customer Success Manager,"Toronto, Canada",EMP-0192,PRJ-002,Payment Platform,"Ticketing, Troubleshooting, Customer Service",09-02-2019,Active
+EMP-0301,Arjun,Pillai,Arjun Pillai,employee0301@example.com,Operations,Operations Manager,"Mumbai, India",EMP-0128,PRJ-007,Support Automation,"Process Improvement, Reporting, Vendor Management",10-07-2018,Active
+EMP-0302,Sophia,Desai,Sophia Desai,employee0302@example.com,Engineering,QA Engineer,"Bengaluru, India",EMP-0124,PRJ-005,Mobile App,"System Design, SQL, Testing",17-02-2021,Active
+EMP-0303,Shaurya,Clark,Shaurya Clark,employee0303@example.com,Security & IT,Systems Administrator,"Bengaluru, India",EMP-0198,PRJ-006,Security Modernization,"Cloud, Security, Linux",11-11-2020,Active
+EMP-0304,Benjamin,Rao,Benjamin Rao,employee0304@example.com,Security & IT,Security Analyst,"London, UK",EMP-0005,PRJ-004,Data Warehouse,"Cloud, Security, Linux",07-08-2024,Active
+EMP-0305,Nikhil,Sharma,Nikhil Sharma,employee0305@example.com,Data & Analytics,Senior Data Analyst,"Delhi, India",EMP-0193,PRJ-004,Data Warehouse,"Data Modeling, Power BI, Statistics",31-10-2019,Active
+EMP-0306,Advait,Thompson,Advait Thompson,employee0306@example.com,Customer Support,Customer Success Manager,"Pune, India",EMP-0192,PRJ-005,Mobile App,"Ticketing, Documentation, Troubleshooting",05-08-2024,Active
+EMP-0307,Saanvi,Reddy,Saanvi Reddy,employee0307@example.com,Security & IT,Cloud Security Engineer,"Chennai, India",EMP-0134,PRJ-008,Internal Developer Platform,"Security, Incident Response, Linux",19-09-2017,Active
+EMP-0308,Krishna,Hall,Krishna Hall,employee0308@example.com,Marketing,Content Strategist,"Chennai, India",EMP-0014,PRJ-004,Data Warehouse,"Brand Strategy, Analytics, Campaigns",21-08-2017,Active
+EMP-0309,Jack,White,Jack White,employee0309@example.com,Marketing,SEO Analyst,"Mumbai, India",EMP-0244,PRJ-007,Support Automation,"SEO, Content, Analytics",10-05-2021,Active
+EMP-0310,Benjamin,Joshi,Benjamin Joshi,employee0310@example.com,Human Resources,HR Manager,"Delhi, India",EMP-0287,PRJ-003,Customer Portal,"Recruiting, Employee Relations, Onboarding",18-04-2020,Active
+EMP-0311,Olivia,Mehta,Olivia Mehta,employee0311@example.com,Data & Analytics,Data Scientist,"Chennai, India",EMP-0300,PRJ-004,Data Warehouse,"Python, Power BI, Data Modeling",26-12-2020,Active
+EMP-0312,Vihaan,Wright,Vihaan Wright,employee0312@example.com,Product,UX Designer,"London, UK",EMP-0212,PRJ-002,Payment Platform,"User Research, Roadmapping, Requirements",19-04-2022,Active
+EMP-0313,Atharv,Wilson,Atharv Wilson,employee0313@example.com,Data & Analytics,Senior Data Analyst,"Hyderabad, India",EMP-0250,PRJ-007,Support Automation,"Statistics, Python, Data Modeling",22-05-2023,Active
+EMP-0314,Daniel,Singh,Daniel Singh,employee0314@example.com,Data & Analytics,Data Scientist,Singapore,EMP-0251,PRJ-001,Company Brain AI,"Power BI, Python, SQL",26-01-2022,Active
+EMP-0315,Isha,Harris,Isha Harris,employee0315@example.com,Product,Associate Product Manager,"Pune, India",,PRJ-007,Support Automation,"Analytics, Prototyping, User Research",11-07-2021,Active
+EMP-0316,Harper,Brown,Harper Brown,employee0316@example.com,Human Resources,HR Generalist,"Mumbai, India",EMP-0177,PRJ-004,Data Warehouse,"Recruiting, HRIS, Onboarding",15-03-2017,Active
+EMP-0317,Karan,Wright,Karan Wright,employee0317@example.com,Product,UX Designer,"Delhi, India",EMP-0267,PRJ-005,Mobile App,"Roadmapping, Prototyping, User Research",16-11-2018,Active
+EMP-0318,Henry,Iyer,Henry Iyer,employee0318@example.com,Human Resources,People Operations Analyst,"London, UK",,PRJ-006,Security Modernization,"HRIS, Recruiting, Onboarding",01-07-2022,Active
+EMP-0319,Mason,Patel,Mason Patel,employee0319@example.com,Data & Analytics,Senior Data Analyst,"Delhi, India",EMP-0025,PRJ-003,Customer Portal,"Power BI, SQL, Python",20-05-2018,Active
+EMP-0320,Olivia,Patel,Olivia Patel,employee0320@example.com,Engineering,Senior Software Engineer,"London, UK",EMP-0130,PRJ-001,Company Brain AI,"JavaScript, Testing, Git",26-09-2024,Active
+EMP-0321,Liam,Sharma,Liam Sharma,employee0321@example.com,Data & Analytics,Senior Data Analyst,Singapore,EMP-0215,PRJ-005,Mobile App,"SQL, Power BI, Statistics",20-09-2021,Active
+EMP-0322,Mason,Green,Mason Green,employee0322@example.com,Product,UI Designer,"Mumbai, India",EMP-0135,PRJ-002,Payment Platform,"Roadmapping, Prototyping, User Research",03-03-2020,Active
+EMP-0323,Sophia,White,Sophia White,employee0323@example.com,Sales,Sales Manager,"Mumbai, India",EMP-0247,PRJ-005,Mobile App,"CRM, Account Planning, Negotiation",19-10-2018,Active
+EMP-0324,Noah,Mehta,Noah Mehta,employee0324@example.com,Engineering,Software Engineer,"Austin, USA",,PRJ-002,Payment Platform,"System Design, JavaScript, Python",15-05-2026,Active
+EMP-0325,Priya,Das,Priya Das,employee0325@example.com,Marketing,Content Strategist,"Pune, India",EMP-0185,PRJ-005,Mobile App,"SEO, Brand Strategy, Analytics",17-03-2022,Active
+EMP-0326,Ava,Nair,Ava Nair,employee0326@example.com,Human Resources,People Operations Analyst,"Hyderabad, India",EMP-0225,PRJ-002,Payment Platform,"Recruiting, Onboarding, HRIS",19-07-2026,On Leave
+EMP-0327,Aanya,Wilson,Aanya Wilson,employee0327@example.com,Marketing,Marketing Specialist,"Delhi, India",EMP-0245,PRJ-003,Customer Portal,"Analytics, Brand Strategy, Content",12-04-2018,Active
+EMP-0328,Ayaan,Singh,Ayaan Singh,employee0328@example.com,Data & Analytics,Data Analyst,"Toronto, Canada",EMP-0195,PRJ-003,Customer Portal,"Statistics, Data Modeling, Power BI",01-03-2018,Active
+EMP-0329,Charlotte,Iyer,Charlotte Iyer,employee0329@example.com,Security & IT,IT Support Engineer,"Pune, India",,PRJ-008,Internal Developer Platform,"Networking, Linux, Cloud",23-06-2022,Active
+EMP-0330,Noah,Wilson,Noah Wilson,employee0330@example.com,Engineering,Frontend Engineer,"London, UK",EMP-0286,PRJ-002,Payment Platform,"Testing, System Design, APIs",08-11-2021,Active
+EMP-0331,Aarav,Joshi,Aarav Joshi,employee0331@example.com,Security & IT,IT Support Engineer,"Toronto, Canada",EMP-0170,PRJ-008,Internal Developer Platform,"Linux, Cloud, Networking",22-07-2026,Inactive
+EMP-0332,Sneha,Thomas,Sneha Thomas,employee0332@example.com,Engineering,Frontend Engineer,"Toronto, Canada",EMP-0230,PRJ-007,Support Automation,"Testing, Python, System Design",01-03-2026,Active
+EMP-0333,Anika,Nair,Anika Nair,employee0333@example.com,Customer Support,Support Team Lead,"London, UK",,PRJ-008,Internal Developer Platform,"Troubleshooting, Ticketing, Customer Service",11-05-2025,Active
+EMP-0334,Isha,Pillai,Isha Pillai,employee0334@example.com,Product,UI Designer,"Pune, India",EMP-0233,PRJ-004,Data Warehouse,"Analytics, Requirements, User Research",05-05-2024,Active
+EMP-0335,Sophia,Anderson,Sophia Anderson,employee0335@example.com,Security & IT,Systems Administrator,"Chennai, India",EMP-0325,PRJ-008,Internal Developer Platform,"Networking, Cloud, Incident Response",13-04-2018,On Leave
+EMP-0336,Neha,Anderson,Neha Anderson,employee0336@example.com,Marketing,Brand Designer,"London, UK",EMP-0313,PRJ-002,Payment Platform,"Content, Analytics, SEO",07-07-2017,Active
+EMP-0337,Advait,Thompson,Advait Thompson,employee0337@example.com,Product,UX Designer,"Pune, India",EMP-0302,PRJ-004,Data Warehouse,"Requirements, Roadmapping, User Research",14-01-2025,Active
+EMP-0338,Noah,Wright,Noah Wright,employee0338@example.com,Customer Support,Support Team Lead,"Austin, USA",EMP-0300,PRJ-003,Customer Portal,"Troubleshooting, Documentation, Ticketing",06-08-2022,Active
+EMP-0339,Liam,Wright,Liam Wright,employee0339@example.com,Operations,Operations Manager,Singapore,EMP-0165,PRJ-003,Customer Portal,"Planning, Process Improvement, Reporting",12-03-2025,Active
+EMP-0340,Nikhil,Kulkarni,Nikhil Kulkarni,employee0340@example.com,Finance,Payroll Specialist,"Hyderabad, India",EMP-0309,PRJ-005,Mobile App,"Accounting, Reporting, Forecasting",18-06-2021,Active
+EMP-0341,Isabella,Young,Isabella Young,employee0341@example.com,Operations,Program Coordinator,Singapore,EMP-0177,PRJ-006,Security Modernization,"Planning, Process Improvement, Vendor Management",25-12-2024,On Leave
+EMP-0342,Karan,Allen,Karan Allen,employee0342@example.com,Data & Analytics,Senior Data Analyst,"Toronto, Canada",EMP-0214,PRJ-006,Security Modernization,"SQL, Power BI, Statistics",19-12-2024,Active
+EMP-0343,Henry,Harris,Henry Harris,employee0343@example.com,Operations,Program Coordinator,"Hyderabad, India",,PRJ-001,Company Brain AI,"Process Improvement, Reporting, Planning",12-11-2022,Active
+EMP-0344,Ira,Chopra,Ira Chopra,employee0344@example.com,Marketing,Content Strategist,"Austin, USA",,PRJ-003,Customer Portal,"SEO, Campaigns, Brand Strategy",01-06-2026,Active
+EMP-0345,Charlotte,Young,Charlotte Young,employee0345@example.com,Product,UI Designer,"Austin, USA",EMP-0148,PRJ-004,Data Warehouse,"Prototyping, Analytics, Roadmapping",29-04-2025,Active
+EMP-0346,Pari,White,Pari White,employee0346@example.com,Engineering,Data Engineer,"Delhi, India",EMP-0227,PRJ-006,Security Modernization,"Python, System Design, Docker",12-03-2023,Active
+EMP-0347,Mia,Desai,Mia Desai,employee0347@example.com,Human Resources,Talent Acquisition Specialist,"Hyderabad, India",EMP-0264,PRJ-005,Mobile App,"Employee Relations, HRIS, Recruiting",13-01-2022,Active
+EMP-0348,Diya,Young,Diya Young,employee0348@example.com,Engineering,Data Engineer,"Pune, India",EMP-0080,PRJ-005,Mobile App,"APIs, SQL, System Design",17-06-2018,Active
+EMP-0349,Mia,Green,Mia Green,employee0349@example.com,Human Resources,HR Generalist,"Austin, USA",EMP-0095,PRJ-005,Mobile App,"HRIS, Recruiting, Employee Relations",03-07-2022,Active
+EMP-0350,Meera,Allen,Meera Allen,employee0350@example.com,Operations,Operations Manager,"Chennai, India",EMP-0151,PRJ-007,Support Automation,"Vendor Management, Process Improvement, Reporting",12-01-2018,Active
+EMP-0351,Sneha,Sharma,Sneha Sharma,employee0351@example.com,Security & IT,Systems Administrator,Singapore,EMP-0125,PRJ-002,Payment Platform,"Security, Linux, Networking",02-07-2024,On Leave
+EMP-0352,Jack,Nair,Jack Nair,employee0352@example.com,Human Resources,People Operations Analyst,"Austin, USA",EMP-0229,PRJ-007,Support Automation,"HRIS, Recruiting, Employee Relations",17-11-2019,Active
+EMP-0353,Anika,Walker,Anika Walker,employee0353@example.com,Marketing,Content Strategist,"Bengaluru, India",EMP-0323,PRJ-002,Payment Platform,"Content, SEO, Campaigns",29-01-2018,Active
+EMP-0354,Advait,Allen,Advait Allen,employee0354@example.com,Finance,Financial Analyst,"Toronto, Canada",EMP-0020,PRJ-007,Support Automation,"Excel, Forecasting, Reporting",02-04-2024,Active
+EMP-0355,Lucas,Chopra,Lucas Chopra,employee0355@example.com,Engineering,Backend Engineer,"London, UK",EMP-0208,PRJ-002,Payment Platform,"Testing, APIs, System Design",14-06-2023,Active
+EMP-0356,Emma,Nair,Emma Nair,employee0356@example.com,Engineering,Data Engineer,Singapore,,PRJ-001,Company Brain AI,"JavaScript, Git, Docker",12-03-2024,Active
+EMP-0357,Ira,Pillai,Ira Pillai,employee0357@example.com,Human Resources,HR Generalist,"Pune, India",EMP-0274,PRJ-002,Payment Platform,"Onboarding, Employee Relations, HRIS",28-02-2020,Active
+EMP-0358,Ira,Khan,Ira Khan,employee0358@example.com,Finance,Accounts Payable Analyst,"Austin, USA",EMP-0022,PRJ-005,Mobile App,"Accounting, Excel, Reporting",06-08-2024,Active
+EMP-0359,Amit,Young,Amit Young,employee0359@example.com,Security & IT,Systems Administrator,"London, UK",EMP-0263,PRJ-002,Payment Platform,"Cloud, Security, Networking",02-06-2020,Active
+EMP-0360,Isha,Chopra,Isha Chopra,employee0360@example.com,Data & Analytics,Senior Data Analyst,"Toronto, Canada",EMP-0038,PRJ-004,Data Warehouse,"Python, SQL, Power BI",15-04-2018,Active
+EMP-0361,Muhammad,Desai,Muhammad Desai,employee0361@example.com,Product,Product Analyst,"Mumbai, India",EMP-0318,PRJ-008,Internal Developer Platform,"Requirements, User Research, Prototyping",17-09-2020,Active
+EMP-0362,Rohan,Martin,Rohan Martin,employee0362@example.com,Sales,Sales Manager,Singapore,EMP-0162,PRJ-006,Security Modernization,"Account Planning, Presentations, CRM",30-11-2023,On Leave
+EMP-0363,Anika,Kulkarni,Anika Kulkarni,employee0363@example.com,Data & Analytics,Data Analyst,"Hyderabad, India",EMP-0170,PRJ-004,Data Warehouse,"Statistics, Power BI, Python",27-12-2024,Active
+EMP-0364,Sara,Pillai,Sara Pillai,employee0364@example.com,Customer Support,Support Team Lead,"Delhi, India",EMP-0072,PRJ-008,Internal Developer Platform,"Troubleshooting, Ticketing, Documentation",10-03-2023,Active
+EMP-0365,Mason,Gupta,Mason Gupta,employee0365@example.com,Sales,Sales Manager,Singapore,EMP-0019,PRJ-002,Payment Platform,"CRM, Account Planning, Negotiation",18-03-2017,Active
+EMP-0366,Olivia,Khan,Olivia Khan,employee0366@example.com,Operations,Procurement Specialist,"Hyderabad, India",EMP-0262,PRJ-006,Security Modernization,"Planning, Vendor Management, Reporting",27-05-2021,Active
+EMP-0367,Noah,Kulkarni,Noah Kulkarni,employee0367@example.com,Human Resources,HR Generalist,"Hyderabad, India",EMP-0290,PRJ-003,Customer Portal,"Employee Relations, Onboarding, Recruiting",29-06-2025,Active
+EMP-0368,Sara,Verma,Sara Verma,employee0368@example.com,Data & Analytics,Business Intelligence Analyst,"Delhi, India",EMP-0022,PRJ-004,Data Warehouse,"Statistics, Python, SQL",16-07-2025,Active
+EMP-0369,Pari,Clark,Pari Clark,employee0369@example.com,Operations,Program Coordinator,"Bengaluru, India",EMP-0267,PRJ-008,Internal Developer Platform,"Process Improvement, Vendor Management, Planning",10-07-2017,Active
+EMP-0370,Pooja,Allen,Pooja Allen,employee0370@example.com,Marketing,SEO Analyst,"Bengaluru, India",EMP-0193,PRJ-003,Customer Portal,"Analytics, Campaigns, Brand Strategy",23-03-2021,Inactive
+EMP-0371,Riya,Taylor,Riya Taylor,employee0371@example.com,Sales,Account Manager,"Austin, USA",EMP-0226,PRJ-006,Security Modernization,"Presentations, Account Planning, CRM",18-06-2022,Active
+EMP-0372,Olivia,Bose,Olivia Bose,employee0372@example.com,Product,UI Designer,Singapore,EMP-0061,PRJ-004,Data Warehouse,"User Research, Prototyping, Analytics",08-09-2018,Active
+EMP-0373,Mason,Nair,Mason Nair,employee0373@example.com,Finance,Finance Manager,Singapore,EMP-0211,PRJ-008,Internal Developer Platform,"Budgeting, Reporting, Excel",28-07-2024,Active
+EMP-0374,Vikram,Wright,Vikram Wright,employee0374@example.com,Engineering,Backend Engineer,"Pune, India",EMP-0093,PRJ-003,Customer Portal,"Python, SQL, JavaScript",06-07-2018,Active
+EMP-0375,Vikram,Patel,Vikram Patel,employee0375@example.com,Finance,Accounts Payable Analyst,"Toronto, Canada",EMP-0088,PRJ-005,Mobile App,"Forecasting, Budgeting, Accounting",18-12-2017,Active
+EMP-0376,Krishna,Wright,Krishna Wright,employee0376@example.com,Finance,Accounts Payable Analyst,"Chennai, India",EMP-0306,PRJ-003,Customer Portal,"Reporting, Accounting, Excel",28-12-2023,Active
+EMP-0377,Pari,Iyer,Pari Iyer,employee0377@example.com,Sales,Solutions Engineer,"Hyderabad, India",EMP-0091,PRJ-002,Payment Platform,"Negotiation, Account Planning, Presentations",09-03-2017,Active
+EMP-0378,Henry,Allen,Henry Allen,employee0378@example.com,Security & IT,IT Support Engineer,"Austin, USA",EMP-0348,PRJ-002,Payment Platform,"Linux, Cloud, Security",17-01-2018,Active
+EMP-0379,Aanya,Verma,Aanya Verma,employee0379@example.com,Operations,Procurement Specialist,Singapore,EMP-0357,PRJ-007,Support Automation,"Reporting, Planning, Vendor Management",29-07-2019,Active
+EMP-0380,Aadhya,Clark,Aadhya Clark,employee0380@example.com,Finance,Accountant,"Austin, USA",EMP-0097,PRJ-004,Data Warehouse,"Excel, Accounting, Budgeting",20-08-2026,Active
+EMP-0381,Neha,Sharma,Neha Sharma,employee0381@example.com,Engineering,Senior Software Engineer,"London, UK",EMP-0080,PRJ-007,Support Automation,"Testing, Docker, APIs",05-05-2024,Active
+EMP-0382,Aadhya,Allen,Aadhya Allen,employee0382@example.com,Security & IT,Cloud Security Engineer,"London, UK",EMP-0212,PRJ-007,Support Automation,"Security, Incident Response, Linux",02-05-2023,Active
+EMP-0383,Shaurya,Anderson,Shaurya Anderson,employee0383@example.com,Operations,Procurement Specialist,"London, UK",EMP-0338,PRJ-008,Internal Developer Platform,"Vendor Management, Reporting, Planning",06-11-2019,Active
+EMP-0384,Lucas,Joshi,Lucas Joshi,employee0384@example.com,Sales,Solutions Engineer,"Hyderabad, India",EMP-0326,PRJ-002,Payment Platform,"Presentations, Negotiation, CRM",29-05-2019,Active
+EMP-0385,Rahul,Scott,Rahul Scott,employee0385@example.com,Product,Associate Product Manager,"Chennai, India",EMP-0020,PRJ-007,Support Automation,"Roadmapping, Requirements, Prototyping",28-12-2017,Active
+EMP-0386,Olivia,Hall,Olivia Hall,employee0386@example.com,Finance,Accounts Payable Analyst,"Toronto, Canada",EMP-0104,PRJ-005,Mobile App,"Reporting, Excel, Budgeting",24-12-2024,Active
+EMP-0387,Atharv,Verma,Atharv Verma,employee0387@example.com,Operations,Program Coordinator,"Chennai, India",EMP-0001,PRJ-004,Data Warehouse,"Planning, Vendor Management, Process Improvement",25-11-2023,Inactive
+EMP-0388,Mia,Jackson,Mia Jackson,employee0388@example.com,Product,Product Analyst,"Mumbai, India",EMP-0378,PRJ-006,Security Modernization,"Analytics, Prototyping, Requirements",05-07-2024,Active
+EMP-0389,Ira,Young,Ira Young,employee0389@example.com,Product,UI Designer,"Mumbai, India",EMP-0207,PRJ-006,Security Modernization,"Requirements, User Research, Prototyping",24-11-2020,Active
+EMP-0390,Meera,Walker,Meera Walker,employee0390@example.com,Marketing,Content Strategist,"Bengaluru, India",EMP-0132,PRJ-002,Payment Platform,"SEO, Campaigns, Content",08-04-2023,Active
+EMP-0391,Liam,Martin,Liam Martin,employee0391@example.com,Security & IT,Cloud Security Engineer,"Toronto, Canada",EMP-0301,PRJ-007,Support Automation,"Linux, Cloud, Incident Response",26-04-2023,Active
+EMP-0392,Aadhya,Gupta,Aadhya Gupta,employee0392@example.com,Customer Support,Support Specialist,"Chennai, India",EMP-0181,PRJ-007,Support Automation,"Customer Service, Documentation, Troubleshooting",09-02-2024,Active
+EMP-0393,Ananya,Das,Ananya Das,employee0393@example.com,Engineering,DevOps Engineer,"Hyderabad, India",EMP-0182,PRJ-002,Payment Platform,"Docker, Python, SQL",23-06-2021,Active
+EMP-0394,Shaurya,Desai,Shaurya Desai,employee0394@example.com,Security & IT,Cloud Security Engineer,"Mumbai, India",EMP-0106,PRJ-008,Internal Developer Platform,"Cloud, Incident Response, Security",08-04-2025,Active
+EMP-0395,Sara,Khan,Sara Khan,employee0395@example.com,Sales,Account Manager,Singapore,,PRJ-002,Payment Platform,"CRM, Account Planning, Negotiation",07-05-2018,Active
+EMP-0396,Aanya,Green,Aanya Green,employee0396@example.com,Engineering,Machine Learning Engineer,"Austin, USA",EMP-0114,PRJ-006,Security Modernization,"SQL, Testing, JavaScript",10-07-2022,Active
+EMP-0397,Neha,Harris,Neha Harris,employee0397@example.com,Data & Analytics,Data Analyst,"Hyderabad, India",EMP-0062,PRJ-008,Internal Developer Platform,"SQL, Power BI, Python",24-01-2023,Active
+EMP-0398,Liam,Sharma,Liam Sharma,employee0398@example.com,Customer Support,Customer Success Manager,"Chennai, India",EMP-0133,PRJ-001,Company Brain AI,"Customer Service, Ticketing, Troubleshooting",24-07-2024,Active
+EMP-0399,Diya,Clark,Diya Clark,employee0399@example.com,Marketing,Content Strategist,"Mumbai, India",EMP-0386,PRJ-006,Security Modernization,"Content, Analytics, Brand Strategy",07-02-2021,Active
+EMP-0400,Nisha,Kapoor,Nisha Kapoor,employee0400@example.com,Finance,Finance Manager,"Delhi, India",EMP-0285,PRJ-003,Customer Portal,"Forecasting, Excel, Accounting",17-06-2023,Active
+EMP-0401,Krishna,Khan,Krishna Khan,employee0401@example.com,Finance,Accountant,"Toronto, Canada",EMP-0323,PRJ-008,Internal Developer Platform,"Excel, Forecasting, Budgeting",14-01-2026,Active
+EMP-0402,Saanvi,Chopra,Saanvi Chopra,employee0402@example.com,Human Resources,People Operations Analyst,"Pune, India",EMP-0131,PRJ-001,Company Brain AI,"Recruiting, HRIS, Onboarding",20-06-2021,Active
+EMP-0403,Ava,Wilson,Ava Wilson,employee0403@example.com,Product,UX Designer,"Pune, India",EMP-0180,PRJ-005,Mobile App,"Requirements, Prototyping, User Research",18-01-2021,Active
+EMP-0404,Vikram,King,Vikram King,employee0404@example.com,Security & IT,Security Analyst,"Austin, USA",EMP-0378,PRJ-003,Customer Portal,"Security, Incident Response, Cloud",02-10-2025,Active
+EMP-0405,Isha,Das,Isha Das,employee0405@example.com,Product,UX Designer,"Chennai, India",EMP-0314,PRJ-008,Internal Developer Platform,"User Research, Prototyping, Requirements",01-02-2024,Active
+EMP-0406,Ishaan,Wilson,Ishaan Wilson,employee0406@example.com,Product,Product Manager,"Delhi, India",EMP-0203,PRJ-004,Data Warehouse,"Requirements, Prototyping, Analytics",08-07-2020,Active
+EMP-0407,Ava,Wright,Ava Wright,employee0407@example.com,Customer Support,Customer Success Manager,"Hyderabad, India",EMP-0339,PRJ-008,Internal Developer Platform,"Customer Service, Troubleshooting, Documentation",23-08-2021,Active
+EMP-0408,Ishaan,Jackson,Ishaan Jackson,employee0408@example.com,Product,Associate Product Manager,"Pune, India",,PRJ-002,Payment Platform,"Roadmapping, Analytics, Requirements",27-01-2018,Active
+EMP-0409,Aadhya,Green,Aadhya Green,employee0409@example.com,Product,Product Manager,"Mumbai, India",EMP-0227,PRJ-003,Customer Portal,"Analytics, Requirements, Roadmapping",12-12-2017,Active
+EMP-0410,Isabella,Joshi,Isabella Joshi,employee0410@example.com,Data & Analytics,Analytics Engineer,"Toronto, Canada",EMP-0277,PRJ-001,Company Brain AI,"Power BI, Data Modeling, Python",24-05-2017,On Leave
+EMP-0411,Ayaan,Allen,Ayaan Allen,employee0411@example.com,Operations,Procurement Specialist,"Austin, USA",EMP-0274,PRJ-003,Customer Portal,"Reporting, Vendor Management, Planning",18-08-2023,Active
+EMP-0412,Amit,Rao,Amit Rao,employee0412@example.com,Human Resources,People Operations Analyst,"Delhi, India",EMP-0006,PRJ-002,Payment Platform,"HRIS, Employee Relations, Onboarding",15-12-2021,Active
+EMP-0413,Ira,Clark,Ira Clark,employee0413@example.com,Data & Analytics,Data Scientist,"Pune, India",EMP-0409,PRJ-001,Company Brain AI,"Statistics, Data Modeling, Python",18-09-2024,Active
+EMP-0414,Sneha,Anderson,Sneha Anderson,employee0414@example.com,Sales,Account Executive,"Hyderabad, India",EMP-0331,PRJ-004,Data Warehouse,"Presentations, Negotiation, CRM",14-08-2021,Active
+EMP-0415,Aadhya,Mehta,Aadhya Mehta,employee0415@example.com,Finance,Accountant,"Austin, USA",EMP-0212,PRJ-007,Support Automation,"Forecasting, Accounting, Reporting",06-01-2024,Active
+EMP-0416,Ayaan,Das,Ayaan Das,employee0416@example.com,Product,Associate Product Manager,Singapore,EMP-0165,PRJ-002,Payment Platform,"Analytics, Prototyping, User Research",22-02-2024,Active
+EMP-0417,Shaurya,Reddy,Shaurya Reddy,employee0417@example.com,Engineering,Software Engineer,"Pune, India",EMP-0078,PRJ-005,Mobile App,"APIs, Docker, Testing",08-01-2020,Active
+EMP-0418,Meera,Pillai,Meera Pillai,employee0418@example.com,Sales,Sales Manager,"Chennai, India",EMP-0385,PRJ-008,Internal Developer Platform,"Presentations, Account Planning, CRM",02-03-2021,On Leave
+EMP-0419,Mia,Jackson,Mia Jackson,employee0419@example.com,Engineering,DevOps Engineer,"Delhi, India",EMP-0007,PRJ-002,Payment Platform,"System Design, JavaScript, Git",03-02-2023,Active
+EMP-0420,Mia,Martin,Mia Martin,employee0420@example.com,Sales,Solutions Engineer,"Bengaluru, India",EMP-0107,PRJ-004,Data Warehouse,"CRM, Presentations, Negotiation",10-04-2025,Active
+EMP-0421,Ishaan,Verma,Ishaan Verma,employee0421@example.com,Marketing,SEO Analyst,"Chennai, India",EMP-0342,PRJ-002,Payment Platform,"Analytics, Campaigns, SEO",04-11-2019,Active
+EMP-0422,Daniel,Harris,Daniel Harris,employee0422@example.com,Product,Associate Product Manager,"Bengaluru, India",EMP-0125,PRJ-006,Security Modernization,"User Research, Requirements, Analytics",03-03-2017,Active
+EMP-0423,Liam,Scott,Liam Scott,employee0423@example.com,Engineering,Machine Learning Engineer,"Toronto, Canada",EMP-0317,PRJ-003,Customer Portal,"JavaScript, System Design, Git",02-03-2021,Active
+EMP-0424,Sara,Khan,Sara Khan,employee0424@example.com,Engineering,Software Engineer,"Austin, USA",EMP-0388,PRJ-002,Payment Platform,"System Design, JavaScript, APIs",31-05-2018,Active
+EMP-0425,Vivaan,Thomas,Vivaan Thomas,employee0425@example.com,Customer Support,Technical Support Engineer,"Toronto, Canada",EMP-0287,PRJ-006,Security Modernization,"Customer Service, Ticketing, Troubleshooting",15-02-2025,Active
+EMP-0426,Vikram,Kapoor,Vikram Kapoor,employee0426@example.com,Customer Support,Technical Support Engineer,"Bengaluru, India",EMP-0231,PRJ-006,Security Modernization,"Ticketing, Customer Service, Troubleshooting",18-08-2020,Active
+EMP-0427,Aanya,Thompson,Aanya Thompson,employee0427@example.com,Marketing,Brand Designer,"Hyderabad, India",EMP-0318,PRJ-001,Company Brain AI,"Brand Strategy, Analytics, Campaigns",14-09-2025,Active
+EMP-0428,Anika,Gupta,Anika Gupta,employee0428@example.com,Security & IT,Security Analyst,"Hyderabad, India",EMP-0166,PRJ-007,Support Automation,"Incident Response, Linux, Security",17-02-2019,Active
+EMP-0429,Muhammad,Hall,Muhammad Hall,employee0429@example.com,Human Resources,HR Generalist,"Mumbai, India",EMP-0099,PRJ-002,Payment Platform,"Employee Relations, Recruiting, HRIS",29-06-2017,Active
+EMP-0430,Noah,Lewis,Noah Lewis,employee0430@example.com,Security & IT,Systems Administrator,"Bengaluru, India",,PRJ-005,Mobile App,"Security, Cloud, Incident Response",21-07-2017,On Leave
+EMP-0431,Priya,Singh,Priya Singh,employee0431@example.com,Customer Support,Support Specialist,Singapore,EMP-0021,PRJ-006,Security Modernization,"Ticketing, Customer Service, Troubleshooting",05-04-2023,Active
+EMP-0432,Advait,Hall,Advait Hall,employee0432@example.com,Marketing,Marketing Specialist,"Mumbai, India",EMP-0128,PRJ-002,Payment Platform,"Content, Analytics, SEO",19-02-2018,Active
+EMP-0433,Ava,Young,Ava Young,employee0433@example.com,Data & Analytics,Analytics Engineer,"Toronto, Canada",EMP-0219,PRJ-007,Support Automation,"SQL, Power BI, Statistics",15-05-2025,Active
+EMP-0434,Sneha,Jackson,Sneha Jackson,employee0434@example.com,Data & Analytics,Senior Data Analyst,"Chennai, India",EMP-0167,PRJ-006,Security Modernization,"Python, Statistics, Data Modeling",17-05-2024,Active
+EMP-0435,James,Brown,James Brown,employee0435@example.com,Finance,Payroll Specialist,"Austin, USA",EMP-0131,PRJ-004,Data Warehouse,"Reporting, Forecasting, Budgeting",26-04-2023,Active
+EMP-0436,Riya,Sharma,Riya Sharma,employee0436@example.com,Customer Support,Support Team Lead,"Delhi, India",,PRJ-001,Company Brain AI,"Troubleshooting, Documentation, Ticketing",11-03-2020,Inactive
+EMP-0437,Vivaan,Bose,Vivaan Bose,employee0437@example.com,Sales,Sales Manager,"Hyderabad, India",EMP-0188,PRJ-003,Customer Portal,"CRM, Negotiation, Account Planning",22-01-2018,Active
+EMP-0438,Aadhya,Pillai,Aadhya Pillai,employee0438@example.com,Sales,Sales Development Representative,"Bengaluru, India",EMP-0406,PRJ-002,Payment Platform,"Presentations, Account Planning, CRM",26-05-2023,Active
+EMP-0439,Nikhil,Pillai,Nikhil Pillai,employee0439@example.com,Customer Support,Support Specialist,"Chennai, India",EMP-0419,PRJ-001,Company Brain AI,"Ticketing, Troubleshooting, Documentation",13-03-2025,Active
+EMP-0440,Ava,Scott,Ava Scott,employee0440@example.com,Product,Associate Product Manager,"Austin, USA",,PRJ-001,Company Brain AI,"Analytics, Roadmapping, User Research",10-02-2024,Active
+EMP-0441,Karan,Rao,Karan Rao,employee0441@example.com,Data & Analytics,Data Scientist,Singapore,EMP-0114,PRJ-003,Customer Portal,"Statistics, Data Modeling, Power BI",26-07-2017,Active
+EMP-0442,Ayaan,Wilson,Ayaan Wilson,employee0442@example.com,Finance,Accountant,"London, UK",EMP-0205,PRJ-002,Payment Platform,"Reporting, Excel, Accounting",04-05-2022,Active
+EMP-0443,Rahul,Young,Rahul Young,employee0443@example.com,Data & Analytics,Senior Data Analyst,Singapore,EMP-0269,PRJ-004,Data Warehouse,"Statistics, Python, Power BI",22-06-2022,Active
+EMP-0444,Mia,Harris,Mia Harris,employee0444@example.com,Product,Product Analyst,"London, UK",EMP-0179,PRJ-006,Security Modernization,"Prototyping, Roadmapping, Analytics",05-09-2024,Active
+EMP-0445,Mia,Pillai,Mia Pillai,employee0445@example.com,Human Resources,HR Generalist,"Toronto, Canada",,PRJ-003,Customer Portal,"Onboarding, HRIS, Recruiting",03-12-2020,Active
+EMP-0446,Krishna,Mehta,Krishna Mehta,employee0446@example.com,Sales,Sales Manager,"Delhi, India",,PRJ-002,Payment Platform,"CRM, Presentations, Account Planning",18-04-2025,Active
+EMP-0447,Nisha,Clark,Nisha Clark,employee0447@example.com,Product,Product Analyst,"Austin, USA",EMP-0133,PRJ-001,Company Brain AI,"User Research, Prototyping, Roadmapping",21-09-2020,Active
+EMP-0448,Liam,Patel,Liam Patel,employee0448@example.com,Security & IT,Security Analyst,"Hyderabad, India",,PRJ-007,Support Automation,"Incident Response, Networking, Cloud",16-07-2023,Active
+EMP-0449,Vihaan,Thompson,Vihaan Thompson,employee0449@example.com,Security & IT,Cloud Security Engineer,"Chennai, India",EMP-0010,PRJ-001,Company Brain AI,"Linux, Security, Incident Response",30-09-2017,Active
+EMP-0450,Pari,Walker,Pari Walker,employee0450@example.com,Finance,Accountant,"Mumbai, India",EMP-0235,PRJ-002,Payment Platform,"Budgeting, Excel, Reporting",16-07-2020,Active
+EMP-0451,Ananya,Hall,Ananya Hall,employee0451@example.com,Engineering,Software Engineer,"Hyderabad, India",,PRJ-005,Mobile App,"System Design, Testing, Docker",28-09-2020,Active
+EMP-0452,Ananya,Walker,Ananya Walker,employee0452@example.com,Human Resources,HR Manager,"London, UK",EMP-0418,PRJ-005,Mobile App,"Recruiting, HRIS, Employee Relations",08-02-2026,Inactive
+EMP-0453,Kabir,Khan,Kabir Khan,employee0453@example.com,Operations,Program Coordinator,"Austin, USA",EMP-0314,PRJ-006,Security Modernization,"Planning, Process Improvement, Reporting",29-05-2021,Active
+EMP-0454,Ananya,King,Ananya King,employee0454@example.com,Sales,Solutions Engineer,"Toronto, Canada",EMP-0106,PRJ-003,Customer Portal,"Account Planning, Presentations, Negotiation",13-10-2021,Active
+EMP-0455,Charlotte,Iyer,Charlotte Iyer,employee0455@example.com,Security & IT,Security Analyst,"Hyderabad, India",EMP-0290,PRJ-005,Mobile App,"Incident Response, Cloud, Linux",21-09-2024,Active
+EMP-0456,Sneha,Allen,Sneha Allen,employee0456@example.com,Human Resources,HR Generalist,"Chennai, India",EMP-0212,PRJ-002,Payment Platform,"HRIS, Recruiting, Onboarding",25-01-2019,On Leave
+EMP-0457,Ava,Bose,Ava Bose,employee0457@example.com,Marketing,Growth Marketing Manager,"Hyderabad, India",,PRJ-003,Customer Portal,"Content, SEO, Analytics",27-09-2025,Inactive
+EMP-0458,Nikhil,King,Nikhil King,employee0458@example.com,Security & IT,Cloud Security Engineer,"Pune, India",EMP-0353,PRJ-004,Data Warehouse,"Cloud, Incident Response, Security",09-09-2023,Active
+EMP-0459,Benjamin,Scott,Benjamin Scott,employee0459@example.com,Data & Analytics,Analytics Engineer,"Toronto, Canada",EMP-0084,PRJ-008,Internal Developer Platform,"Power BI, Python, Statistics",26-12-2024,Active
+EMP-0460,Ethan,Sharma,Ethan Sharma,employee0460@example.com,Engineering,Data Engineer,"Mumbai, India",EMP-0034,PRJ-005,Mobile App,"Testing, Docker, Git",19-08-2021,Active
+EMP-0461,Liam,Brown,Liam Brown,employee0461@example.com,Customer Support,Support Team Lead,Singapore,EMP-0195,PRJ-008,Internal Developer Platform,"Ticketing, Customer Service, Troubleshooting",08-10-2019,Active
+EMP-0462,Ava,King,Ava King,employee0462@example.com,Finance,Accounts Payable Analyst,"Pune, India",EMP-0126,PRJ-001,Company Brain AI,"Excel, Budgeting, Forecasting",03-11-2022,Active
+EMP-0463,Sneha,Thomas,Sneha Thomas,employee0463@example.com,Finance,Financial Analyst,"Delhi, India",EMP-0147,PRJ-001,Company Brain AI,"Accounting, Budgeting, Forecasting",17-02-2019,Active
+EMP-0464,Isha,Singh,Isha Singh,employee0464@example.com,Finance,Finance Manager,"Austin, USA",EMP-0399,PRJ-003,Customer Portal,"Budgeting, Excel, Accounting",14-03-2022,Active
+EMP-0465,Riya,White,Riya White,employee0465@example.com,Operations,Operations Manager,Singapore,EMP-0459,PRJ-006,Security Modernization,"Process Improvement, Reporting, Planning",21-01-2022,Active
+EMP-0466,Aadhya,Brown,Aadhya Brown,employee0466@example.com,Customer Support,Support Specialist,"Toronto, Canada",EMP-0044,PRJ-003,Customer Portal,"Troubleshooting, Ticketing, Documentation",21-01-2025,Active
+EMP-0467,Isha,Joshi,Isha Joshi,employee0467@example.com,Finance,Accounts Payable Analyst,"Chennai, India",EMP-0338,PRJ-007,Support Automation,"Budgeting, Excel, Reporting",05-03-2023,Active
+EMP-0468,Shaurya,Singh,Shaurya Singh,employee0468@example.com,Data & Analytics,Senior Data Analyst,"Hyderabad, India",EMP-0068,PRJ-007,Support Automation,"Power BI, Statistics, Python",15-06-2020,On Leave
+EMP-0469,Aarav,Thompson,Aarav Thompson,employee0469@example.com,Engineering,DevOps Engineer,Singapore,EMP-0122,PRJ-008,Internal Developer Platform,"System Design, SQL, Python",05-08-2026,Active
+EMP-0470,Meera,Martin,Meera Martin,employee0470@example.com,Customer Support,Support Team Lead,Singapore,EMP-0420,PRJ-002,Payment Platform,"Troubleshooting, Ticketing, Customer Service",29-09-2023,Active
+EMP-0471,Krishna,Singh,Krishna Singh,employee0471@example.com,Engineering,Backend Engineer,Singapore,EMP-0153,PRJ-006,Security Modernization,"APIs, Git, Python",31-05-2017,Active
+EMP-0472,Muhammad,White,Muhammad White,employee0472@example.com,Product,Product Manager,Singapore,EMP-0019,PRJ-003,Customer Portal,"Requirements, User Research, Analytics",23-10-2018,Active
+EMP-0473,Aanya,Thomas,Aanya Thomas,employee0473@example.com,Marketing,SEO Analyst,"Toronto, Canada",EMP-0356,PRJ-002,Payment Platform,"Analytics, SEO, Content",04-07-2025,Active
+EMP-0474,Neha,Malhotra,Neha Malhotra,employee0474@example.com,Human Resources,People Operations Analyst,"Toronto, Canada",EMP-0310,PRJ-004,Data Warehouse,"Recruiting, Onboarding, HRIS",12-11-2023,On Leave
+EMP-0475,Nikhil,Brown,Nikhil Brown,employee0475@example.com,Marketing,Growth Marketing Manager,Singapore,EMP-0267,PRJ-005,Mobile App,"Brand Strategy, Campaigns, SEO",23-11-2022,Active
+EMP-0476,Amelia,Kapoor,Amelia Kapoor,employee0476@example.com,Customer Support,Support Team Lead,"Bengaluru, India",,PRJ-004,Data Warehouse,"Documentation, Troubleshooting, Ticketing",12-12-2024,Active
+EMP-0477,Benjamin,Malhotra,Benjamin Malhotra,employee0477@example.com,Product,Product Operations Specialist,"Austin, USA",EMP-0109,PRJ-007,Support Automation,"Roadmapping, Requirements, User Research",23-08-2021,Active
+EMP-0478,Aadhya,Gupta,Aadhya Gupta,employee0478@example.com,Sales,Sales Manager,"Chennai, India",EMP-0371,PRJ-005,Mobile App,"Account Planning, CRM, Presentations",14-05-2020,Active
+EMP-0479,Atharv,Wilson,Atharv Wilson,employee0479@example.com,Engineering,Backend Engineer,"Hyderabad, India",EMP-0322,PRJ-006,Security Modernization,"System Design, Testing, Python",17-07-2024,Active
+EMP-0480,Priya,White,Priya White,employee0480@example.com,Operations,Program Coordinator,"Austin, USA",EMP-0107,PRJ-001,Company Brain AI,"Vendor Management, Reporting, Planning",14-05-2026,Active
+EMP-0481,Arjun,Khan,Arjun Khan,employee0481@example.com,Human Resources,HR Manager,"Austin, USA",EMP-0293,PRJ-005,Mobile App,"Recruiting, Employee Relations, HRIS",06-06-2026,Active
+EMP-0482,Sai,Pillai,Sai Pillai,employee0482@example.com,Data & Analytics,Analytics Engineer,"Bengaluru, India",EMP-0122,PRJ-006,Security Modernization,"SQL, Power BI, Python",17-12-2024,Active
+EMP-0483,Neha,Pillai,Neha Pillai,employee0483@example.com,Marketing,Content Strategist,"Bengaluru, India",EMP-0013,PRJ-003,Customer Portal,"Campaigns, SEO, Analytics",05-04-2018,Active
+EMP-0484,Atharv,Wilson,Atharv Wilson,employee0484@example.com,Operations,Operations Manager,"Bengaluru, India",EMP-0481,PRJ-008,Internal Developer Platform,"Vendor Management, Planning, Process Improvement",20-03-2025,Active
+EMP-0485,Mason,Verma,Mason Verma,employee0485@example.com,Data & Analytics,Senior Data Analyst,"Delhi, India",EMP-0352,PRJ-008,Internal Developer Platform,"Data Modeling, SQL, Statistics",07-05-2021,Active
+EMP-0486,Priya,Verma,Priya Verma,employee0486@example.com,Product,Product Analyst,"Delhi, India",EMP-0108,PRJ-002,Payment Platform,"Requirements, Roadmapping, Prototyping",03-11-2022,Active
+EMP-0487,Diya,Allen,Diya Allen,employee0487@example.com,Sales,Sales Manager,"Delhi, India",EMP-0141,PRJ-006,Security Modernization,"Presentations, Account Planning, CRM",01-09-2025,Active
+EMP-0488,Advait,Allen,Advait Allen,employee0488@example.com,Security & IT,IT Support Engineer,"Delhi, India",EMP-0088,PRJ-006,Security Modernization,"Security, Incident Response, Networking",01-03-2023,Active
+EMP-0489,Amit,Martin,Amit Martin,employee0489@example.com,Security & IT,Cloud Security Engineer,"Pune, India",EMP-0028,PRJ-001,Company Brain AI,"Networking, Linux, Security",17-06-2018,Active
+EMP-0490,Sophia,Scott,Sophia Scott,employee0490@example.com,Finance,Accountant,"Mumbai, India",EMP-0344,PRJ-008,Internal Developer Platform,"Accounting, Reporting, Forecasting",30-11-2023,Active
+EMP-0491,Vikram,Iyer,Vikram Iyer,employee0491@example.com,Product,UX Designer,"Delhi, India",EMP-0364,PRJ-002,Payment Platform,"Analytics, Roadmapping, User Research",12-02-2026,Active
+EMP-0492,Kabir,Khan,Kabir Khan,employee0492@example.com,Customer Support,Technical Support Engineer,"Chennai, India",EMP-0016,PRJ-005,Mobile App,"Ticketing, Troubleshooting, Customer Service",28-01-2021,Active
+EMP-0493,Rahul,Thompson,Rahul Thompson,employee0493@example.com,Product,Product Analyst,"Bengaluru, India",EMP-0366,PRJ-003,Customer Portal,"Requirements, User Research, Prototyping",02-03-2020,Active
+EMP-0494,Lucas,Pillai,Lucas Pillai,employee0494@example.com,Human Resources,HR Generalist,"Austin, USA",EMP-0247,PRJ-008,Internal Developer Platform,"Onboarding, Recruiting, HRIS",30-06-2021,Active
+EMP-0495,James,Wright,James Wright,employee0495@example.com,Human Resources,Talent Acquisition Specialist,"Austin, USA",EMP-0089,PRJ-007,Support Automation,"Onboarding, HRIS, Employee Relations",18-10-2025,Active
+EMP-0496,Evelyn,King,Evelyn King,employee0496@example.com,Product,Product Operations Specialist,"Austin, USA",EMP-0228,PRJ-008,Internal Developer Platform,"Prototyping, Analytics, User Research",14-04-2018,Active
+EMP-0497,Nikhil,Reddy,Nikhil Reddy,employee0497@example.com,Finance,Financial Analyst,"Mumbai, India",EMP-0455,PRJ-007,Support Automation,"Budgeting, Excel, Reporting",03-09-2020,Active
+EMP-0498,Noah,Khan,Noah Khan,employee0498@example.com,Engineering,Backend Engineer,Singapore,EMP-0106,PRJ-008,Internal Developer Platform,"SQL, Testing, System Design",17-12-2022,Active
+EMP-0499,Vikram,Pillai,Vikram Pillai,employee0499@example.com,Human Resources,HR Manager,Singapore,EMP-0207,PRJ-007,Support Automation,"HRIS, Recruiting, Onboarding",19-01-2025,Active
+EMP-0500,Aanya,Young,Aanya Young,employee0500@example.com,Marketing,Marketing Specialist,"Delhi, India",EMP-0121,PRJ-001,Company Brain AI,"Brand Strategy, Campaigns, SEO",04-01-2017,Active
+EMP-0501,Daniel,Brown,Daniel Brown,employee0501@example.com,Security & IT,Systems Administrator,"Mumbai, India",EMP-0244,PRJ-007,Support Automation,"Linux, Incident Response, Security",22-07-2021,Active
+EMP-0502,Isabella,Anderson,Isabella Anderson,employee0502@example.com,Operations,Procurement Specialist,"Hyderabad, India",,PRJ-007,Support Automation,"Vendor Management, Reporting, Process Improvement",24-09-2018,Active
+EMP-0503,Noah,Harris,Noah Harris,employee0503@example.com,Data & Analytics,Business Intelligence Analyst,Singapore,EMP-0320,PRJ-003,Customer Portal,"Python, Statistics, Data Modeling",13-12-2017,Active
+EMP-0504,Sneha,Martin,Sneha Martin,employee0504@example.com,Operations,Procurement Specialist,Singapore,,PRJ-007,Support Automation,"Planning, Process Improvement, Reporting",26-12-2020,Active
+EMP-0505,Diya,White,Diya White,employee0505@example.com,Sales,Account Manager,"Chennai, India",EMP-0247,PRJ-006,Security Modernization,"CRM, Account Planning, Negotiation",18-05-2017,On Leave
+EMP-0506,Mason,Hall,Mason Hall,employee0506@example.com,Product,Associate Product Manager,Singapore,EMP-0242,PRJ-005,Mobile App,"Prototyping, Roadmapping, Requirements",20-03-2022,Active
+EMP-0507,Daniel,Allen,Daniel Allen,employee0507@example.com,Product,Product Operations Specialist,"Pune, India",EMP-0263,PRJ-005,Mobile App,"Roadmapping, Requirements, Analytics",17-11-2023,Active
+EMP-0508,Meera,Taylor,Meera Taylor,employee0508@example.com,Security & IT,Cloud Security Engineer,Singapore,EMP-0373,PRJ-005,Mobile App,"Cloud, Networking, Security",30-03-2020,Active
+EMP-0509,Daniel,Clark,Daniel Clark,employee0509@example.com,Marketing,Marketing Specialist,Singapore,,PRJ-003,Customer Portal,"SEO, Campaigns, Analytics",05-06-2023,Active
+EMP-0510,Arjun,Bose,Arjun Bose,employee0510@example.com,Data & Analytics,Analytics Engineer,"Delhi, India",,PRJ-005,Mobile App,"Data Modeling, Power BI, Python",27-06-2018,Active
+EMP-0511,Ava,Khan,Ava Khan,employee0511@example.com,Data & Analytics,Analytics Engineer,"Mumbai, India",EMP-0410,PRJ-008,Internal Developer Platform,"Python, Power BI, Statistics",23-02-2021,Active
+EMP-0512,Reyansh,Khan,Reyansh Khan,employee0512@example.com,Engineering,QA Engineer,"London, UK",EMP-0226,PRJ-003,Customer Portal,"System Design, Git, Testing",24-05-2026,Active
+EMP-0513,Vikram,Taylor,Vikram Taylor,employee0513@example.com,Data & Analytics,Senior Data Analyst,"Hyderabad, India",EMP-0488,PRJ-001,Company Brain AI,"Power BI, SQL, Statistics",15-03-2024,Active
+EMP-0514,Pari,Thomas,Pari Thomas,employee0514@example.com,Operations,Operations Manager,"Pune, India",EMP-0460,PRJ-008,Internal Developer Platform,"Planning, Vendor Management, Reporting",12-12-2019,Active
+EMP-0515,Muhammad,Allen,Muhammad Allen,employee0515@example.com,Human Resources,HR Generalist,"Chennai, India",EMP-0101,PRJ-006,Security Modernization,"Onboarding, HRIS, Employee Relations",21-06-2026,Active
+EMP-0516,Priya,Kulkarni,Priya Kulkarni,employee0516@example.com,Security & IT,Systems Administrator,"Austin, USA",,PRJ-004,Data Warehouse,"Security, Cloud, Linux",31-10-2022,Active
+EMP-0517,Meera,Reddy,Meera Reddy,employee0517@example.com,Product,Product Manager,"Delhi, India",EMP-0035,PRJ-002,Payment Platform,"Analytics, Requirements, Roadmapping",08-09-2024,Active
+EMP-0518,Nikhil,Malhotra,Nikhil Malhotra,employee0518@example.com,Product,Product Manager,"Hyderabad, India",EMP-0190,PRJ-002,Payment Platform,"Roadmapping, Prototyping, Requirements",10-12-2024,Active
+EMP-0519,Ira,Thompson,Ira Thompson,employee0519@example.com,Data & Analytics,Data Scientist,"Chennai, India",EMP-0076,PRJ-002,Payment Platform,"Statistics, Power BI, Python",01-03-2024,Active
+EMP-0520,Pari,Wilson,Pari Wilson,employee0520@example.com,Engineering,Data Engineer,"Bengaluru, India",EMP-0206,PRJ-001,Company Brain AI,"SQL, JavaScript, Testing",24-11-2019,Active
+EMP-0521,Muhammad,Khan,Muhammad Khan,employee0521@example.com,Data & Analytics,Business Intelligence Analyst,"Delhi, India",EMP-0075,PRJ-007,Support Automation,"Data Modeling, SQL, Python",14-06-2019,Active
+EMP-0522,Vivaan,Lewis,Vivaan Lewis,employee0522@example.com,Marketing,Growth Marketing Manager,"London, UK",EMP-0338,PRJ-003,Customer Portal,"SEO, Brand Strategy, Campaigns",28-04-2024,Active
+EMP-0523,Karan,Lewis,Karan Lewis,employee0523@example.com,Security & IT,IT Support Engineer,"Mumbai, India",,PRJ-008,Internal Developer Platform,"Linux, Networking, Security",22-11-2021,On Leave
+EMP-0524,Vikram,Allen,Vikram Allen,employee0524@example.com,Customer Support,Support Specialist,"Bengaluru, India",EMP-0349,PRJ-006,Security Modernization,"Documentation, Customer Service, Troubleshooting",27-09-2020,Active
+EMP-0525,Olivia,Desai,Olivia Desai,employee0525@example.com,Customer Support,Customer Success Manager,"Delhi, India",EMP-0110,PRJ-003,Customer Portal,"Troubleshooting, Customer Service, Ticketing",22-03-2023,Active
+EMP-0526,Reyansh,Martin,Reyansh Martin,employee0526@example.com,Human Resources,People Operations Analyst,Singapore,EMP-0399,PRJ-004,Data Warehouse,"Recruiting, Onboarding, HRIS",28-07-2018,Active
+EMP-0527,Rohan,Allen,Rohan Allen,employee0527@example.com,Operations,Program Coordinator,"Chennai, India",EMP-0044,PRJ-008,Internal Developer Platform,"Process Improvement, Planning, Reporting",09-03-2017,Active
+EMP-0528,Priya,Allen,Priya Allen,employee0528@example.com,Sales,Account Manager,"Hyderabad, India",EMP-0020,PRJ-003,Customer Portal,"Negotiation, CRM, Account Planning",24-04-2025,Active
+EMP-0529,Ananya,Iyer,Ananya Iyer,employee0529@example.com,Security & IT,IT Support Engineer,"Toronto, Canada",EMP-0066,PRJ-001,Company Brain AI,"Networking, Security, Incident Response",07-12-2018,Active
+EMP-0530,Rohan,Scott,Rohan Scott,employee0530@example.com,Product,Product Manager,"London, UK",EMP-0141,PRJ-004,Data Warehouse,"User Research, Analytics, Prototyping",16-09-2017,Active
+EMP-0531,Pooja,Kapoor,Pooja Kapoor,employee0531@example.com,Sales,Account Executive,"London, UK",EMP-0379,PRJ-006,Security Modernization,"CRM, Negotiation, Presentations",16-09-2017,Active
+EMP-0532,Evelyn,Wright,Evelyn Wright,employee0532@example.com,Customer Support,Technical Support Engineer,"Hyderabad, India",,PRJ-001,Company Brain AI,"Troubleshooting, Documentation, Customer Service",01-07-2018,Active
+EMP-0533,Shaurya,Mehta,Shaurya Mehta,employee0533@example.com,Engineering,Software Engineer,"Mumbai, India",EMP-0278,PRJ-005,Mobile App,"System Design, Docker, JavaScript",01-09-2021,Active
+EMP-0534,Shaurya,Green,Shaurya Green,employee0534@example.com,Finance,Accountant,"Bengaluru, India",EMP-0309,PRJ-001,Company Brain AI,"Forecasting, Budgeting, Accounting",09-09-2023,Active
+EMP-0535,Atharv,Nair,Atharv Nair,employee0535@example.com,Engineering,Frontend Engineer,"Austin, USA",EMP-0214,PRJ-002,Payment Platform,"Docker, Git, SQL",11-12-2023,Active
+EMP-0536,Lucas,Khan,Lucas Khan,employee0536@example.com,Sales,Account Executive,"Pune, India",EMP-0292,PRJ-008,Internal Developer Platform,"Negotiation, CRM, Account Planning",31-07-2022,Active
+EMP-0537,Isha,Thompson,Isha Thompson,employee0537@example.com,Marketing,SEO Analyst,"Pune, India",EMP-0119,PRJ-001,Company Brain AI,"SEO, Content, Brand Strategy",04-03-2018,Active
+EMP-0538,Pooja,Wright,Pooja Wright,employee0538@example.com,Sales,Solutions Engineer,"Mumbai, India",EMP-0334,PRJ-006,Security Modernization,"Negotiation, Account Planning, Presentations",13-09-2021,Active
+EMP-0539,Charlotte,Desai,Charlotte Desai,employee0539@example.com,Sales,Solutions Engineer,"Pune, India",EMP-0149,PRJ-007,Support Automation,"CRM, Negotiation, Account Planning",23-06-2019,Active
+EMP-0540,Shaurya,Thomas,Shaurya Thomas,employee0540@example.com,Security & IT,Systems Administrator,"Chennai, India",EMP-0208,PRJ-006,Security Modernization,"Linux, Cloud, Security",13-07-2018,Active
+EMP-0541,Diya,Iyer,Diya Iyer,employee0541@example.com,Engineering,Software Engineer,"Hyderabad, India",EMP-0226,PRJ-002,Payment Platform,"System Design, Testing, Git",21-07-2026,Active
+EMP-0542,Lucas,Green,Lucas Green,employee0542@example.com,Security & IT,Security Analyst,"London, UK",EMP-0501,PRJ-003,Customer Portal,"Incident Response, Cloud, Networking",26-06-2023,Active
+EMP-0543,Rahul,Thompson,Rahul Thompson,employee0543@example.com,Sales,Account Manager,"Mumbai, India",EMP-0228,PRJ-005,Mobile App,"Presentations, Account Planning, CRM",01-03-2017,Active
+EMP-0544,Jack,King,Jack King,employee0544@example.com,Security & IT,Security Analyst,"Austin, USA",,PRJ-001,Company Brain AI,"Networking, Incident Response, Cloud",08-09-2021,Active
+EMP-0545,Nisha,Lewis,Nisha Lewis,employee0545@example.com,Customer Support,Support Specialist,"Mumbai, India",EMP-0303,PRJ-004,Data Warehouse,"Troubleshooting, Documentation, Customer Service",07-12-2017,Active
+EMP-0546,Rahul,Pillai,Rahul Pillai,employee0546@example.com,Product,Product Manager,"Toronto, Canada",EMP-0416,PRJ-003,Customer Portal,"Analytics, Roadmapping, User Research",20-11-2024,Active
+EMP-0547,Sophia,Sharma,Sophia Sharma,employee0547@example.com,Human Resources,People Operations Analyst,"Delhi, India",EMP-0277,PRJ-002,Payment Platform,"HRIS, Onboarding, Recruiting",26-04-2021,Active
+EMP-0548,Lucas,Mehta,Lucas Mehta,employee0548@example.com,Security & IT,Security Analyst,"Bengaluru, India",EMP-0477,PRJ-006,Security Modernization,"Networking, Security, Incident Response",02-04-2025,Active
+EMP-0549,Shaurya,Young,Shaurya Young,employee0549@example.com,Human Resources,HR Manager,"Mumbai, India",EMP-0490,PRJ-002,Payment Platform,"Employee Relations, Recruiting, Onboarding",16-04-2023,Active
+EMP-0550,Ethan,Rao,Ethan Rao,employee0550@example.com,Security & IT,Security Analyst,"Pune, India",,PRJ-006,Security Modernization,"Security, Linux, Cloud",15-12-2020,Active
+EMP-0551,Rahul,Allen,Rahul Allen,employee0551@example.com,Customer Support,Support Specialist,"Mumbai, India",EMP-0469,PRJ-005,Mobile App,"Documentation, Ticketing, Troubleshooting",26-01-2022,Active
+EMP-0552,Ira,Gupta,Ira Gupta,employee0552@example.com,Finance,Accountant,"Hyderabad, India",EMP-0210,PRJ-002,Payment Platform,"Accounting, Excel, Reporting",06-11-2018,Active
+EMP-0553,Meera,Allen,Meera Allen,employee0553@example.com,Engineering,DevOps Engineer,"Pune, India",EMP-0065,PRJ-003,Customer Portal,"Docker, Testing, Git",26-04-2022,Active
+EMP-0554,Olivia,Wilson,Olivia Wilson,employee0554@example.com,Sales,Account Manager,"Toronto, Canada",EMP-0543,PRJ-007,Support Automation,"Account Planning, Presentations, Negotiation",29-06-2023,Active
+EMP-0555,Saanvi,King,Saanvi King,employee0555@example.com,Customer Support,Support Team Lead,"Mumbai, India",EMP-0296,PRJ-003,Customer Portal,"Documentation, Troubleshooting, Customer Service",08-11-2025,Active
+EMP-0556,Sara,Das,Sara Das,employee0556@example.com,Engineering,Backend Engineer,"Delhi, India",EMP-0180,PRJ-008,Internal Developer Platform,"APIs, Docker, SQL",13-11-2018,Active
+EMP-0557,Ananya,Nair,Ananya Nair,employee0557@example.com,Data & Analytics,Senior Data Analyst,"Delhi, India",EMP-0211,PRJ-001,Company Brain AI,"Data Modeling, Python, Statistics",20-07-2020,Active
+EMP-0558,Sara,Khan,Sara Khan,employee0558@example.com,Engineering,QA Engineer,"Bengaluru, India",EMP-0415,PRJ-006,Security Modernization,"APIs, SQL, System Design",11-01-2022,On Leave
+EMP-0559,Evelyn,Brown,Evelyn Brown,employee0559@example.com,Data & Analytics,Business Intelligence Analyst,"Delhi, India",EMP-0297,PRJ-003,Customer Portal,"Data Modeling, Power BI, Statistics",18-01-2017,On Leave
+EMP-0560,Amelia,King,Amelia King,employee0560@example.com,Security & IT,Security Analyst,"Hyderabad, India",EMP-0120,PRJ-008,Internal Developer Platform,"Networking, Linux, Incident Response",19-10-2020,Active
+EMP-0561,Isabella,Rao,Isabella Rao,employee0561@example.com,Finance,Accounts Payable Analyst,Singapore,EMP-0540,PRJ-008,Internal Developer Platform,"Excel, Accounting, Reporting",03-01-2021,Active
+EMP-0562,Vivaan,Mehta,Vivaan Mehta,employee0562@example.com,Marketing,Content Strategist,"Toronto, Canada",EMP-0524,PRJ-008,Internal Developer Platform,"SEO, Analytics, Brand Strategy",05-08-2024,On Leave
+EMP-0563,Krishna,Harris,Krishna Harris,employee0563@example.com,Human Resources,People Operations Analyst,"Chennai, India",EMP-0457,PRJ-006,Security Modernization,"HRIS, Recruiting, Employee Relations",01-05-2021,Active
+EMP-0564,Mason,Martin,Mason Martin,employee0564@example.com,Product,Associate Product Manager,"London, UK",EMP-0425,PRJ-007,Support Automation,"Analytics, Requirements, Roadmapping",05-01-2026,Active
+EMP-0565,Krishna,Malhotra,Krishna Malhotra,employee0565@example.com,Security & IT,IT Support Engineer,Singapore,EMP-0091,PRJ-005,Mobile App,"Incident Response, Security, Networking",29-04-2022,Active
+EMP-0566,Shaurya,Young,Shaurya Young,employee0566@example.com,Marketing,Growth Marketing Manager,"Hyderabad, India",EMP-0297,PRJ-008,Internal Developer Platform,"Brand Strategy, Content, SEO",19-12-2024,Active
+EMP-0567,Isabella,Wright,Isabella Wright,employee0567@example.com,Engineering,DevOps Engineer,"Pune, India",EMP-0308,PRJ-005,Mobile App,"System Design, JavaScript, Python",17-07-2022,On Leave
+EMP-0568,Olivia,Das,Olivia Das,employee0568@example.com,Customer Support,Support Specialist,"Pune, India",EMP-0284,PRJ-007,Support Automation,"Ticketing, Documentation, Troubleshooting",05-01-2019,Active
+EMP-0569,Ava,Anderson,Ava Anderson,employee0569@example.com,Product,UI Designer,"Toronto, Canada",EMP-0123,PRJ-008,Internal Developer Platform,"Analytics, Requirements, Prototyping",06-05-2023,Active
+EMP-0570,Benjamin,Chopra,Benjamin Chopra,employee0570@example.com,Security & IT,IT Support Engineer,"Toronto, Canada",EMP-0139,PRJ-003,Customer Portal,"Networking, Cloud, Linux",11-07-2023,Active
+EMP-0571,Aanya,White,Aanya White,employee0571@example.com,Engineering,DevOps Engineer,"Bengaluru, India",EMP-0188,PRJ-006,Security Modernization,"SQL, APIs, System Design",19-07-2017,Active
+EMP-0572,Amit,Brown,Amit Brown,employee0572@example.com,Security & IT,Security Analyst,"Chennai, India",EMP-0361,PRJ-006,Security Modernization,"Security, Incident Response, Linux",10-04-2026,Active
+EMP-0573,Neha,Das,Neha Das,employee0573@example.com,Engineering,Backend Engineer,"Hyderabad, India",EMP-0159,PRJ-006,Security Modernization,"System Design, Testing, APIs",25-09-2025,Active
+EMP-0574,Isha,Hall,Isha Hall,employee0574@example.com,Sales,Account Manager,"Hyderabad, India",EMP-0492,PRJ-002,Payment Platform,"Presentations, CRM, Account Planning",06-09-2021,Active
+EMP-0575,James,Martin,James Martin,employee0575@example.com,Human Resources,Talent Acquisition Specialist,"Mumbai, India",EMP-0146,PRJ-006,Security Modernization,"HRIS, Recruiting, Onboarding",07-12-2018,Active
+EMP-0576,Advait,Iyer,Advait Iyer,employee0576@example.com,Marketing,Content Strategist,"Toronto, Canada",EMP-0044,PRJ-002,Payment Platform,"SEO, Brand Strategy, Analytics",07-10-2021,Active
+EMP-0577,Rahul,Nair,Rahul Nair,employee0577@example.com,Engineering,Software Engineer,"Pune, India",EMP-0127,PRJ-005,Mobile App,"JavaScript, APIs, Docker",27-06-2017,On Leave
+EMP-0578,Harper,Desai,Harper Desai,employee0578@example.com,Sales,Account Manager,"Hyderabad, India",EMP-0285,PRJ-003,Customer Portal,"Account Planning, CRM, Presentations",09-07-2024,On Leave
+EMP-0579,Ishaan,Walker,Ishaan Walker,employee0579@example.com,Human Resources,HR Manager,"Austin, USA",EMP-0197,PRJ-004,Data Warehouse,"Recruiting, Onboarding, HRIS",31-08-2022,On Leave
+EMP-0580,Aarav,Reddy,Aarav Reddy,employee0580@example.com,Data & Analytics,Analytics Engineer,Singapore,EMP-0110,PRJ-004,Data Warehouse,"Statistics, Power BI, Data Modeling",28-08-2022,Active
+EMP-0581,Kavya,Malhotra,Kavya Malhotra,employee0581@example.com,Human Resources,People Operations Analyst,"Toronto, Canada",EMP-0140,PRJ-004,Data Warehouse,"Recruiting, Employee Relations, Onboarding",28-07-2021,Active
+EMP-0582,Sneha,Verma,Sneha Verma,employee0582@example.com,Human Resources,HR Manager,"Delhi, India",EMP-0320,PRJ-002,Payment Platform,"Onboarding, Recruiting, Employee Relations",05-09-2020,Active
+EMP-0583,Sneha,White,Sneha White,employee0583@example.com,Customer Support,Technical Support Engineer,"Toronto, Canada",EMP-0377,PRJ-005,Mobile App,"Ticketing, Troubleshooting, Documentation",05-08-2026,Active
+EMP-0584,Riya,Martin,Riya Martin,employee0584@example.com,Customer Support,Support Specialist,Singapore,EMP-0173,PRJ-002,Payment Platform,"Customer Service, Ticketing, Documentation",04-05-2018,Active
+EMP-0585,Atharv,Scott,Atharv Scott,employee0585@example.com,Sales,Sales Manager,"Delhi, India",EMP-0280,PRJ-007,Support Automation,"Negotiation, Presentations, Account Planning",18-05-2018,Active
+EMP-0586,Rahul,Scott,Rahul Scott,employee0586@example.com,Finance,Finance Manager,"Toronto, Canada",EMP-0257,PRJ-007,Support Automation,"Reporting, Accounting, Excel",08-06-2022,Active
+EMP-0587,Vivaan,Reddy,Vivaan Reddy,employee0587@example.com,Sales,Sales Development Representative,"Hyderabad, India",EMP-0335,PRJ-001,Company Brain AI,"CRM, Negotiation, Presentations",24-04-2026,Active
+EMP-0588,Ethan,Gupta,Ethan Gupta,employee0588@example.com,Security & IT,IT Support Engineer,"Toronto, Canada",EMP-0268,PRJ-008,Internal Developer Platform,"Linux, Cloud, Incident Response",22-11-2025,Active
+EMP-0589,Ethan,Verma,Ethan Verma,employee0589@example.com,Operations,Operations Analyst,"London, UK",EMP-0037,PRJ-007,Support Automation,"Reporting, Planning, Vendor Management",03-05-2018,Active
+EMP-0590,Henry,Joshi,Henry Joshi,employee0590@example.com,Operations,Program Coordinator,"Toronto, Canada",EMP-0583,PRJ-008,Internal Developer Platform,"Planning, Reporting, Vendor Management",31-10-2021,Active
+EMP-0591,Rahul,Young,Rahul Young,employee0591@example.com,Operations,Procurement Specialist,"Toronto, Canada",EMP-0387,PRJ-003,Customer Portal,"Process Improvement, Planning, Vendor Management",07-09-2022,Active
+EMP-0592,Anika,Singh,Anika Singh,employee0592@example.com,Human Resources,HR Manager,"Chennai, India",EMP-0028,PRJ-001,Company Brain AI,"Recruiting, Onboarding, Employee Relations",16-08-2023,Active
+EMP-0593,Muhammad,Harris,Muhammad Harris,employee0593@example.com,Human Resources,People Operations Analyst,"Mumbai, India",EMP-0320,PRJ-006,Security Modernization,"Onboarding, Employee Relations, Recruiting",03-01-2021,Active
+EMP-0594,Sai,Wilson,Sai Wilson,employee0594@example.com,Product,Product Analyst,"Toronto, Canada",EMP-0433,PRJ-003,Customer Portal,"Prototyping, Requirements, Roadmapping",22-03-2017,Active
+EMP-0595,Vivaan,Clark,Vivaan Clark,employee0595@example.com,Finance,Finance Manager,Singapore,EMP-0501,PRJ-001,Company Brain AI,"Budgeting, Reporting, Forecasting",20-07-2020,Active
+EMP-0596,Rohan,Walker,Rohan Walker,employee0596@example.com,Sales,Sales Manager,"Mumbai, India",EMP-0078,PRJ-006,Security Modernization,"Account Planning, Negotiation, Presentations",14-11-2018,Active
+EMP-0597,Ira,Chopra,Ira Chopra,employee0597@example.com,Operations,Operations Manager,Singapore,EMP-0345,PRJ-001,Company Brain AI,"Reporting, Process Improvement, Vendor Management",02-05-2020,Active
+EMP-0598,Kavya,Malhotra,Kavya Malhotra,employee0598@example.com,Security & IT,Systems Administrator,"Delhi, India",EMP-0553,PRJ-006,Security Modernization,"Networking, Security, Linux",03-12-2025,Active
+EMP-0599,Aadhya,Green,Aadhya Green,employee0599@example.com,Finance,Payroll Specialist,"Austin, USA",EMP-0591,PRJ-008,Internal Developer Platform,"Reporting, Forecasting, Excel",13-07-2024,Active
+EMP-0600,Evelyn,Allen,Evelyn Allen,employee0600@example.com,Customer Support,Customer Success Manager,"Chennai, India",EMP-0247,PRJ-007,Support Automation,"Troubleshooting, Documentation, Ticketing",08-05-2023,Active
+EMP-0601,Meera,Brown,Meera Brown,employee0601@example.com,Marketing,Growth Marketing Manager,"Delhi, India",EMP-0263,PRJ-002,Payment Platform,"Content, Analytics, Brand Strategy",10-02-2024,Active
+EMP-0602,Ananya,Nair,Ananya Nair,employee0602@example.com,Sales,Solutions Engineer,"Toronto, Canada",EMP-0447,PRJ-003,Customer Portal,"CRM, Presentations, Negotiation",26-02-2019,Active
+EMP-0603,Ishaan,Bose,Ishaan Bose,employee0603@example.com,Engineering,Frontend Engineer,"Austin, USA",EMP-0044,PRJ-003,Customer Portal,"SQL, Git, APIs",30-04-2017,On Leave
+EMP-0604,Vihaan,Mehta,Vihaan Mehta,employee0604@example.com,Customer Support,Support Specialist,"Chennai, India",EMP-0093,PRJ-006,Security Modernization,"Documentation, Troubleshooting, Customer Service",01-10-2023,Active
+EMP-0605,Sai,King,Sai King,employee0605@example.com,Data & Analytics,Senior Data Analyst,"Bengaluru, India",EMP-0126,PRJ-002,Payment Platform,"Data Modeling, Power BI, Python",08-11-2022,Active
+EMP-0606,Isabella,Wright,Isabella Wright,employee0606@example.com,Human Resources,HR Manager,"Hyderabad, India",EMP-0220,PRJ-007,Support Automation,"Employee Relations, Onboarding, Recruiting",14-01-2026,On Leave
+EMP-0607,Aadhya,Wright,Aadhya Wright,employee0607@example.com,Customer Support,Support Team Lead,"Chennai, India",EMP-0487,PRJ-001,Company Brain AI,"Documentation, Ticketing, Troubleshooting",02-07-2022,Active
+EMP-0608,Aanya,Clark,Aanya Clark,employee0608@example.com,Marketing,Content Strategist,Singapore,,PRJ-006,Security Modernization,"Campaigns, SEO, Brand Strategy",19-03-2026,Active
+EMP-0609,Aadhya,Young,Aadhya Young,employee0609@example.com,Engineering,Frontend Engineer,"Bengaluru, India",EMP-0243,PRJ-007,Support Automation,"Docker, Git, System Design",20-06-2020,Active
+EMP-0610,Jack,Jackson,Jack Jackson,employee0610@example.com,Finance,Financial Analyst,"Mumbai, India",EMP-0165,PRJ-005,Mobile App,"Excel, Forecasting, Budgeting",17-05-2020,Active
+EMP-0611,Lucas,Verma,Lucas Verma,employee0611@example.com,Human Resources,People Operations Analyst,"London, UK",EMP-0341,PRJ-005,Mobile App,"Recruiting, Employee Relations, HRIS",19-09-2026,Active
+EMP-0612,Liam,Chopra,Liam Chopra,employee0612@example.com,Product,Associate Product Manager,"Pune, India",EMP-0189,PRJ-002,Payment Platform,"Analytics, Requirements, User Research",12-12-2020,Active
+EMP-0613,Riya,Desai,Riya Desai,employee0613@example.com,Data & Analytics,Data Analyst,"Hyderabad, India",EMP-0134,PRJ-005,Mobile App,"Data Modeling, SQL, Statistics",09-07-2020,Active
+EMP-0614,Nisha,Clark,Nisha Clark,employee0614@example.com,Finance,Finance Manager,"Mumbai, India",EMP-0377,PRJ-003,Customer Portal,"Forecasting, Accounting, Reporting",04-12-2019,Active
+EMP-0615,Kabir,Patel,Kabir Patel,employee0615@example.com,Finance,Accounts Payable Analyst,"Toronto, Canada",EMP-0173,PRJ-001,Company Brain AI,"Reporting, Forecasting, Excel",07-04-2023,Active
+EMP-0616,Nikhil,Chopra,Nikhil Chopra,employee0616@example.com,Security & IT,Systems Administrator,"Bengaluru, India",,PRJ-003,Customer Portal,"Security, Cloud, Incident Response",31-12-2017,Active
+EMP-0617,Sai,Rao,Sai Rao,employee0617@example.com,Customer Support,Support Team Lead,"London, UK",EMP-0212,PRJ-004,Data Warehouse,"Documentation, Customer Service, Ticketing",20-02-2019,Active
+EMP-0618,Meera,Kapoor,Meera Kapoor,employee0618@example.com,Marketing,Content Strategist,"Delhi, India",EMP-0462,PRJ-007,Support Automation,"Content, SEO, Brand Strategy",20-11-2025,Active
+EMP-0619,Reyansh,Sharma,Reyansh Sharma,employee0619@example.com,Human Resources,People Operations Analyst,"Mumbai, India",EMP-0434,PRJ-008,Internal Developer Platform,"HRIS, Onboarding, Employee Relations",30-06-2018,Active
+EMP-0620,Muhammad,Young,Muhammad Young,employee0620@example.com,Marketing,Marketing Specialist,"Chennai, India",EMP-0613,PRJ-001,Company Brain AI,"Campaigns, Content, Analytics",02-08-2017,Active
+EMP-0621,Aadhya,Walker,Aadhya Walker,employee0621@example.com,Engineering,Software Engineer,"Hyderabad, India",EMP-0573,PRJ-007,Support Automation,"Git, Docker, APIs",24-05-2020,Active
+EMP-0622,Ishaan,Walker,Ishaan Walker,employee0622@example.com,Data & Analytics,Data Scientist,"Chennai, India",EMP-0444,PRJ-008,Internal Developer Platform,"Statistics, Python, SQL",21-10-2020,Active
+EMP-0623,Aditya,Iyer,Aditya Iyer,employee0623@example.com,Product,Product Analyst,"Delhi, India",EMP-0270,PRJ-008,Internal Developer Platform,"Requirements, Prototyping, User Research",13-05-2026,Active
+EMP-0624,Anika,Harris,Anika Harris,employee0624@example.com,Marketing,Brand Designer,"Toronto, Canada",,PRJ-003,Customer Portal,"Analytics, Content, Campaigns",16-07-2020,Active
+EMP-0625,Aditya,Clark,Aditya Clark,employee0625@example.com,Sales,Sales Development Representative,"Toronto, Canada",,PRJ-005,Mobile App,"Presentations, Negotiation, CRM",01-11-2018,Active
+EMP-0626,Priya,Lewis,Priya Lewis,employee0626@example.com,Operations,Procurement Specialist,"Bengaluru, India",EMP-0291,PRJ-002,Payment Platform,"Planning, Process Improvement, Reporting",27-06-2026,Active
+EMP-0627,James,Bose,James Bose,employee0627@example.com,Data & Analytics,Analytics Engineer,"Bengaluru, India",EMP-0511,PRJ-004,Data Warehouse,"SQL, Python, Statistics",19-07-2023,Active
+EMP-0628,Ira,Nair,Ira Nair,employee0628@example.com,Human Resources,HR Generalist,"Pune, India",EMP-0492,PRJ-007,Support Automation,"Recruiting, Employee Relations, Onboarding",11-03-2021,Active
+EMP-0629,Noah,Sharma,Noah Sharma,employee0629@example.com,Marketing,Brand Designer,Singapore,EMP-0050,PRJ-006,Security Modernization,"Brand Strategy, Analytics, Content",29-06-2017,Active
+EMP-0630,Amelia,Singh,Amelia Singh,employee0630@example.com,Marketing,SEO Analyst,"London, UK",EMP-0246,PRJ-002,Payment Platform,"Brand Strategy, Analytics, SEO",20-02-2023,On Leave
+EMP-0631,Vivaan,Malhotra,Vivaan Malhotra,employee0631@example.com,Finance,Financial Analyst,"Hyderabad, India",EMP-0503,PRJ-003,Customer Portal,"Budgeting, Accounting, Reporting",11-05-2021,Active
+EMP-0632,Ayaan,Taylor,Ayaan Taylor,employee0632@example.com,Marketing,Brand Designer,"Toronto, Canada",EMP-0488,PRJ-002,Payment Platform,"Campaigns, Content, Analytics",02-05-2026,Active
+EMP-0633,Reyansh,Harris,Reyansh Harris,employee0633@example.com,Security & IT,Systems Administrator,"London, UK",EMP-0526,PRJ-006,Security Modernization,"Cloud, Linux, Security",20-11-2023,Active
+EMP-0634,Olivia,Khan,Olivia Khan,employee0634@example.com,Customer Support,Technical Support Engineer,"London, UK",,PRJ-008,Internal Developer Platform,"Troubleshooting, Customer Service, Documentation",30-11-2022,Active
+EMP-0635,Ayaan,Pillai,Ayaan Pillai,employee0635@example.com,Marketing,Content Strategist,"Pune, India",EMP-0047,PRJ-004,Data Warehouse,"Analytics, Campaigns, Brand Strategy",13-11-2022,Active
+EMP-0636,Meera,Reddy,Meera Reddy,employee0636@example.com,Operations,Procurement Specialist,Singapore,EMP-0516,PRJ-008,Internal Developer Platform,"Vendor Management, Planning, Reporting",30-05-2024,Active
+EMP-0637,Lucas,Kapoor,Lucas Kapoor,employee0637@example.com,Customer Support,Technical Support Engineer,"Chennai, India",EMP-0466,PRJ-007,Support Automation,"Troubleshooting, Customer Service, Documentation",05-07-2017,Active
+EMP-0638,Myra,Kapoor,Myra Kapoor,employee0638@example.com,Customer Support,Customer Success Manager,"Bengaluru, India",EMP-0019,PRJ-004,Data Warehouse,"Troubleshooting, Documentation, Customer Service",29-01-2019,Active
+EMP-0639,Ishaan,Clark,Ishaan Clark,employee0639@example.com,Product,Product Manager,Singapore,EMP-0632,PRJ-008,Internal Developer Platform,"Analytics, Prototyping, User Research",04-10-2024,Active
+EMP-0640,Reyansh,Iyer,Reyansh Iyer,employee0640@example.com,Finance,Finance Manager,"Mumbai, India",EMP-0215,PRJ-003,Customer Portal,"Forecasting, Excel, Budgeting",26-02-2017,Active
+EMP-0641,Kavya,Allen,Kavya Allen,employee0641@example.com,Data & Analytics,Senior Data Analyst,"Toronto, Canada",EMP-0120,PRJ-004,Data Warehouse,"Power BI, Statistics, SQL",19-12-2017,Active
+EMP-0642,Rohan,Clark,Rohan Clark,employee0642@example.com,Data & Analytics,Business Intelligence Analyst,"Delhi, India",EMP-0402,PRJ-001,Company Brain AI,"Statistics, Python, SQL",23-08-2026,Active
+EMP-0643,Daniel,Harris,Daniel Harris,employee0643@example.com,Engineering,Senior Software Engineer,Singapore,EMP-0298,PRJ-007,Support Automation,"System Design, Docker, SQL",08-07-2026,Active
+EMP-0644,Karan,Wright,Karan Wright,employee0644@example.com,Finance,Payroll Specialist,Singapore,EMP-0066,PRJ-008,Internal Developer Platform,"Excel, Reporting, Forecasting",08-08-2019,Active
+EMP-0645,Sai,Lewis,Sai Lewis,employee0645@example.com,Finance,Payroll Specialist,"Delhi, India",EMP-0481,PRJ-006,Security Modernization,"Budgeting, Excel, Reporting",11-01-2022,Active
+EMP-0646,Kabir,Wright,Kabir Wright,employee0646@example.com,Sales,Account Manager,"London, UK",EMP-0369,PRJ-006,Security Modernization,"Presentations, CRM, Negotiation",03-10-2023,Active
+EMP-0647,Advait,Das,Advait Das,employee0647@example.com,Data & Analytics,Analytics Engineer,"Mumbai, India",EMP-0504,PRJ-002,Payment Platform,"Statistics, Python, SQL",25-06-2024,Active
+EMP-0648,Saanvi,Kulkarni,Saanvi Kulkarni,employee0648@example.com,Finance,Payroll Specialist,"Delhi, India",EMP-0163,PRJ-004,Data Warehouse,"Excel, Reporting, Forecasting",31-03-2023,Active
+EMP-0649,Amelia,Gupta,Amelia Gupta,employee0649@example.com,Operations,Operations Analyst,"Bengaluru, India",EMP-0499,PRJ-006,Security Modernization,"Process Improvement, Vendor Management, Reporting",30-10-2021,Active
+EMP-0650,Mia,Verma,Mia Verma,employee0650@example.com,Human Resources,HR Manager,"Toronto, Canada",EMP-0114,PRJ-005,Mobile App,"Recruiting, HRIS, Onboarding",12-09-2018,Inactive
+EMP-0651,James,Young,James Young,employee0651@example.com,Security & IT,IT Support Engineer,"Bengaluru, India",EMP-0371,PRJ-001,Company Brain AI,"Networking, Cloud, Security",09-09-2022,Active
+EMP-0652,Ethan,Walker,Ethan Walker,employee0652@example.com,Marketing,Growth Marketing Manager,"Chennai, India",EMP-0142,PRJ-008,Internal Developer Platform,"SEO, Content, Campaigns",20-03-2025,Active
+EMP-0653,Meera,Sharma,Meera Sharma,employee0653@example.com,Sales,Solutions Engineer,"Austin, USA",EMP-0273,PRJ-004,Data Warehouse,"Presentations, Negotiation, Account Planning",13-05-2026,Active
+EMP-0654,Daniel,Kulkarni,Daniel Kulkarni,employee0654@example.com,Finance,Finance Manager,"Hyderabad, India",EMP-0424,PRJ-003,Customer Portal,"Reporting, Budgeting, Excel",13-06-2025,Active
+EMP-0655,Vivaan,Martin,Vivaan Martin,employee0655@example.com,Customer Support,Customer Success Manager,"Bengaluru, India",EMP-0412,PRJ-003,Customer Portal,"Troubleshooting, Documentation, Ticketing",21-08-2025,Inactive
+EMP-0656,Vihaan,Jackson,Vihaan Jackson,employee0656@example.com,Data & Analytics,Business Intelligence Analyst,"Austin, USA",EMP-0430,PRJ-001,Company Brain AI,"Python, SQL, Power BI",28-05-2024,Active
+EMP-0657,Mason,Brown,Mason Brown,employee0657@example.com,Operations,Program Coordinator,"London, UK",EMP-0211,PRJ-006,Security Modernization,"Vendor Management, Reporting, Process Improvement",02-02-2017,Active
+EMP-0658,Liam,Taylor,Liam Taylor,employee0658@example.com,Security & IT,Systems Administrator,"Pune, India",EMP-0400,PRJ-007,Support Automation,"Cloud, Security, Networking",12-09-2025,Active
+EMP-0659,Amit,Das,Amit Das,employee0659@example.com,Data & Analytics,Analytics Engineer,"Chennai, India",EMP-0164,PRJ-004,Data Warehouse,"Data Modeling, Power BI, Statistics",16-01-2018,Active
+EMP-0660,Ananya,Pillai,Ananya Pillai,employee0660@example.com,Operations,Program Coordinator,"Chennai, India",EMP-0520,PRJ-007,Support Automation,"Process Improvement, Vendor Management, Reporting",01-09-2022,Active
+EMP-0661,Nisha,Pillai,Nisha Pillai,employee0661@example.com,Engineering,Senior Software Engineer,Singapore,EMP-0643,PRJ-001,Company Brain AI,"Docker, JavaScript, System Design",31-01-2022,Active
+EMP-0662,Sara,Pillai,Sara Pillai,employee0662@example.com,Security & IT,Security Analyst,"London, UK",EMP-0254,PRJ-005,Mobile App,"Incident Response, Cloud, Security",24-06-2024,Active
+EMP-0663,James,Anderson,James Anderson,employee0663@example.com,Operations,Operations Manager,"London, UK",EMP-0064,PRJ-008,Internal Developer Platform,"Planning, Vendor Management, Reporting",06-02-2018,Active
+EMP-0664,Advait,Martin,Advait Martin,employee0664@example.com,Data & Analytics,Business Intelligence Analyst,"Austin, USA",EMP-0405,PRJ-002,Payment Platform,"Data Modeling, Statistics, Power BI",21-02-2021,Active
+EMP-0665,Daniel,Harris,Daniel Harris,employee0665@example.com,Security & IT,Systems Administrator,"Hyderabad, India",EMP-0497,PRJ-008,Internal Developer Platform,"Linux, Incident Response, Networking",23-09-2024,Active
+EMP-0666,Charlotte,Hall,Charlotte Hall,employee0666@example.com,Data & Analytics,Analytics Engineer,"Pune, India",EMP-0573,PRJ-002,Payment Platform,"Python, Statistics, Data Modeling",15-10-2024,Active
+EMP-0667,Benjamin,White,Benjamin White,employee0667@example.com,Product,UI Designer,"Austin, USA",EMP-0381,PRJ-002,Payment Platform,"Requirements, Prototyping, Roadmapping",11-05-2018,Active
+EMP-0668,Ira,Lewis,Ira Lewis,employee0668@example.com,Human Resources,HR Manager,"Pune, India",EMP-0313,PRJ-001,Company Brain AI,"Employee Relations, Recruiting, Onboarding",15-11-2025,Active
+EMP-0669,James,Lewis,James Lewis,employee0669@example.com,Sales,Sales Development Representative,"London, UK",EMP-0318,PRJ-001,Company Brain AI,"Account Planning, CRM, Presentations",17-05-2018,Active
+EMP-0670,Rahul,Scott,Rahul Scott,employee0670@example.com,Human Resources,People Operations Analyst,"Toronto, Canada",EMP-0153,PRJ-003,Customer Portal,"Employee Relations, HRIS, Onboarding",18-07-2025,Active
+EMP-0671,Amelia,Green,Amelia Green,employee0671@example.com,Human Resources,HR Generalist,"Austin, USA",,PRJ-007,Support Automation,"Employee Relations, Onboarding, HRIS",06-05-2021,Active
+EMP-0672,Olivia,Mehta,Olivia Mehta,employee0672@example.com,Customer Support,Customer Success Manager,"Austin, USA",EMP-0660,PRJ-003,Customer Portal,"Troubleshooting, Documentation, Customer Service",06-12-2024,Active
+EMP-0673,Amit,King,Amit King,employee0673@example.com,Sales,Account Manager,"Bengaluru, India",EMP-0545,PRJ-001,Company Brain AI,"Negotiation, Presentations, CRM",25-05-2023,Active
+EMP-0674,Lucas,Malhotra,Lucas Malhotra,employee0674@example.com,Engineering,DevOps Engineer,Singapore,EMP-0604,PRJ-004,Data Warehouse,"System Design, Python, SQL",22-04-2026,Active
+EMP-0675,Kavya,Kapoor,Kavya Kapoor,employee0675@example.com,Engineering,QA Engineer,"Bengaluru, India",EMP-0102,PRJ-007,Support Automation,"Docker, Testing, APIs",09-04-2017,Active
+EMP-0676,Shaurya,Chopra,Shaurya Chopra,employee0676@example.com,Marketing,Content Strategist,"Hyderabad, India",,PRJ-002,Payment Platform,"Campaigns, Analytics, Brand Strategy",24-09-2018,On Leave
+EMP-0677,Sophia,Singh,Sophia Singh,employee0677@example.com,Data & Analytics,Data Analyst,"London, UK",EMP-0265,PRJ-005,Mobile App,"SQL, Power BI, Data Modeling",17-05-2021,Active
+EMP-0678,Atharv,Kulkarni,Atharv Kulkarni,employee0678@example.com,Product,Product Manager,"Delhi, India",,PRJ-004,Data Warehouse,"Prototyping, Analytics, Roadmapping",13-07-2022,Active
+EMP-0679,Rahul,Patel,Rahul Patel,employee0679@example.com,Finance,Financial Analyst,"Austin, USA",EMP-0104,PRJ-007,Support Automation,"Forecasting, Excel, Reporting",08-02-2024,Active
+EMP-0680,Saanvi,King,Saanvi King,employee0680@example.com,Operations,Operations Manager,"Hyderabad, India",EMP-0173,PRJ-007,Support Automation,"Process Improvement, Vendor Management, Reporting",01-01-2022,Active
+EMP-0681,Jack,Young,Jack Young,employee0681@example.com,Operations,Procurement Specialist,"Hyderabad, India",,PRJ-008,Internal Developer Platform,"Process Improvement, Planning, Vendor Management",21-06-2017,On Leave
+EMP-0682,Nikhil,Chopra,Nikhil Chopra,employee0682@example.com,Customer Support,Customer Success Manager,"Pune, India",EMP-0547,PRJ-007,Support Automation,"Customer Service, Documentation, Ticketing",10-12-2020,Active
+EMP-0683,Riya,Nair,Riya Nair,employee0683@example.com,Marketing,Marketing Specialist,"Mumbai, India",EMP-0326,PRJ-003,Customer Portal,"Brand Strategy, Campaigns, Content",17-02-2025,Active
+EMP-0684,Ethan,Martin,Ethan Martin,employee0684@example.com,Human Resources,HR Manager,"Toronto, Canada",EMP-0337,PRJ-005,Mobile App,"HRIS, Employee Relations, Recruiting",05-10-2019,Active
+EMP-0685,Nikhil,Clark,Nikhil Clark,employee0685@example.com,Data & Analytics,Data Analyst,"Toronto, Canada",EMP-0552,PRJ-001,Company Brain AI,"Python, Statistics, Power BI",09-02-2017,Active
+EMP-0686,Vivaan,Martin,Vivaan Martin,employee0686@example.com,Product,UI Designer,"Hyderabad, India",EMP-0009,PRJ-002,Payment Platform,"Analytics, Requirements, User Research",16-12-2020,Active
+EMP-0687,Nisha,Sharma,Nisha Sharma,employee0687@example.com,Human Resources,Talent Acquisition Specialist,"Mumbai, India",EMP-0629,PRJ-004,Data Warehouse,"Recruiting, Employee Relations, HRIS",02-05-2025,Active
+EMP-0688,Rohan,Anderson,Rohan Anderson,employee0688@example.com,Sales,Sales Development Representative,"Pune, India",EMP-0654,PRJ-001,Company Brain AI,"Presentations, Account Planning, CRM",24-02-2020,Active
+EMP-0689,Karan,Lewis,Karan Lewis,employee0689@example.com,Marketing,Brand Designer,Singapore,EMP-0067,PRJ-003,Customer Portal,"Content, Brand Strategy, SEO",11-03-2023,Active
+EMP-0690,Henry,Hall,Henry Hall,employee0690@example.com,Security & IT,Security Analyst,"Austin, USA",EMP-0003,PRJ-005,Mobile App,"Networking, Security, Linux",25-02-2019,On Leave
+EMP-0691,Kavya,White,Kavya White,employee0691@example.com,Engineering,QA Engineer,"Austin, USA",EMP-0230,PRJ-005,Mobile App,"System Design, Testing, APIs",14-05-2018,Active
+EMP-0692,Nisha,Brown,Nisha Brown,employee0692@example.com,Finance,Accounts Payable Analyst,Singapore,EMP-0232,PRJ-001,Company Brain AI,"Forecasting, Accounting, Excel",25-05-2021,Inactive
+EMP-0693,Jack,Kulkarni,Jack Kulkarni,employee0693@example.com,Finance,Financial Analyst,"Bengaluru, India",,PRJ-004,Data Warehouse,"Accounting, Reporting, Excel",05-11-2018,Active
+EMP-0694,Isabella,Chopra,Isabella Chopra,employee0694@example.com,Engineering,QA Engineer,"Pune, India",EMP-0533,PRJ-004,Data Warehouse,"System Design, JavaScript, APIs",18-03-2018,Active
+EMP-0695,Isha,Martin,Isha Martin,employee0695@example.com,Product,UI Designer,"Pune, India",EMP-0387,PRJ-002,Payment Platform,"Analytics, Roadmapping, Prototyping",06-01-2024,Active
+EMP-0696,Vihaan,Martin,Vihaan Martin,employee0696@example.com,Product,Associate Product Manager,"Bengaluru, India",EMP-0573,PRJ-001,Company Brain AI,"Prototyping, Analytics, Roadmapping",19-05-2020,Active
+EMP-0697,Muhammad,Green,Muhammad Green,employee0697@example.com,Finance,Payroll Specialist,"London, UK",EMP-0439,PRJ-007,Support Automation,"Reporting, Excel, Forecasting",13-08-2019,Active
+EMP-0698,Myra,Patel,Myra Patel,employee0698@example.com,Security & IT,IT Support Engineer,"Bengaluru, India",,PRJ-008,Internal Developer Platform,"Security, Cloud, Networking",20-10-2022,Active
+EMP-0699,Harper,King,Harper King,employee0699@example.com,Security & IT,Security Analyst,"London, UK",EMP-0636,PRJ-003,Customer Portal,"Incident Response, Security, Cloud",24-02-2024,Active
+EMP-0700,Amelia,Verma,Amelia Verma,employee0700@example.com,Sales,Sales Development Representative,"Austin, USA",EMP-0367,PRJ-001,Company Brain AI,"Account Planning, Presentations, Negotiation",07-06-2018,Active
+EMP-0701,Krishna,Clark,Krishna Clark,employee0701@example.com,Operations,Operations Manager,"Pune, India",EMP-0674,PRJ-005,Mobile App,"Vendor Management, Planning, Reporting",08-10-2023,Active
+EMP-0702,Karan,Young,Karan Young,employee0702@example.com,Engineering,Frontend Engineer,"Mumbai, India",EMP-0350,PRJ-001,Company Brain AI,"Docker, JavaScript, Git",25-09-2021,Active
+EMP-0703,Nikhil,Wilson,Nikhil Wilson,employee0703@example.com,Customer Support,Support Team Lead,"Hyderabad, India",EMP-0044,PRJ-006,Security Modernization,"Documentation, Customer Service, Ticketing",29-11-2023,Active
+EMP-0704,Liam,Rao,Liam Rao,employee0704@example.com,Engineering,Frontend Engineer,"Chennai, India",EMP-0385,PRJ-008,Internal Developer Platform,"Testing, JavaScript, System Design",31-12-2023,Active
+EMP-0705,Aanya,Sharma,Aanya Sharma,employee0705@example.com,Data & Analytics,Data Analyst,"Delhi, India",EMP-0647,PRJ-002,Payment Platform,"SQL, Data Modeling, Statistics",05-01-2021,Active
+EMP-0706,Vivaan,Desai,Vivaan Desai,employee0706@example.com,Human Resources,HR Generalist,"Hyderabad, India",EMP-0568,PRJ-004,Data Warehouse,"Employee Relations, Recruiting, Onboarding",09-03-2020,Active
+EMP-0707,Shaurya,Chopra,Shaurya Chopra,employee0707@example.com,Sales,Account Executive,"Chennai, India",EMP-0313,PRJ-002,Payment Platform,"Negotiation, Presentations, CRM",27-03-2017,Active
+EMP-0708,Noah,Joshi,Noah Joshi,employee0708@example.com,Human Resources,HR Manager,"Hyderabad, India",EMP-0197,PRJ-007,Support Automation,"Recruiting, Onboarding, HRIS",22-12-2024,Active
+EMP-0709,Nikhil,Harris,Nikhil Harris,employee0709@example.com,Human Resources,HR Manager,"Hyderabad, India",EMP-0055,PRJ-004,Data Warehouse,"Employee Relations, HRIS, Onboarding",09-07-2017,Active
+EMP-0710,Benjamin,Walker,Benjamin Walker,employee0710@example.com,Marketing,Content Strategist,Singapore,,PRJ-008,Internal Developer Platform,"SEO, Analytics, Campaigns",08-05-2019,Active
+EMP-0711,Rohan,Hall,Rohan Hall,employee0711@example.com,Operations,Program Coordinator,"Austin, USA",EMP-0507,PRJ-008,Internal Developer Platform,"Vendor Management, Reporting, Planning",04-01-2019,Active
+EMP-0712,Daniel,Wright,Daniel Wright,employee0712@example.com,Security & IT,Systems Administrator,"Mumbai, India",EMP-0314,PRJ-001,Company Brain AI,"Cloud, Incident Response, Linux",29-04-2019,Active
+EMP-0713,Ishaan,Anderson,Ishaan Anderson,employee0713@example.com,Finance,Accounts Payable Analyst,"Delhi, India",EMP-0361,PRJ-005,Mobile App,"Excel, Forecasting, Reporting",06-03-2023,Active
+EMP-0714,Karan,Green,Karan Green,employee0714@example.com,Engineering,Machine Learning Engineer,"London, UK",EMP-0510,PRJ-006,Security Modernization,"System Design, Testing, Git",12-10-2021,Active
+EMP-0715,Shaurya,Martin,Shaurya Martin,employee0715@example.com,Finance,Financial Analyst,"Delhi, India",EMP-0526,PRJ-004,Data Warehouse,"Excel, Accounting, Reporting",24-12-2019,Active
+EMP-0716,Evelyn,Rao,Evelyn Rao,employee0716@example.com,Product,Product Analyst,"Austin, USA",EMP-0202,PRJ-002,Payment Platform,"Roadmapping, Requirements, Prototyping",01-05-2018,Active
+EMP-0717,Ava,Bose,Ava Bose,employee0717@example.com,Marketing,SEO Analyst,"Austin, USA",EMP-0009,PRJ-004,Data Warehouse,"Brand Strategy, Content, Campaigns",30-11-2024,Active
+EMP-0718,Lucas,Jackson,Lucas Jackson,employee0718@example.com,Marketing,SEO Analyst,"Austin, USA",EMP-0153,PRJ-007,Support Automation,"Brand Strategy, SEO, Content",21-03-2026,Active
+EMP-0719,Mason,Malhotra,Mason Malhotra,employee0719@example.com,Sales,Sales Development Representative,"Chennai, India",EMP-0321,PRJ-008,Internal Developer Platform,"Presentations, Account Planning, Negotiation",16-08-2019,Active
+EMP-0720,Advait,Martin,Advait Martin,employee0720@example.com,Finance,Payroll Specialist,"Hyderabad, India",EMP-0132,PRJ-008,Internal Developer Platform,"Reporting, Excel, Forecasting",26-07-2026,Active
+EMP-0721,Amelia,Taylor,Amelia Taylor,employee0721@example.com,Engineering,Machine Learning Engineer,"London, UK",EMP-0708,PRJ-006,Security Modernization,"Git, Testing, Docker",13-07-2019,Active
+EMP-0722,Vikram,Verma,Vikram Verma,employee0722@example.com,Human Resources,HR Generalist,"London, UK",EMP-0401,PRJ-003,Customer Portal,"HRIS, Onboarding, Employee Relations",22-09-2018,Active
+EMP-0723,Rahul,Reddy,Rahul Reddy,employee0723@example.com,Finance,Accountant,"Hyderabad, India",EMP-0567,PRJ-006,Security Modernization,"Budgeting, Accounting, Excel",22-05-2023,Active
+EMP-0724,Vivaan,Kapoor,Vivaan Kapoor,employee0724@example.com,Security & IT,Systems Administrator,"Mumbai, India",EMP-0537,PRJ-004,Data Warehouse,"Linux, Security, Networking",12-10-2017,Active
+EMP-0725,Neha,Sharma,Neha Sharma,employee0725@example.com,Engineering,QA Engineer,"Bengaluru, India",EMP-0429,PRJ-003,Customer Portal,"Git, Testing, JavaScript",31-08-2020,Active
+EMP-0726,Harper,Malhotra,Harper Malhotra,employee0726@example.com,Product,UX Designer,"Toronto, Canada",EMP-0589,PRJ-003,Customer Portal,"Requirements, Analytics, Prototyping",23-04-2019,On Leave
+EMP-0727,Karan,Thompson,Karan Thompson,employee0727@example.com,Security & IT,Security Analyst,"Bengaluru, India",EMP-0620,PRJ-005,Mobile App,"Networking, Cloud, Linux",07-04-2019,Active
+EMP-0728,Jack,King,Jack King,employee0728@example.com,Operations,Program Coordinator,"Bengaluru, India",EMP-0468,PRJ-008,Internal Developer Platform,"Reporting, Vendor Management, Process Improvement",28-02-2022,Active
+EMP-0729,Isha,Kapoor,Isha Kapoor,employee0729@example.com,Marketing,Growth Marketing Manager,"London, UK",EMP-0188,PRJ-007,Support Automation,"Content, Analytics, Brand Strategy",18-10-2019,Active
+EMP-0730,Liam,Verma,Liam Verma,employee0730@example.com,Product,UX Designer,"Bengaluru, India",EMP-0223,PRJ-004,Data Warehouse,"Requirements, Prototyping, Analytics",09-10-2018,Active
+EMP-0731,Sai,Anderson,Sai Anderson,employee0731@example.com,Finance,Accounts Payable Analyst,"Toronto, Canada",EMP-0213,PRJ-002,Payment Platform,"Excel, Accounting, Forecasting",22-06-2025,Active
+EMP-0732,Arjun,Thompson,Arjun Thompson,employee0732@example.com,Customer Support,Support Specialist,"Pune, India",,PRJ-007,Support Automation,"Ticketing, Troubleshooting, Customer Service",08-11-2020,Active
+EMP-0733,Noah,Thompson,Noah Thompson,employee0733@example.com,Data & Analytics,Data Scientist,"Mumbai, India",EMP-0449,PRJ-008,Internal Developer Platform,"SQL, Data Modeling, Power BI",05-03-2022,Active
+EMP-0734,Ishaan,Patel,Ishaan Patel,employee0734@example.com,Marketing,Content Strategist,"London, UK",EMP-0688,PRJ-002,Payment Platform,"Campaigns, SEO, Brand Strategy",27-12-2018,Active
+EMP-0735,Nisha,Taylor,Nisha Taylor,employee0735@example.com,Marketing,Content Strategist,"Pune, India",EMP-0536,PRJ-003,Customer Portal,"SEO, Content, Analytics",07-06-2019,Active
+EMP-0736,Liam,Pillai,Liam Pillai,employee0736@example.com,Product,UX Designer,"London, UK",EMP-0256,PRJ-008,Internal Developer Platform,"Prototyping, Roadmapping, Analytics",03-08-2017,Active
+EMP-0737,Reyansh,Patel,Reyansh Patel,employee0737@example.com,Sales,Sales Development Representative,"Bengaluru, India",EMP-0099,PRJ-007,Support Automation,"CRM, Negotiation, Presentations",25-04-2017,Active
+EMP-0738,Aditya,White,Aditya White,employee0738@example.com,Data & Analytics,Senior Data Analyst,"Mumbai, India",EMP-0555,PRJ-002,Payment Platform,"Power BI, Data Modeling, Statistics",23-02-2026,Active
+EMP-0739,Kabir,Malhotra,Kabir Malhotra,employee0739@example.com,Finance,Financial Analyst,"London, UK",EMP-0013,PRJ-002,Payment Platform,"Accounting, Forecasting, Excel",31-12-2020,Active
+EMP-0740,Arjun,Bose,Arjun Bose,employee0740@example.com,Customer Support,Technical Support Engineer,"Delhi, India",EMP-0512,PRJ-006,Security Modernization,"Troubleshooting, Ticketing, Customer Service",29-06-2017,Inactive
+EMP-0741,Amit,King,Amit King,employee0741@example.com,Product,Product Operations Specialist,"London, UK",EMP-0711,PRJ-003,Customer Portal,"Roadmapping, Requirements, Analytics",29-10-2019,Active
+EMP-0742,Benjamin,Clark,Benjamin Clark,employee0742@example.com,Data & Analytics,Data Scientist,"Austin, USA",EMP-0239,PRJ-002,Payment Platform,"SQL, Statistics, Python",04-10-2020,Active
+EMP-0743,Vivaan,Green,Vivaan Green,employee0743@example.com,Engineering,Frontend Engineer,"Mumbai, India",EMP-0062,PRJ-002,Payment Platform,"Testing, Docker, System Design",19-06-2020,Active
+EMP-0744,Atharv,Khan,Atharv Khan,employee0744@example.com,Customer Support,Customer Success Manager,"Chennai, India",EMP-0326,PRJ-007,Support Automation,"Troubleshooting, Ticketing, Customer Service",18-04-2019,Active
+EMP-0745,Olivia,Das,Olivia Das,employee0745@example.com,Engineering,Data Engineer,"Mumbai, India",EMP-0681,PRJ-001,Company Brain AI,"Docker, APIs, JavaScript",28-07-2019,Inactive
+EMP-0746,Charlotte,Thomas,Charlotte Thomas,employee0746@example.com,Sales,Account Manager,"Bengaluru, India",EMP-0072,PRJ-006,Security Modernization,"Presentations, Account Planning, CRM",22-01-2019,On Leave
+EMP-0747,Advait,Iyer,Advait Iyer,employee0747@example.com,Engineering,Backend Engineer,"Bengaluru, India",EMP-0479,PRJ-002,Payment Platform,"Testing, JavaScript, SQL",13-12-2018,Active
+EMP-0748,Kavya,Kapoor,Kavya Kapoor,employee0748@example.com,Sales,Sales Development Representative,"Mumbai, India",EMP-0493,PRJ-004,Data Warehouse,"Account Planning, Presentations, Negotiation",26-05-2020,Active
+EMP-0749,Pari,Joshi,Pari Joshi,employee0749@example.com,Human Resources,People Operations Analyst,"Hyderabad, India",EMP-0494,PRJ-008,Internal Developer Platform,"Onboarding, HRIS, Employee Relations",13-12-2021,Active
+EMP-0750,Benjamin,Mehta,Benjamin Mehta,employee0750@example.com,Finance,Payroll Specialist,"Hyderabad, India",EMP-0475,PRJ-005,Mobile App,"Reporting, Forecasting, Accounting",04-09-2023,Active
+EMP-0751,Sneha,Scott,Sneha Scott,employee0751@example.com,Marketing,Growth Marketing Manager,"Toronto, Canada",EMP-0195,PRJ-008,Internal Developer Platform,"Campaigns, Content, Brand Strategy",22-10-2017,Active
+EMP-0752,Rohan,Jackson,Rohan Jackson,employee0752@example.com,Operations,Program Coordinator,"Delhi, India",EMP-0603,PRJ-007,Support Automation,"Vendor Management, Planning, Reporting",05-06-2021,Active
+EMP-0753,Pari,King,Pari King,employee0753@example.com,Engineering,Senior Software Engineer,"Chennai, India",EMP-0501,PRJ-003,Customer Portal,"Git, APIs, Docker",07-03-2019,Active
+EMP-0754,Olivia,Thomas,Olivia Thomas,employee0754@example.com,Human Resources,HR Generalist,"Pune, India",EMP-0371,PRJ-007,Support Automation,"Employee Relations, Recruiting, Onboarding",02-04-2025,Active
+EMP-0755,Aadhya,Scott,Aadhya Scott,employee0755@example.com,Engineering,Backend Engineer,Singapore,EMP-0679,PRJ-008,Internal Developer Platform,"APIs, System Design, JavaScript",21-08-2024,Active
+EMP-0756,Mia,Mehta,Mia Mehta,employee0756@example.com,Engineering,Senior Software Engineer,"London, UK",EMP-0438,PRJ-007,Support Automation,"JavaScript, SQL, System Design",17-06-2021,Active
+EMP-0757,Amit,Thomas,Amit Thomas,employee0757@example.com,Marketing,Brand Designer,Singapore,EMP-0353,PRJ-005,Mobile App,"Analytics, SEO, Brand Strategy",26-03-2025,Active
+EMP-0758,Evelyn,Jackson,Evelyn Jackson,employee0758@example.com,Marketing,Content Strategist,"Bengaluru, India",,PRJ-005,Mobile App,"Content, Analytics, SEO",27-01-2017,Active
+EMP-0759,Olivia,Das,Olivia Das,employee0759@example.com,Operations,Procurement Specialist,"Hyderabad, India",EMP-0187,PRJ-007,Support Automation,"Planning, Reporting, Process Improvement",30-11-2018,Active
+EMP-0760,Vikram,Malhotra,Vikram Malhotra,employee0760@example.com,Product,UX Designer,"Delhi, India",EMP-0419,PRJ-003,Customer Portal,"Roadmapping, User Research, Prototyping",04-04-2019,Active
+EMP-0761,Charlotte,Joshi,Charlotte Joshi,employee0761@example.com,Security & IT,IT Support Engineer,"Delhi, India",,PRJ-002,Payment Platform,"Networking, Linux, Incident Response",15-04-2020,Active
+EMP-0762,Rohan,Reddy,Rohan Reddy,employee0762@example.com,Sales,Solutions Engineer,"Bengaluru, India",EMP-0008,PRJ-001,Company Brain AI,"Account Planning, CRM, Presentations",08-09-2017,Active
+EMP-0763,Evelyn,Lewis,Evelyn Lewis,employee0763@example.com,Operations,Program Coordinator,"Chennai, India",EMP-0352,PRJ-008,Internal Developer Platform,"Vendor Management, Reporting, Planning",28-06-2025,Inactive
+EMP-0764,Noah,Jackson,Noah Jackson,employee0764@example.com,Sales,Sales Manager,"Bengaluru, India",,PRJ-007,Support Automation,"CRM, Negotiation, Account Planning",07-11-2023,Active
+EMP-0765,Vivaan,Scott,Vivaan Scott,employee0765@example.com,Finance,Accountant,"Mumbai, India",EMP-0634,PRJ-002,Payment Platform,"Reporting, Accounting, Budgeting",30-09-2026,Active
+EMP-0766,Noah,Desai,Noah Desai,employee0766@example.com,Customer Support,Support Team Lead,"Pune, India",EMP-0754,PRJ-001,Company Brain AI,"Documentation, Troubleshooting, Customer Service",27-02-2024,Active
+EMP-0767,Nikhil,Lewis,Nikhil Lewis,employee0767@example.com,Customer Support,Technical Support Engineer,"Toronto, Canada",EMP-0717,PRJ-007,Support Automation,"Troubleshooting, Customer Service, Documentation",16-04-2025,Active
+EMP-0768,Nikhil,Desai,Nikhil Desai,employee0768@example.com,Finance,Finance Manager,"Toronto, Canada",EMP-0309,PRJ-003,Customer Portal,"Reporting, Excel, Budgeting",01-11-2022,Active
+EMP-0769,Ishaan,Martin,Ishaan Martin,employee0769@example.com,Operations,Procurement Specialist,"Hyderabad, India",EMP-0676,PRJ-002,Payment Platform,"Planning, Process Improvement, Vendor Management",29-05-2022,Active
+EMP-0770,Sophia,Patel,Sophia Patel,employee0770@example.com,Product,UX Designer,"Delhi, India",EMP-0687,PRJ-003,Customer Portal,"Analytics, Requirements, Roadmapping",30-08-2020,Active
+EMP-0771,Daniel,Lewis,Daniel Lewis,employee0771@example.com,Data & Analytics,Analytics Engineer,Singapore,,PRJ-002,Payment Platform,"Power BI, Python, Data Modeling",03-12-2025,Active
+EMP-0772,Benjamin,Harris,Benjamin Harris,employee0772@example.com,Finance,Accounts Payable Analyst,"Bengaluru, India",EMP-0349,PRJ-004,Data Warehouse,"Accounting, Excel, Forecasting",05-07-2019,Active
+EMP-0773,Vikram,Anderson,Vikram Anderson,employee0773@example.com,Sales,Account Executive,"Delhi, India",,PRJ-003,Customer Portal,"Account Planning, Negotiation, CRM",28-07-2026,Active
+EMP-0774,Anika,Anderson,Anika Anderson,employee0774@example.com,Finance,Payroll Specialist,"London, UK",,PRJ-003,Customer Portal,"Reporting, Forecasting, Excel",30-10-2022,Active
+EMP-0775,James,Das,James Das,employee0775@example.com,Human Resources,Talent Acquisition Specialist,"Hyderabad, India",EMP-0720,PRJ-004,Data Warehouse,"Onboarding, Recruiting, Employee Relations",10-08-2022,Active
+EMP-0776,Karan,Nair,Karan Nair,employee0776@example.com,Human Resources,HR Manager,"Toronto, Canada",EMP-0386,PRJ-005,Mobile App,"Onboarding, HRIS, Recruiting",05-07-2026,Active
+EMP-0777,James,Malhotra,James Malhotra,employee0777@example.com,Human Resources,Talent Acquisition Specialist,"London, UK",EMP-0676,PRJ-004,Data Warehouse,"Recruiting, Onboarding, Employee Relations",08-11-2024,Active
+EMP-0778,Sneha,Jackson,Sneha Jackson,employee0778@example.com,Data & Analytics,Data Analyst,"London, UK",,PRJ-006,Security Modernization,"Statistics, Power BI, Python",27-09-2021,Active
+EMP-0779,Liam,Young,Liam Young,employee0779@example.com,Marketing,Content Strategist,"Pune, India",EMP-0727,PRJ-007,Support Automation,"Content, Campaigns, Analytics",03-02-2018,Active
+EMP-0780,Ayaan,Martin,Ayaan Martin,employee0780@example.com,Data & Analytics,Analytics Engineer,"Mumbai, India",EMP-0010,PRJ-008,Internal Developer Platform,"Python, Data Modeling, SQL",07-04-2020,Active
+EMP-0781,Emma,Khan,Emma Khan,employee0781@example.com,Security & IT,IT Support Engineer,"Chennai, India",EMP-0184,PRJ-007,Support Automation,"Cloud, Networking, Linux",16-10-2021,On Leave
+EMP-0782,Olivia,Wilson,Olivia Wilson,employee0782@example.com,Product,UI Designer,"Bengaluru, India",EMP-0501,PRJ-007,Support Automation,"Analytics, User Research, Roadmapping",01-09-2018,Active
+EMP-0783,Olivia,Thomas,Olivia Thomas,employee0783@example.com,Security & IT,Security Analyst,"Toronto, Canada",EMP-0123,PRJ-002,Payment Platform,"Linux, Incident Response, Cloud",21-09-2025,Active
+EMP-0784,Olivia,Walker,Olivia Walker,employee0784@example.com,Product,UX Designer,"Bengaluru, India",EMP-0186,PRJ-004,Data Warehouse,"Prototyping, Analytics, User Research",05-04-2017,Active
+EMP-0785,Vikram,Iyer,Vikram Iyer,employee0785@example.com,Finance,Finance Manager,"Pune, India",EMP-0550,PRJ-002,Payment Platform,"Excel, Forecasting, Budgeting",25-08-2020,Active
+EMP-0786,Arjun,Hall,Arjun Hall,employee0786@example.com,Operations,Procurement Specialist,"Hyderabad, India",EMP-0712,PRJ-002,Payment Platform,"Planning, Vendor Management, Process Improvement",14-06-2025,Active
+EMP-0787,Amelia,Brown,Amelia Brown,employee0787@example.com,Operations,Procurement Specialist,"Hyderabad, India",EMP-0263,PRJ-002,Payment Platform,"Planning, Vendor Management, Process Improvement",10-06-2017,Active
+EMP-0788,Sai,Walker,Sai Walker,employee0788@example.com,Engineering,Senior Software Engineer,"Pune, India",EMP-0048,PRJ-005,Mobile App,"APIs, Testing, Docker",29-01-2021,On Leave
+EMP-0789,Noah,Allen,Noah Allen,employee0789@example.com,Operations,Program Coordinator,"Austin, USA",EMP-0361,PRJ-008,Internal Developer Platform,"Reporting, Vendor Management, Planning",27-07-2018,Active
+EMP-0790,Liam,Reddy,Liam Reddy,employee0790@example.com,Operations,Operations Manager,"Delhi, India",EMP-0221,PRJ-001,Company Brain AI,"Process Improvement, Reporting, Vendor Management",30-08-2019,On Leave
+EMP-0791,Pooja,Taylor,Pooja Taylor,employee0791@example.com,Security & IT,Security Analyst,"Austin, USA",EMP-0391,PRJ-005,Mobile App,"Incident Response, Linux, Networking",11-06-2018,Active
+EMP-0792,Priya,Mehta,Priya Mehta,employee0792@example.com,Data & Analytics,Business Intelligence Analyst,"Mumbai, India",,PRJ-005,Mobile App,"Statistics, Python, Power BI",03-08-2024,Active
+EMP-0793,Vikram,Walker,Vikram Walker,employee0793@example.com,Sales,Sales Manager,"London, UK",,PRJ-003,Customer Portal,"Negotiation, Presentations, Account Planning",16-09-2021,Active
+EMP-0794,Sai,Allen,Sai Allen,employee0794@example.com,Product,Product Analyst,"Chennai, India",EMP-0372,PRJ-002,Payment Platform,"Prototyping, Analytics, Roadmapping",02-09-2024,Active
+EMP-0795,Charlotte,Rao,Charlotte Rao,employee0795@example.com,Marketing,Content Strategist,"London, UK",EMP-0127,PRJ-005,Mobile App,"SEO, Analytics, Brand Strategy",10-02-2017,Active
+EMP-0796,James,Lewis,James Lewis,employee0796@example.com,Marketing,Brand Designer,"Delhi, India",EMP-0050,PRJ-002,Payment Platform,"Campaigns, Brand Strategy, Analytics",07-12-2022,Active
+EMP-0797,Sara,Allen,Sara Allen,employee0797@example.com,Finance,Accountant,"Pune, India",EMP-0731,PRJ-007,Support Automation,"Reporting, Forecasting, Budgeting",08-05-2022,Active
+EMP-0798,Pari,King,Pari King,employee0798@example.com,Data & Analytics,Senior Data Analyst,Singapore,EMP-0469,PRJ-005,Mobile App,"Power BI, Python, Data Modeling",05-08-2017,Active
+EMP-0799,Karan,Das,Karan Das,employee0799@example.com,Human Resources,People Operations Analyst,"Delhi, India",EMP-0321,PRJ-005,Mobile App,"Employee Relations, Onboarding, Recruiting",19-10-2021,Active
+EMP-0800,Mason,Kulkarni,Mason Kulkarni,employee0800@example.com,Product,Product Manager,"Delhi, India",EMP-0505,PRJ-002,Payment Platform,"Prototyping, Roadmapping, Analytics",08-11-2018,Active
+EMP-0801,Emma,Walker,Emma Walker,employee0801@example.com,Engineering,Data Engineer,"Austin, USA",EMP-0416,PRJ-003,Customer Portal,"System Design, SQL, Docker",19-05-2022,Active
+EMP-0802,Sophia,Harris,Sophia Harris,employee0802@example.com,Sales,Account Executive,"Hyderabad, India",EMP-0783,PRJ-006,Security Modernization,"CRM, Account Planning, Negotiation",28-09-2019,Active
+EMP-0803,Arjun,Anderson,Arjun Anderson,employee0803@example.com,Sales,Sales Development Representative,"Toronto, Canada",EMP-0383,PRJ-003,Customer Portal,"Account Planning, CRM, Negotiation",06-10-2022,On Leave
+EMP-0804,Isabella,Allen,Isabella Allen,employee0804@example.com,Human Resources,Talent Acquisition Specialist,"Delhi, India",EMP-0756,PRJ-002,Payment Platform,"HRIS, Employee Relations, Onboarding",03-04-2020,Active
+EMP-0805,Evelyn,Pillai,Evelyn Pillai,employee0805@example.com,Finance,Accountant,"Chennai, India",,PRJ-001,Company Brain AI,"Reporting, Budgeting, Excel",12-03-2022,Active
+EMP-0806,Muhammad,Sharma,Muhammad Sharma,employee0806@example.com,Marketing,SEO Analyst,"Pune, India",EMP-0504,PRJ-006,Security Modernization,"Content, Analytics, Brand Strategy",07-02-2025,Active
+EMP-0807,Meera,Nair,Meera Nair,employee0807@example.com,Operations,Operations Manager,"Mumbai, India",EMP-0384,PRJ-008,Internal Developer Platform,"Planning, Vendor Management, Reporting",29-01-2017,Active
+EMP-0808,Amit,Bose,Amit Bose,employee0808@example.com,Finance,Accountant,"Chennai, India",EMP-0006,PRJ-002,Payment Platform,"Budgeting, Forecasting, Excel",02-12-2021,Active
+EMP-0809,Atharv,Das,Atharv Das,employee0809@example.com,Sales,Account Executive,"Pune, India",EMP-0204,PRJ-001,Company Brain AI,"Presentations, Negotiation, Account Planning",02-07-2018,On Leave
+EMP-0810,Meera,Lewis,Meera Lewis,employee0810@example.com,Marketing,Marketing Specialist,"Austin, USA",EMP-0760,PRJ-008,Internal Developer Platform,"Content, Campaigns, Brand Strategy",21-12-2025,Active
+EMP-0811,Sai,Reddy,Sai Reddy,employee0811@example.com,Finance,Accountant,"Pune, India",EMP-0243,PRJ-001,Company Brain AI,"Forecasting, Accounting, Budgeting",01-06-2018,Active
+EMP-0812,Nikhil,Sharma,Nikhil Sharma,employee0812@example.com,Human Resources,People Operations Analyst,"Bengaluru, India",EMP-0254,PRJ-007,Support Automation,"HRIS, Employee Relations, Onboarding",21-05-2022,Active
+EMP-0813,Ananya,Bose,Ananya Bose,employee0813@example.com,Operations,Operations Manager,"London, UK",EMP-0724,PRJ-002,Payment Platform,"Vendor Management, Reporting, Process Improvement",10-09-2026,Active
+EMP-0814,Mason,Walker,Mason Walker,employee0814@example.com,Product,Product Operations Specialist,"Bengaluru, India",EMP-0040,PRJ-003,Customer Portal,"Prototyping, User Research, Roadmapping",12-02-2019,Active
+EMP-0815,Kavya,Patel,Kavya Patel,employee0815@example.com,Sales,Sales Development Representative,"Austin, USA",EMP-0649,PRJ-004,Data Warehouse,"CRM, Negotiation, Account Planning",08-01-2018,Inactive
+EMP-0816,Kavya,Clark,Kavya Clark,employee0816@example.com,Sales,Sales Manager,"Delhi, India",EMP-0373,PRJ-001,Company Brain AI,"Presentations, Account Planning, CRM",20-09-2022,Active
+EMP-0817,Ananya,Brown,Ananya Brown,employee0817@example.com,Human Resources,People Operations Analyst,"Chennai, India",EMP-0484,PRJ-001,Company Brain AI,"Recruiting, Onboarding, HRIS",15-01-2019,Active
+EMP-0818,Kavya,Kapoor,Kavya Kapoor,employee0818@example.com,Security & IT,IT Support Engineer,"Bengaluru, India",EMP-0014,PRJ-005,Mobile App,"Security, Incident Response, Cloud",06-07-2022,Active
+EMP-0819,Aanya,Anderson,Aanya Anderson,employee0819@example.com,Data & Analytics,Data Scientist,"London, UK",EMP-0109,PRJ-006,Security Modernization,"Power BI, Python, Data Modeling",03-09-2019,Active
+EMP-0820,Aditya,Wright,Aditya Wright,employee0820@example.com,Security & IT,IT Support Engineer,"Austin, USA",EMP-0309,PRJ-004,Data Warehouse,"Linux, Networking, Incident Response",02-03-2019,Active
+EMP-0821,Mason,Khan,Mason Khan,employee0821@example.com,Sales,Account Manager,"Austin, USA",EMP-0375,PRJ-001,Company Brain AI,"Negotiation, Presentations, Account Planning",08-06-2018,Active
+EMP-0822,Arjun,Clark,Arjun Clark,employee0822@example.com,Product,UX Designer,Singapore,EMP-0133,PRJ-007,Support Automation,"Prototyping, Roadmapping, Analytics",16-11-2022,Active
+EMP-0823,Lucas,Desai,Lucas Desai,employee0823@example.com,Security & IT,IT Support Engineer,"Toronto, Canada",EMP-0394,PRJ-007,Support Automation,"Incident Response, Networking, Linux",21-07-2022,Active
+EMP-0824,Nikhil,Bose,Nikhil Bose,employee0824@example.com,Finance,Payroll Specialist,"Mumbai, India",EMP-0010,PRJ-004,Data Warehouse,"Excel, Forecasting, Accounting",24-01-2019,Active
+EMP-0825,Karan,Hall,Karan Hall,employee0825@example.com,Operations,Procurement Specialist,"Austin, USA",EMP-0230,PRJ-005,Mobile App,"Planning, Reporting, Vendor Management",27-05-2020,Active
+EMP-0826,Aditya,Khan,Aditya Khan,employee0826@example.com,Sales,Sales Manager,"Mumbai, India",EMP-0002,PRJ-005,Mobile App,"Account Planning, CRM, Presentations",29-06-2018,Active
+EMP-0827,Anika,Mehta,Anika Mehta,employee0827@example.com,Security & IT,Cloud Security Engineer,"Delhi, India",EMP-0059,PRJ-005,Mobile App,"Cloud, Linux, Security",05-02-2025,Active
+EMP-0828,Kabir,Bose,Kabir Bose,employee0828@example.com,Engineering,QA Engineer,Singapore,EMP-0764,PRJ-003,Customer Portal,"Python, SQL, Docker",15-11-2019,Active
+EMP-0829,Sneha,Malhotra,Sneha Malhotra,employee0829@example.com,Marketing,Brand Designer,Singapore,EMP-0771,PRJ-008,Internal Developer Platform,"Campaigns, Brand Strategy, SEO",23-06-2019,Active
+EMP-0830,Mason,Harris,Mason Harris,employee0830@example.com,Customer Support,Technical Support Engineer,"Hyderabad, India",EMP-0181,PRJ-006,Security Modernization,"Ticketing, Troubleshooting, Customer Service",31-08-2018,Active
+EMP-0831,Olivia,Das,Olivia Das,employee0831@example.com,Customer Support,Technical Support Engineer,Singapore,EMP-0147,PRJ-001,Company Brain AI,"Customer Service, Troubleshooting, Ticketing",24-06-2020,Active
+EMP-0832,Jack,Jackson,Jack Jackson,employee0832@example.com,Sales,Solutions Engineer,Singapore,EMP-0394,PRJ-002,Payment Platform,"Negotiation, Account Planning, CRM",14-02-2025,Active
+EMP-0833,Ayaan,Kulkarni,Ayaan Kulkarni,employee0833@example.com,Engineering,Software Engineer,"Pune, India",EMP-0010,PRJ-002,Payment Platform,"APIs, Docker, SQL",02-01-2020,On Leave
+EMP-0834,Ava,Wilson,Ava Wilson,employee0834@example.com,Product,UI Designer,"Toronto, Canada",EMP-0315,PRJ-002,Payment Platform,"User Research, Analytics, Requirements",09-04-2019,Active
+EMP-0835,Vihaan,Allen,Vihaan Allen,employee0835@example.com,Data & Analytics,Senior Data Analyst,"Pune, India",EMP-0304,PRJ-005,Mobile App,"Data Modeling, SQL, Statistics",15-01-2024,Active
+EMP-0836,Aarav,Rao,Aarav Rao,employee0836@example.com,Finance,Accountant,"Chennai, India",EMP-0232,PRJ-001,Company Brain AI,"Budgeting, Reporting, Excel",18-07-2019,On Leave
+EMP-0837,Rohan,Joshi,Rohan Joshi,employee0837@example.com,Finance,Financial Analyst,"Bengaluru, India",EMP-0122,PRJ-002,Payment Platform,"Excel, Accounting, Forecasting",09-07-2019,Active
+EMP-0838,Nikhil,Khan,Nikhil Khan,employee0838@example.com,Product,Product Manager,"Hyderabad, India",EMP-0154,PRJ-003,Customer Portal,"Prototyping, Requirements, Analytics",22-10-2021,Active
+EMP-0839,James,Das,James Das,employee0839@example.com,Marketing,Brand Designer,"Chennai, India",EMP-0831,PRJ-006,Security Modernization,"Campaigns, Analytics, Brand Strategy",02-03-2018,Active
+EMP-0840,Charlotte,Khan,Charlotte Khan,employee0840@example.com,Product,Product Manager,"Toronto, Canada",EMP-0116,PRJ-003,Customer Portal,"User Research, Analytics, Prototyping",04-08-2020,Active
+EMP-0841,Reyansh,Brown,Reyansh Brown,employee0841@example.com,Marketing,Content Strategist,"Toronto, Canada",EMP-0711,PRJ-003,Customer Portal,"Analytics, Campaigns, Content",15-01-2019,Inactive
+EMP-0842,Ayaan,Kulkarni,Ayaan Kulkarni,employee0842@example.com,Security & IT,Cloud Security Engineer,"Austin, USA",EMP-0550,PRJ-007,Support Automation,"Incident Response, Linux, Security",11-09-2021,Active
+EMP-0843,Pooja,White,Pooja White,employee0843@example.com,Finance,Financial Analyst,"Pune, India",EMP-0018,PRJ-004,Data Warehouse,"Excel, Forecasting, Budgeting",19-11-2024,Active
+EMP-0844,Jack,Nair,Jack Nair,employee0844@example.com,Customer Support,Technical Support Engineer,"Toronto, Canada",EMP-0565,PRJ-001,Company Brain AI,"Documentation, Troubleshooting, Customer Service",01-12-2020,Inactive
+EMP-0845,Advait,Rao,Advait Rao,employee0845@example.com,Finance,Accountant,"Hyderabad, India",EMP-0027,PRJ-001,Company Brain AI,"Forecasting, Excel, Accounting",18-05-2025,Active
+EMP-0846,Vihaan,Reddy,Vihaan Reddy,employee0846@example.com,Finance,Finance Manager,"Hyderabad, India",EMP-0081,PRJ-002,Payment Platform,"Reporting, Forecasting, Excel",08-05-2022,Active
+EMP-0847,Krishna,Kapoor,Krishna Kapoor,employee0847@example.com,Engineering,Data Engineer,"Delhi, India",EMP-0740,PRJ-008,Internal Developer Platform,"APIs, Docker, SQL",04-05-2025,Active
+EMP-0848,Sai,Khan,Sai Khan,employee0848@example.com,Engineering,DevOps Engineer,"Austin, USA",EMP-0406,PRJ-001,Company Brain AI,"Python, SQL, JavaScript",16-03-2024,Active
+EMP-0849,Jack,King,Jack King,employee0849@example.com,Customer Support,Customer Success Manager,"Delhi, India",EMP-0535,PRJ-005,Mobile App,"Customer Service, Ticketing, Troubleshooting",15-12-2024,Active
+EMP-0850,Riya,Green,Riya Green,employee0850@example.com,Data & Analytics,Senior Data Analyst,"Austin, USA",EMP-0080,PRJ-001,Company Brain AI,"Statistics, Python, Power BI",16-06-2019,Active
+EMP-0851,Anika,Jackson,Anika Jackson,employee0851@example.com,Customer Support,Support Team Lead,"Mumbai, India",EMP-0107,PRJ-007,Support Automation,"Troubleshooting, Customer Service, Documentation",07-11-2018,Active
+EMP-0852,Vivaan,Kulkarni,Vivaan Kulkarni,employee0852@example.com,Security & IT,Cloud Security Engineer,"Mumbai, India",EMP-0775,PRJ-005,Mobile App,"Incident Response, Networking, Linux",29-10-2018,Active
+EMP-0853,Atharv,Verma,Atharv Verma,employee0853@example.com,Sales,Account Manager,Singapore,EMP-0496,PRJ-004,Data Warehouse,"CRM, Account Planning, Presentations",08-01-2020,Active
+EMP-0854,Saanvi,Sharma,Saanvi Sharma,employee0854@example.com,Human Resources,HR Generalist,"Chennai, India",EMP-0744,PRJ-006,Security Modernization,"HRIS, Employee Relations, Recruiting",06-06-2025,Active
+EMP-0855,Myra,White,Myra White,employee0855@example.com,Data & Analytics,Data Analyst,"London, UK",EMP-0039,PRJ-002,Payment Platform,"Python, SQL, Power BI",19-08-2022,Active
+EMP-0856,Reyansh,Mehta,Reyansh Mehta,employee0856@example.com,Data & Analytics,Business Intelligence Analyst,"Austin, USA",EMP-0624,PRJ-004,Data Warehouse,"Python, Data Modeling, Power BI",03-06-2019,Active
+EMP-0857,Lucas,Iyer,Lucas Iyer,employee0857@example.com,Human Resources,People Operations Analyst,"Pune, India",EMP-0793,PRJ-006,Security Modernization,"HRIS, Onboarding, Employee Relations",06-04-2020,Active
+EMP-0858,Isha,Scott,Isha Scott,employee0858@example.com,Sales,Sales Development Representative,"Hyderabad, India",EMP-0317,PRJ-002,Payment Platform,"Presentations, CRM, Account Planning",17-09-2018,Active
+EMP-0859,Muhammad,Thompson,Muhammad Thompson,employee0859@example.com,Product,UX Designer,"Delhi, India",EMP-0362,PRJ-006,Security Modernization,"Requirements, User Research, Roadmapping",27-11-2018,Active
+EMP-0860,Aadhya,Clark,Aadhya Clark,employee0860@example.com,Data & Analytics,Business Intelligence Analyst,Singapore,EMP-0373,PRJ-005,Mobile App,"Statistics, Python, SQL",23-07-2025,Active
+EMP-0861,Benjamin,Green,Benjamin Green,employee0861@example.com,Finance,Payroll Specialist,"Bengaluru, India",EMP-0519,PRJ-003,Customer Portal,"Accounting, Reporting, Forecasting",11-12-2021,Active
+EMP-0862,Ava,Kulkarni,Ava Kulkarni,employee0862@example.com,Engineering,Software Engineer,"Hyderabad, India",EMP-0075,PRJ-001,Company Brain AI,"JavaScript, APIs, Testing",26-09-2018,Active
+EMP-0863,Sara,Thompson,Sara Thompson,employee0863@example.com,Customer Support,Support Specialist,"Hyderabad, India",EMP-0407,PRJ-008,Internal Developer Platform,"Ticketing, Troubleshooting, Documentation",16-03-2024,Active
+EMP-0864,Myra,Gupta,Myra Gupta,employee0864@example.com,Sales,Solutions Engineer,"Bengaluru, India",EMP-0040,PRJ-006,Security Modernization,"Presentations, CRM, Negotiation",03-11-2020,Active
+EMP-0865,Daniel,Malhotra,Daniel Malhotra,employee0865@example.com,Customer Support,Technical Support Engineer,"Pune, India",EMP-0371,PRJ-006,Security Modernization,"Troubleshooting, Documentation, Customer Service",17-05-2023,Active
+EMP-0866,Vihaan,Malhotra,Vihaan Malhotra,employee0866@example.com,Customer Support,Technical Support Engineer,"Hyderabad, India",EMP-0071,PRJ-001,Company Brain AI,"Ticketing, Customer Service, Documentation",05-07-2025,Active
+EMP-0867,Charlotte,Martin,Charlotte Martin,employee0867@example.com,Product,Product Analyst,"Pune, India",EMP-0439,PRJ-007,Support Automation,"User Research, Requirements, Roadmapping",20-11-2022,Active
+EMP-0868,Atharv,Taylor,Atharv Taylor,employee0868@example.com,Marketing,Content Strategist,"London, UK",EMP-0710,PRJ-007,Support Automation,"Analytics, Content, Campaigns",27-05-2022,Active
+EMP-0869,Arjun,Wright,Arjun Wright,employee0869@example.com,Engineering,Frontend Engineer,"Toronto, Canada",EMP-0512,PRJ-003,Customer Portal,"Docker, Python, JavaScript",19-08-2020,Active
+EMP-0870,Meera,Chopra,Meera Chopra,employee0870@example.com,Product,Product Operations Specialist,Singapore,EMP-0224,PRJ-001,Company Brain AI,"User Research, Analytics, Requirements",20-01-2022,Active
+EMP-0871,Liam,Allen,Liam Allen,employee0871@example.com,Sales,Solutions Engineer,"Mumbai, India",EMP-0696,PRJ-003,Customer Portal,"Presentations, CRM, Negotiation",28-09-2023,Active
+EMP-0872,James,Anderson,James Anderson,employee0872@example.com,Engineering,QA Engineer,"Toronto, Canada",EMP-0467,PRJ-001,Company Brain AI,"SQL, System Design, Python",21-05-2020,Active
+EMP-0873,Isabella,Allen,Isabella Allen,employee0873@example.com,Human Resources,HR Manager,"Toronto, Canada",EMP-0182,PRJ-007,Support Automation,"HRIS, Recruiting, Onboarding",13-11-2022,Active
+EMP-0874,Kavya,Thomas,Kavya Thomas,employee0874@example.com,Data & Analytics,Analytics Engineer,Singapore,EMP-0102,PRJ-005,Mobile App,"Statistics, Power BI, Data Modeling",24-06-2026,Inactive
+EMP-0875,Olivia,Patel,Olivia Patel,employee0875@example.com,Product,Product Manager,"Toronto, Canada",EMP-0826,PRJ-007,Support Automation,"Analytics, Roadmapping, Requirements",01-03-2018,Active
+EMP-0876,Advait,Rao,Advait Rao,employee0876@example.com,Marketing,Growth Marketing Manager,"Toronto, Canada",EMP-0360,PRJ-008,Internal Developer Platform,"Analytics, SEO, Brand Strategy",10-03-2023,On Leave
+EMP-0877,Jack,Jackson,Jack Jackson,employee0877@example.com,Customer Support,Support Team Lead,"Delhi, India",EMP-0271,PRJ-001,Company Brain AI,"Customer Service, Documentation, Ticketing",15-03-2021,Active
+EMP-0878,Aarav,White,Aarav White,employee0878@example.com,Finance,Accountant,"Austin, USA",EMP-0615,PRJ-001,Company Brain AI,"Excel, Forecasting, Budgeting",05-03-2017,Active
+EMP-0879,Kavya,Kulkarni,Kavya Kulkarni,employee0879@example.com,Data & Analytics,Analytics Engineer,Singapore,EMP-0652,PRJ-007,Support Automation,"Data Modeling, Statistics, SQL",01-03-2019,Active
+EMP-0880,Harper,Brown,Harper Brown,employee0880@example.com,Data & Analytics,Business Intelligence Analyst,"Hyderabad, India",EMP-0647,PRJ-003,Customer Portal,"Python, SQL, Power BI",27-11-2021,Active
+EMP-0881,Isabella,Young,Isabella Young,employee0881@example.com,Finance,Finance Manager,"Pune, India",EMP-0644,PRJ-003,Customer Portal,"Forecasting, Excel, Budgeting",13-08-2020,Active
+EMP-0882,Isha,Allen,Isha Allen,employee0882@example.com,Data & Analytics,Data Analyst,"Hyderabad, India",EMP-0650,PRJ-002,Payment Platform,"Statistics, SQL, Power BI",01-06-2023,Active
+EMP-0883,Ananya,Rao,Ananya Rao,employee0883@example.com,Human Resources,Talent Acquisition Specialist,"Delhi, India",EMP-0282,PRJ-005,Mobile App,"Employee Relations, HRIS, Onboarding",05-03-2019,Active
+EMP-0884,Daniel,Wright,Daniel Wright,employee0884@example.com,Data & Analytics,Data Analyst,"Hyderabad, India",EMP-0185,PRJ-002,Payment Platform,"Statistics, SQL, Data Modeling",31-03-2018,Active
+EMP-0885,Jack,Malhotra,Jack Malhotra,employee0885@example.com,Customer Support,Customer Success Manager,"Bengaluru, India",EMP-0641,PRJ-007,Support Automation,"Ticketing, Troubleshooting, Customer Service",17-02-2018,Active
+EMP-0886,Henry,Brown,Henry Brown,employee0886@example.com,Finance,Payroll Specialist,"Pune, India",EMP-0676,PRJ-008,Internal Developer Platform,"Forecasting, Reporting, Budgeting",25-01-2026,Active
+EMP-0887,Sai,Wilson,Sai Wilson,employee0887@example.com,Security & IT,IT Support Engineer,"Austin, USA",EMP-0125,PRJ-006,Security Modernization,"Incident Response, Networking, Linux",06-06-2022,Active
+EMP-0888,Neha,Walker,Neha Walker,employee0888@example.com,Engineering,Software Engineer,"Pune, India",EMP-0226,PRJ-003,Customer Portal,"Docker, Python, JavaScript",05-06-2019,Active
+EMP-0889,Diya,Clark,Diya Clark,employee0889@example.com,Data & Analytics,Data Scientist,"Toronto, Canada",EMP-0410,PRJ-004,Data Warehouse,"Power BI, Data Modeling, Python",12-01-2018,On Leave
+EMP-0890,Atharv,Bose,Atharv Bose,employee0890@example.com,Marketing,Content Strategist,"Mumbai, India",EMP-0500,PRJ-007,Support Automation,"Brand Strategy, Campaigns, SEO",26-02-2018,Active
+EMP-0891,Nikhil,Bose,Nikhil Bose,employee0891@example.com,Customer Support,Support Team Lead,"London, UK",EMP-0362,PRJ-006,Security Modernization,"Troubleshooting, Documentation, Customer Service",27-12-2023,Active
+EMP-0892,Ishaan,Verma,Ishaan Verma,employee0892@example.com,Product,UX Designer,"Austin, USA",EMP-0031,PRJ-005,Mobile App,"Analytics, Requirements, Prototyping",01-08-2023,Active
+EMP-0893,Lucas,Kapoor,Lucas Kapoor,employee0893@example.com,Human Resources,People Operations Analyst,"Chennai, India",EMP-0322,PRJ-006,Security Modernization,"Recruiting, Onboarding, Employee Relations",02-10-2019,Active
+EMP-0894,Sophia,Wilson,Sophia Wilson,employee0894@example.com,Human Resources,HR Generalist,"London, UK",EMP-0218,PRJ-004,Data Warehouse,"HRIS, Recruiting, Onboarding",22-03-2022,Active
+EMP-0895,Diya,Scott,Diya Scott,employee0895@example.com,Product,UI Designer,"Chennai, India",EMP-0051,PRJ-002,Payment Platform,"Analytics, Prototyping, User Research",09-06-2023,Active
+EMP-0896,Diya,White,Diya White,employee0896@example.com,Customer Support,Support Specialist,Singapore,EMP-0591,PRJ-002,Payment Platform,"Ticketing, Troubleshooting, Customer Service",24-05-2018,Active
+EMP-0897,Jack,Thompson,Jack Thompson,employee0897@example.com,Engineering,Software Engineer,"Austin, USA",,PRJ-005,Mobile App,"Git, Python, SQL",21-06-2018,Active
+EMP-0898,Muhammad,White,Muhammad White,employee0898@example.com,Product,UX Designer,"Bengaluru, India",EMP-0321,PRJ-005,Mobile App,"Requirements, Prototyping, User Research",31-01-2020,Active
+EMP-0899,Saanvi,Thompson,Saanvi Thompson,employee0899@example.com,Engineering,Data Engineer,Singapore,EMP-0230,PRJ-008,Internal Developer Platform,"JavaScript, Git, APIs",09-07-2026,Active
+EMP-0900,Muhammad,Brown,Muhammad Brown,employee0900@example.com,Engineering,Backend Engineer,"Chennai, India",EMP-0551,PRJ-007,Support Automation,"APIs, Python, JavaScript",17-07-2019,Inactive
+EMP-0901,Henry,Verma,Henry Verma,employee0901@example.com,Engineering,DevOps Engineer,"Chennai, India",EMP-0811,PRJ-002,Payment Platform,"SQL, Python, APIs",16-07-2017,Active
+EMP-0902,Evelyn,Iyer,Evelyn Iyer,employee0902@example.com,Marketing,Content Strategist,Singapore,EMP-0424,PRJ-008,Internal Developer Platform,"Content, Campaigns, SEO",07-05-2018,Active
+EMP-0903,Neha,Kulkarni,Neha Kulkarni,employee0903@example.com,Product,UI Designer,"Toronto, Canada",EMP-0271,PRJ-008,Internal Developer Platform,"Analytics, Requirements, User Research",01-06-2024,Active
+EMP-0904,Sneha,Kulkarni,Sneha Kulkarni,employee0904@example.com,Product,Product Analyst,"Pune, India",EMP-0687,PRJ-004,Data Warehouse,"Roadmapping, Prototyping, User Research",17-10-2024,Active
+EMP-0905,Rohan,Reddy,Rohan Reddy,employee0905@example.com,Finance,Accountant,"Toronto, Canada",EMP-0869,PRJ-006,Security Modernization,"Reporting, Accounting, Forecasting",05-05-2019,Active
+EMP-0906,Jack,Anderson,Jack Anderson,employee0906@example.com,Data & Analytics,Senior Data Analyst,"Mumbai, India",,PRJ-007,Support Automation,"Data Modeling, Python, Statistics",28-01-2022,Active
+EMP-0907,Olivia,Reddy,Olivia Reddy,employee0907@example.com,Marketing,Brand Designer,"Pune, India",EMP-0192,PRJ-003,Customer Portal,"SEO, Brand Strategy, Analytics",04-03-2022,Active
+EMP-0908,Sara,Chopra,Sara Chopra,employee0908@example.com,Customer Support,Support Team Lead,"Mumbai, India",EMP-0515,PRJ-002,Payment Platform,"Troubleshooting, Customer Service, Documentation",05-03-2023,Active
+EMP-0909,Nisha,Bose,Nisha Bose,employee0909@example.com,Human Resources,HR Generalist,"London, UK",EMP-0194,PRJ-006,Security Modernization,"Recruiting, HRIS, Employee Relations",05-02-2018,Active
+EMP-0910,Neha,Scott,Neha Scott,employee0910@example.com,Security & IT,Cloud Security Engineer,"Pune, India",EMP-0114,PRJ-008,Internal Developer Platform,"Linux, Networking, Security",26-10-2022,Active
+EMP-0911,Vikram,Bose,Vikram Bose,employee0911@example.com,Engineering,Software Engineer,Singapore,EMP-0415,PRJ-004,Data Warehouse,"JavaScript, APIs, System Design",27-09-2017,Active
+EMP-0912,Mason,Bose,Mason Bose,employee0912@example.com,Product,Associate Product Manager,"Delhi, India",EMP-0295,PRJ-008,Internal Developer Platform,"User Research, Prototyping, Analytics",23-04-2019,Active
+EMP-0913,Karan,Green,Karan Green,employee0913@example.com,Product,Associate Product Manager,"Chennai, India",EMP-0171,PRJ-008,Internal Developer Platform,"Requirements, User Research, Roadmapping",16-04-2025,Active
+EMP-0914,Aarav,Clark,Aarav Clark,employee0914@example.com,Customer Support,Technical Support Engineer,"Bengaluru, India",EMP-0779,PRJ-007,Support Automation,"Troubleshooting, Ticketing, Customer Service",30-09-2020,Active
+EMP-0915,Rahul,Wright,Rahul Wright,employee0915@example.com,Security & IT,Cloud Security Engineer,"Pune, India",EMP-0581,PRJ-001,Company Brain AI,"Cloud, Linux, Networking",24-06-2022,Active
+EMP-0916,Neha,Walker,Neha Walker,employee0916@example.com,Marketing,Content Strategist,"Delhi, India",EMP-0344,PRJ-003,Customer Portal,"Content, SEO, Analytics",20-06-2025,Active
+EMP-0917,Noah,Lewis,Noah Lewis,employee0917@example.com,Human Resources,HR Manager,"Delhi, India",EMP-0913,PRJ-005,Mobile App,"Onboarding, Recruiting, Employee Relations",01-02-2021,Active
+EMP-0918,Sai,Bose,Sai Bose,employee0918@example.com,Security & IT,Systems Administrator,"Hyderabad, India",EMP-0032,PRJ-001,Company Brain AI,"Linux, Cloud, Security",29-08-2018,Active
+EMP-0919,Advait,Mehta,Advait Mehta,employee0919@example.com,Finance,Finance Manager,"Austin, USA",EMP-0461,PRJ-004,Data Warehouse,"Excel, Accounting, Budgeting",28-03-2021,Inactive
+EMP-0920,Aadhya,Taylor,Aadhya Taylor,employee0920@example.com,Operations,Operations Manager,"Mumbai, India",,PRJ-006,Security Modernization,"Reporting, Planning, Vendor Management",21-05-2021,Active
+EMP-0921,Kavya,Thompson,Kavya Thompson,employee0921@example.com,Human Resources,HR Generalist,"Hyderabad, India",EMP-0154,PRJ-006,Security Modernization,"Recruiting, Onboarding, Employee Relations",27-03-2020,Active
+EMP-0922,Sneha,Joshi,Sneha Joshi,employee0922@example.com,Marketing,Brand Designer,"Pune, India",EMP-0223,PRJ-005,Mobile App,"Campaigns, SEO, Content",18-06-2022,Active
+EMP-0923,Vihaan,Lewis,Vihaan Lewis,employee0923@example.com,Security & IT,IT Support Engineer,"Pune, India",,PRJ-005,Mobile App,"Linux, Security, Incident Response",21-01-2017,Active
+EMP-0924,Noah,Young,Noah Young,employee0924@example.com,Marketing,Brand Designer,"Mumbai, India",EMP-0083,PRJ-003,Customer Portal,"Campaigns, Content, Brand Strategy",19-12-2017,Active
+EMP-0925,Evelyn,Taylor,Evelyn Taylor,employee0925@example.com,Engineering,Machine Learning Engineer,"Bengaluru, India",EMP-0310,PRJ-004,Data Warehouse,"Git, Testing, System Design",07-02-2026,Active
+EMP-0926,Kavya,Brown,Kavya Brown,employee0926@example.com,Data & Analytics,Analytics Engineer,"London, UK",EMP-0309,PRJ-003,Customer Portal,"Python, Power BI, SQL",30-08-2024,Active
+EMP-0927,Evelyn,Thompson,Evelyn Thompson,employee0927@example.com,Marketing,Brand Designer,"Austin, USA",EMP-0321,PRJ-003,Customer Portal,"Analytics, SEO, Brand Strategy",20-03-2021,Active
+EMP-0928,Sara,Harris,Sara Harris,employee0928@example.com,Human Resources,People Operations Analyst,"Austin, USA",,PRJ-008,Internal Developer Platform,"Onboarding, Employee Relations, Recruiting",19-09-2021,Active
+EMP-0929,Isha,Pillai,Isha Pillai,employee0929@example.com,Product,Associate Product Manager,Singapore,EMP-0580,PRJ-004,Data Warehouse,"Prototyping, Requirements, Roadmapping",06-07-2023,Active
+EMP-0930,Ayaan,Jackson,Ayaan Jackson,employee0930@example.com,Engineering,Data Engineer,"Bengaluru, India",,PRJ-001,Company Brain AI,"System Design, Git, Python",11-03-2022,Active
+EMP-0931,Nikhil,Reddy,Nikhil Reddy,employee0931@example.com,Product,Product Analyst,"Bengaluru, India",EMP-0691,PRJ-005,Mobile App,"Analytics, Requirements, Roadmapping",06-05-2023,Active
+EMP-0932,Neha,Khan,Neha Khan,employee0932@example.com,Engineering,Frontend Engineer,"Hyderabad, India",EMP-0319,PRJ-008,Internal Developer Platform,"Testing, Docker, Git",13-07-2018,Active
+EMP-0933,Isha,Desai,Isha Desai,employee0933@example.com,Engineering,Machine Learning Engineer,"Bengaluru, India",EMP-0254,PRJ-002,Payment Platform,"Python, JavaScript, SQL",03-10-2017,Active
+EMP-0934,Isabella,Walker,Isabella Walker,employee0934@example.com,Customer Support,Support Specialist,"London, UK",EMP-0189,PRJ-008,Internal Developer Platform,"Troubleshooting, Ticketing, Customer Service",20-05-2021,Active
+EMP-0935,James,Green,James Green,employee0935@example.com,Operations,Program Coordinator,"Pune, India",EMP-0839,PRJ-008,Internal Developer Platform,"Process Improvement, Planning, Reporting",21-08-2026,Active
+EMP-0936,Karan,Allen,Karan Allen,employee0936@example.com,Sales,Sales Development Representative,"Bengaluru, India",EMP-0505,PRJ-004,Data Warehouse,"Presentations, Negotiation, Account Planning",05-05-2022,Active
+EMP-0937,Pari,Reddy,Pari Reddy,employee0937@example.com,Marketing,Growth Marketing Manager,"Delhi, India",EMP-0578,PRJ-008,Internal Developer Platform,"Analytics, Content, SEO",04-09-2021,Active
+EMP-0938,Aditya,Green,Aditya Green,employee0938@example.com,Security & IT,Cloud Security Engineer,"Toronto, Canada",EMP-0163,PRJ-008,Internal Developer Platform,"Security, Cloud, Linux",24-06-2017,Active
+EMP-0939,Sara,Hall,Sara Hall,employee0939@example.com,Operations,Operations Manager,"Chennai, India",EMP-0577,PRJ-007,Support Automation,"Process Improvement, Reporting, Vendor Management",03-10-2022,Active
+EMP-0940,Lucas,Pillai,Lucas Pillai,employee0940@example.com,Data & Analytics,Data Scientist,Singapore,EMP-0590,PRJ-007,Support Automation,"Statistics, Data Modeling, Python",07-10-2017,Active
+EMP-0941,Ayaan,Brown,Ayaan Brown,employee0941@example.com,Operations,Program Coordinator,"Pune, India",EMP-0163,PRJ-006,Security Modernization,"Reporting, Process Improvement, Vendor Management",23-07-2023,Active
+EMP-0942,Evelyn,Clark,Evelyn Clark,employee0942@example.com,Product,UX Designer,"Hyderabad, India",EMP-0394,PRJ-006,Security Modernization,"User Research, Prototyping, Roadmapping",10-07-2025,Active
+EMP-0943,Vihaan,Green,Vihaan Green,employee0943@example.com,Finance,Financial Analyst,"Chennai, India",EMP-0861,PRJ-005,Mobile App,"Excel, Reporting, Forecasting",14-04-2018,Active
+EMP-0944,Muhammad,Martin,Muhammad Martin,employee0944@example.com,Data & Analytics,Data Scientist,"Delhi, India",EMP-0696,PRJ-007,Support Automation,"Data Modeling, Python, SQL",30-06-2018,Active
+EMP-0945,Kavya,Hall,Kavya Hall,employee0945@example.com,Sales,Sales Development Representative,"Mumbai, India",,PRJ-004,Data Warehouse,"CRM, Account Planning, Presentations",19-12-2017,Active
+EMP-0946,Mia,White,Mia White,employee0946@example.com,Engineering,QA Engineer,"Austin, USA",EMP-0853,PRJ-002,Payment Platform,"APIs, Docker, Git",27-10-2020,Active
+EMP-0947,Sara,Green,Sara Green,employee0947@example.com,Customer Support,Customer Success Manager,"London, UK",EMP-0583,PRJ-003,Customer Portal,"Troubleshooting, Customer Service, Documentation",28-12-2025,Active
+EMP-0948,Muhammad,Nair,Muhammad Nair,employee0948@example.com,Operations,Program Coordinator,"Pune, India",EMP-0297,PRJ-008,Internal Developer Platform,"Process Improvement, Vendor Management, Planning",03-08-2019,On Leave
+EMP-0949,Sophia,Taylor,Sophia Taylor,employee0949@example.com,Marketing,Growth Marketing Manager,Singapore,EMP-0531,PRJ-002,Payment Platform,"Campaigns, SEO, Brand Strategy",09-10-2018,On Leave
+EMP-0950,Riya,Green,Riya Green,employee0950@example.com,Operations,Program Coordinator,"Delhi, India",EMP-0034,PRJ-001,Company Brain AI,"Process Improvement, Vendor Management, Planning",15-02-2023,Active
+EMP-0951,Myra,Singh,Myra Singh,employee0951@example.com,Marketing,Content Strategist,"Pune, India",EMP-0075,PRJ-003,Customer Portal,"Brand Strategy, Campaigns, Analytics",17-04-2019,Active
+EMP-0952,Sara,Gupta,Sara Gupta,employee0952@example.com,Security & IT,IT Support Engineer,"Toronto, Canada",EMP-0278,PRJ-007,Support Automation,"Incident Response, Networking, Security",17-09-2023,Active
+EMP-0953,Rohan,Walker,Rohan Walker,employee0953@example.com,Product,Product Manager,"Delhi, India",EMP-0898,PRJ-004,Data Warehouse,"Requirements, Analytics, User Research",17-04-2024,Inactive
+EMP-0954,Vivaan,Desai,Vivaan Desai,employee0954@example.com,Engineering,Software Engineer,"Pune, India",EMP-0387,PRJ-007,Support Automation,"Python, SQL, Testing",25-08-2024,Active
+EMP-0955,Sneha,Iyer,Sneha Iyer,employee0955@example.com,Finance,Payroll Specialist,"Mumbai, India",EMP-0941,PRJ-002,Payment Platform,"Excel, Accounting, Forecasting",29-11-2021,Active
+EMP-0956,Pooja,Sharma,Pooja Sharma,employee0956@example.com,Sales,Account Executive,"Pune, India",,PRJ-004,Data Warehouse,"CRM, Presentations, Account Planning",19-08-2021,Active
+EMP-0957,Aditya,Brown,Aditya Brown,employee0957@example.com,Data & Analytics,Data Scientist,Singapore,EMP-0674,PRJ-006,Security Modernization,"Python, Power BI, SQL",04-10-2023,Active
+EMP-0958,Aadhya,Allen,Aadhya Allen,employee0958@example.com,Product,Product Manager,"Delhi, India",EMP-0799,PRJ-004,Data Warehouse,"Requirements, User Research, Analytics",21-07-2022,Active
+EMP-0959,Harper,Bose,Harper Bose,employee0959@example.com,Sales,Account Manager,"London, UK",EMP-0637,PRJ-006,Security Modernization,"CRM, Presentations, Negotiation",29-10-2024,Active
+EMP-0960,Jack,Iyer,Jack Iyer,employee0960@example.com,Product,Associate Product Manager,"Chennai, India",EMP-0807,PRJ-004,Data Warehouse,"Prototyping, User Research, Roadmapping",03-06-2020,Active
+EMP-0961,Olivia,Thompson,Olivia Thompson,employee0961@example.com,Sales,Solutions Engineer,"Delhi, India",EMP-0308,PRJ-002,Payment Platform,"Presentations, CRM, Negotiation",29-03-2017,Active
+EMP-0962,Diya,Green,Diya Green,employee0962@example.com,Product,Product Manager,"Toronto, Canada",,PRJ-007,Support Automation,"Roadmapping, Analytics, User Research",22-07-2022,Active
+EMP-0963,Amit,Singh,Amit Singh,employee0963@example.com,Data & Analytics,Business Intelligence Analyst,Singapore,EMP-0345,PRJ-005,Mobile App,"Data Modeling, Power BI, SQL",09-05-2017,On Leave
+EMP-0964,Advait,Patel,Advait Patel,employee0964@example.com,Marketing,Brand Designer,"Pune, India",EMP-0567,PRJ-006,Security Modernization,"Brand Strategy, Analytics, Content",20-02-2025,Active
+EMP-0965,Priya,Harris,Priya Harris,employee0965@example.com,Marketing,Brand Designer,"Mumbai, India",EMP-0016,PRJ-005,Mobile App,"Analytics, Brand Strategy, Campaigns",28-10-2018,Active
+EMP-0966,Ananya,Allen,Ananya Allen,employee0966@example.com,Marketing,Marketing Specialist,Singapore,EMP-0276,PRJ-005,Mobile App,"Brand Strategy, Analytics, SEO",14-10-2020,Active
+EMP-0967,Sai,Pillai,Sai Pillai,employee0967@example.com,Security & IT,IT Support Engineer,"Toronto, Canada",,PRJ-006,Security Modernization,"Security, Cloud, Linux",18-05-2026,Active
+EMP-0968,Rahul,Young,Rahul Young,employee0968@example.com,Engineering,QA Engineer,"Delhi, India",EMP-0565,PRJ-004,Data Warehouse,"Python, SQL, System Design",01-08-2021,Active
+EMP-0969,Shaurya,Chopra,Shaurya Chopra,employee0969@example.com,Product,UX Designer,"Hyderabad, India",EMP-0633,PRJ-005,Mobile App,"Analytics, User Research, Roadmapping",30-11-2019,Active
+EMP-0970,Olivia,Verma,Olivia Verma,employee0970@example.com,Sales,Account Executive,"Pune, India",EMP-0234,PRJ-003,Customer Portal,"Presentations, Account Planning, Negotiation",04-09-2024,Active
+EMP-0971,Vivaan,Taylor,Vivaan Taylor,employee0971@example.com,Marketing,SEO Analyst,"Bengaluru, India",EMP-0116,PRJ-001,Company Brain AI,"Content, Campaigns, SEO",26-09-2023,Active
+EMP-0972,Anika,King,Anika King,employee0972@example.com,Sales,Sales Development Representative,"Delhi, India",EMP-0335,PRJ-006,Security Modernization,"Presentations, CRM, Negotiation",20-04-2026,Active
+EMP-0973,Meera,Anderson,Meera Anderson,employee0973@example.com,Human Resources,HR Manager,"Pune, India",EMP-0154,PRJ-008,Internal Developer Platform,"Recruiting, Onboarding, Employee Relations",19-04-2020,Active
+EMP-0974,Nikhil,Malhotra,Nikhil Malhotra,employee0974@example.com,Engineering,Senior Software Engineer,Singapore,,PRJ-006,Security Modernization,"Docker, JavaScript, Testing",24-09-2022,Active
+EMP-0975,Arjun,Rao,Arjun Rao,employee0975@example.com,Finance,Financial Analyst,"Toronto, Canada",EMP-0533,PRJ-007,Support Automation,"Excel, Reporting, Accounting",17-01-2023,Active
+EMP-0976,Isabella,King,Isabella King,employee0976@example.com,Marketing,Content Strategist,"Mumbai, India",EMP-0767,PRJ-005,Mobile App,"Campaigns, Content, Analytics",27-09-2019,Inactive
+EMP-0977,Mason,White,Mason White,employee0977@example.com,Sales,Solutions Engineer,"Chennai, India",EMP-0620,PRJ-006,Security Modernization,"Account Planning, Presentations, CRM",23-11-2017,Active
+EMP-0978,Vikram,Iyer,Vikram Iyer,employee0978@example.com,Finance,Accountant,"Delhi, India",EMP-0350,PRJ-004,Data Warehouse,"Budgeting, Forecasting, Accounting",16-09-2025,Active
+EMP-0979,Meera,Walker,Meera Walker,employee0979@example.com,Product,UX Designer,"Toronto, Canada",,PRJ-003,Customer Portal,"Analytics, User Research, Roadmapping",18-06-2023,Active
+EMP-0980,Sophia,Clark,Sophia Clark,employee0980@example.com,Marketing,Brand Designer,"Hyderabad, India",EMP-0136,PRJ-002,Payment Platform,"SEO, Analytics, Brand Strategy",02-06-2018,Active
+EMP-0981,Harper,Harris,Harper Harris,employee0981@example.com,Operations,Procurement Specialist,"Delhi, India",EMP-0919,PRJ-006,Security Modernization,"Reporting, Vendor Management, Process Improvement",07-06-2018,Active
+EMP-0982,Mason,Verma,Mason Verma,employee0982@example.com,Human Resources,HR Generalist,"Toronto, Canada",EMP-0447,PRJ-002,Payment Platform,"HRIS, Employee Relations, Onboarding",14-04-2025,Active
+EMP-0983,Mason,Kapoor,Mason Kapoor,employee0983@example.com,Customer Support,Technical Support Engineer,"Toronto, Canada",EMP-0450,PRJ-002,Payment Platform,"Troubleshooting, Documentation, Customer Service",16-09-2018,Active
+EMP-0984,Mia,Reddy,Mia Reddy,employee0984@example.com,Security & IT,Cloud Security Engineer,Singapore,EMP-0538,PRJ-004,Data Warehouse,"Linux, Security, Networking",02-05-2020,Active
+EMP-0985,Anika,Thomas,Anika Thomas,employee0985@example.com,Finance,Finance Manager,"Mumbai, India",EMP-0285,PRJ-006,Security Modernization,"Forecasting, Reporting, Excel",29-06-2025,Active
+EMP-0986,Muhammad,Taylor,Muhammad Taylor,employee0986@example.com,Security & IT,Cloud Security Engineer,"Toronto, Canada",EMP-0907,PRJ-005,Mobile App,"Networking, Security, Cloud",10-11-2018,Active
+EMP-0987,Ethan,Reddy,Ethan Reddy,employee0987@example.com,Marketing,Brand Designer,"Mumbai, India",EMP-0521,PRJ-004,Data Warehouse,"Campaigns, Content, SEO",22-06-2024,Active
+EMP-0988,Harper,Allen,Harper Allen,employee0988@example.com,Engineering,Software Engineer,"Chennai, India",EMP-0965,PRJ-004,Data Warehouse,"System Design, Git, Python",28-01-2017,On Leave
+EMP-0989,Neha,Iyer,Neha Iyer,employee0989@example.com,Finance,Payroll Specialist,"London, UK",EMP-0089,PRJ-008,Internal Developer Platform,"Excel, Reporting, Forecasting",23-04-2020,Active
+EMP-0990,Sara,Mehta,Sara Mehta,employee0990@example.com,Marketing,Marketing Specialist,"Austin, USA",EMP-0465,PRJ-004,Data Warehouse,"SEO, Campaigns, Brand Strategy",27-02-2025,Active
+EMP-0991,Sophia,Brown,Sophia Brown,employee0991@example.com,Operations,Operations Analyst,"Mumbai, India",EMP-0677,PRJ-001,Company Brain AI,"Process Improvement, Vendor Management, Planning",11-11-2021,Active
+EMP-0992,Ananya,Iyer,Ananya Iyer,employee0992@example.com,Engineering,Software Engineer,"Hyderabad, India",EMP-0192,PRJ-007,Support Automation,"Testing, APIs, System Design",21-06-2019,Active
+EMP-0993,Atharv,Mehta,Atharv Mehta,employee0993@example.com,Marketing,Content Strategist,"Austin, USA",EMP-0728,PRJ-004,Data Warehouse,"Analytics, SEO, Content",14-01-2017,Active
+EMP-0994,Isha,Thomas,Isha Thomas,employee0994@example.com,Finance,Finance Manager,"Hyderabad, India",EMP-0861,PRJ-004,Data Warehouse,"Accounting, Budgeting, Reporting",26-02-2024,Active
+EMP-0995,Rohan,Jackson,Rohan Jackson,employee0995@example.com,Marketing,Growth Marketing Manager,"Mumbai, India",EMP-0903,PRJ-006,Security Modernization,"Analytics, Campaigns, SEO",04-02-2023,Active
+EMP-0996,Nisha,Brown,Nisha Brown,employee0996@example.com,Marketing,Growth Marketing Manager,"Toronto, Canada",EMP-0677,PRJ-004,Data Warehouse,"Analytics, SEO, Brand Strategy",06-06-2024,Active
+EMP-0997,Mia,Clark,Mia Clark,employee0997@example.com,Finance,Accountant,"Delhi, India",EMP-0221,PRJ-008,Internal Developer Platform,"Budgeting, Forecasting, Excel",28-09-2023,Active
+EMP-0998,Sneha,Brown,Sneha Brown,employee0998@example.com,Finance,Financial Analyst,"Toronto, Canada",EMP-0267,PRJ-005,Mobile App,"Accounting, Budgeting, Forecasting",27-07-2024,Active
+EMP-0999,Mason,Rao,Mason Rao,employee0999@example.com,Marketing,Growth Marketing Manager,"London, UK",EMP-0897,PRJ-006,Security Modernization,"SEO, Campaigns, Content",20-02-2024,Active
+EMP-1000,Isha,Green,Isha Green,employee1000@example.com,Sales,Account Executive,"London, UK",EMP-0722,PRJ-006,Security Modernization,"CRM, Account Planning, Presentations",14-06-2018,Active

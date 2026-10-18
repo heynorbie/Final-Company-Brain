@@ -1,0 +1,30 @@
+.env
+.env.*
+!.env.example
+.venv/
+.venv312/
+venv/
+__pycache__/
+*.py[cod]
+node_modules/
+dist/
+
+# Archive backups
+*.rar
+*.zip
+
+# Python
+.venv/
+.venv312/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Frontend
+node_modules/
+dist/
